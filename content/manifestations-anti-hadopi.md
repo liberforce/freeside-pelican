@@ -1,8 +1,8 @@
 Title: Manifestations anti-HADOPI
 Date: 2009-04-26 17:11
+Author: liberforce
 Category: Politics / Politique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: HADOPI
 Slug: manifestations-anti-hadopi
 Status: published
 

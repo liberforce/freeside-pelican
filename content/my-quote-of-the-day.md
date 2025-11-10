@@ -1,8 +1,8 @@
 Title: My quote of the day
 Date: 2007-09-26 00:50
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: my-quote-of-the-day
 Status: published
 

@@ -1,8 +1,8 @@
 Title: Hasta la Vista...
 Date: 2007-09-26 01:06
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: hasta-la-vista
 Status: published
 

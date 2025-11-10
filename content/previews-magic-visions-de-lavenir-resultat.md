@@ -1,8 +1,8 @@
 Title: Previews Magic: Visions de l'avenir - résultat
 Date: 2007-10-01 17:32
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: MTG
 Slug: previews-magic-visions-de-lavenir-resultat
 Status: published
 

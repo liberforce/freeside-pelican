@@ -1,8 +1,8 @@
 Title: 24 seconds !
 Date: 2008-10-16 22:40
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: linux, boot time, mandriva
 Slug: 24-seconds
 Status: published
 

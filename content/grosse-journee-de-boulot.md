@@ -1,8 +1,8 @@
 Title: Grosse journée de boulot
 Date: 2007-10-01 17:37
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: jamendo
 Slug: grosse-journee-de-boulot
 Status: published
 

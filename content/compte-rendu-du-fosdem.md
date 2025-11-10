@@ -1,8 +1,8 @@
 Title: Compte rendu du FOSDEM
 Date: 2007-09-26 22:19
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: FOSDEM, bande dessinée
 Slug: compte-rendu-du-fosdem
 Status: published
 

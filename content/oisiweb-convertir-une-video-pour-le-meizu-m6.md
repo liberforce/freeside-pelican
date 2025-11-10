@@ -1,8 +1,8 @@
 Title: Oisiweb : Convertir une vidéo pour le Meizu M6
 Date: 2007-11-11 02:13
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: gstreamer, baladeur numérique
 Slug: oisiweb-convertir-une-video-pour-le-meizu-m6
 Status: published
 

@@ -1,8 +1,8 @@
 Title: Next step to rule the world : done
 Date: 2008-04-09 19:06
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: mandriva
 Slug: next-step-to-rule-the-world-done
 Status: published
 

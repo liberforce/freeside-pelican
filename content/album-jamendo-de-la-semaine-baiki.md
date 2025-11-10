@@ -1,8 +1,8 @@
 Title: Album Jamendo de la semaine: Baïki
 Date: 2007-10-01 17:43
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: jamendo
 Slug: album-jamendo-de-la-semaine-baiki
 Status: published
 

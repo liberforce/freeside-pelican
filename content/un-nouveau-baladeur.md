@@ -1,8 +1,8 @@
 Title: Un nouveau baladeur...
 Date: 2009-08-19 00:31
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: gstreamer, baladeur numérique
 Slug: un-nouveau-baladeur
 Status: published
 

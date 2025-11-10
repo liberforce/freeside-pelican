@@ -1,8 +1,8 @@
 Title: Rude retour en perspective
 Date: 2007-09-26 00:53
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: rude-retour-en-perspective
 Status: published
 

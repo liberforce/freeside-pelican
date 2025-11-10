@@ -1,8 +1,8 @@
 Title: On the private front...
 Date: 2010-04-03 01:46
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: on-the-private-front
 Status: published
 

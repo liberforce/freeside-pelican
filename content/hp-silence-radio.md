@@ -1,8 +1,8 @@
 Title: HP: silence radio
 Date: 2008-11-03 20:36
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: hp, racketiciel
 Slug: hp-silence-radio
 Status: published
 

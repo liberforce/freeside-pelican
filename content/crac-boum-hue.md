@@ -1,8 +1,8 @@
 Title: Crac boum hue !
 Date: 2008-10-17 00:17
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: appartement
 Slug: crac-boum-hue
 Status: published
 

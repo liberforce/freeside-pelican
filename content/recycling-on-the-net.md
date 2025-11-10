@@ -1,8 +1,8 @@
 Title: Recycling on the net...
 Date: 2007-09-26 01:03
+Author: liberforce
 Category: Ecology  / Ecologie
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: recycling-on-the-net
 Status: published
 

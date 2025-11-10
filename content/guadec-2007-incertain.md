@@ -1,8 +1,8 @@
 Title: GUADEC 2007 incertain...
 Date: 2007-09-26 22:58
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: GUADEC
 Slug: guadec-2007-incertain
 Status: published
 

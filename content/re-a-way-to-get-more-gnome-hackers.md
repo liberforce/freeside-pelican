@@ -1,8 +1,8 @@
 Title: Re: a way to get more GNOME hackers
 Date: 2007-10-01 17:38
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: mandriva, GNOME
 Slug: re-a-way-to-get-more-gnome-hackers
 Status: published
 

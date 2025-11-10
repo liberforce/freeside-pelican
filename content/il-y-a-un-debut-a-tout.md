@@ -1,8 +1,8 @@
 Title: Il y a un début à tout...
 Date: 2007-09-26 00:38
+Author: liberforce
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: il-y-a-un-debut-a-tout
 Status: published
 

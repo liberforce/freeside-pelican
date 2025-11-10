@@ -1,8 +1,8 @@
 Title: Bientôt le passage chez le notaire...
 Date: 2008-08-18 01:38
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: loi, immobilier
 Slug: bientot-le-passage-chez-le-notaire
 Status: published
 

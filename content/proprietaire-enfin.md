@@ -1,8 +1,8 @@
 Title: Propriétaire... Enfin !
 Date: 2008-10-11 00:17
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: appartement
 Slug: proprietaire-enfin
 Status: published
 

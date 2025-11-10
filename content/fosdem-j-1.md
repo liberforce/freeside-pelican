@@ -1,8 +1,8 @@
 Title: FOSDEM: J - 1
 Date: 2007-09-26 22:21
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: FOSDEM
 Slug: fosdem-j-1
 Status: published
 

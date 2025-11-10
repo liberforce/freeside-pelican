@@ -1,8 +1,8 @@
 Title: Olympia = spammeur
 Date: 2008-07-23 19:44
+Author: liberforce
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: publicité
 Slug: olympia-spammeur
 Status: published
 

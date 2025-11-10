@@ -1,8 +1,8 @@
 Title: Process wakeups on GNOME 2.18
 Date: 2007-12-11 00:44
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: écologie, GNOME
 Slug: process-wakeups-on-gnome-218
 Status: published
 

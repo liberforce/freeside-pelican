@@ -1,8 +1,8 @@
 Title: Tacle en règle (?)
 Date: 2007-11-26 16:14
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: GNOME
 Slug: tacle-en-regle
 Status: published
 

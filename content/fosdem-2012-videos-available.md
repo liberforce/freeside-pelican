@@ -1,8 +1,8 @@
 Title: FOSDEM 2012 videos available !
 Date: 2012-02-14 09:35
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: FOSDEM
 Slug: fosdem-2012-videos-available
 Status: published
 

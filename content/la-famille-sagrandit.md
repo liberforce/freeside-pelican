@@ -1,8 +1,8 @@
 Title: La famille s'agrandit...
 Date: 2007-12-04 00:13
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: la-famille-sagrandit
 Status: published
 

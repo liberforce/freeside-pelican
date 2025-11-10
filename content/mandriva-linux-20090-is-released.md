@@ -1,8 +1,8 @@
 Title: Mandriva Linux 2009.0 is released !
 Date: 2008-10-09 12:44
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: mandriva
 Slug: mandriva-linux-20090-is-released
 Status: published
 

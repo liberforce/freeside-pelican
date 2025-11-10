@@ -1,8 +1,8 @@
 Title: De retour du Portugal, 1 semaine déjà...
 Date: 2007-09-26 01:16
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: eurovision
 Slug: de-retour-du-portugal-1-semaine-deja
 Status: published
 

@@ -1,8 +1,8 @@
 Title: Choisir son baladeur numérique - partie 2
 Date: 2007-10-21 22:32
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: matériel, baladeur numérique
 Slug: choisir-son-baladeur-numerique-partie-2
 Status: published
 

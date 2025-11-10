@@ -1,8 +1,8 @@
 Title: Vivant
 Date: 2008-12-01 01:34
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: rumeur
 Slug: vivant
 Status: published
 

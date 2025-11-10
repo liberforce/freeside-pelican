@@ -1,8 +1,8 @@
 Title: Un nouveau spammeur sur planète GNOME-FR !
 Date: 2007-09-26 23:12
+Author: liberforce
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: GNOME
 Slug: un-nouveau-spammeur-sur-planete-gnome-fr
 Status: published
 

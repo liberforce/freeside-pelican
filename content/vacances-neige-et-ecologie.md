@@ -1,8 +1,8 @@
 Title: Vacances, neige et écologie
 Date: 2007-09-26 00:56
+Author: liberforce
 Category: Ecology  / Ecologie
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: vacances-neige-et-ecologie
 Status: published
 

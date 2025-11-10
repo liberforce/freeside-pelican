@@ -1,8 +1,8 @@
 Title: GNOME tip of the day
 Date: 2007-09-26 01:04
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: GNOME
 Slug: gnome-tip-of-the-day
 Status: published
 

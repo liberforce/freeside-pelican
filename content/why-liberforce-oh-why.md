@@ -1,8 +1,8 @@
 Title: Why liberforce, oh why ?
 Date: 2007-09-26 22:14
+Author: liberforce
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: why-liberforce-oh-why
 Status: published
 

@@ -1,8 +1,8 @@
 Title: git-bz and Firefox
 Date: 2012-07-30 15:50
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: git, GNOME
 Slug: git-bz-and-firefox
 Status: published
 

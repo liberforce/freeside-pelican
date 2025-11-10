@@ -1,8 +1,8 @@
 Title: Bye bye planet mandriva
 Date: 2013-02-06 17:39
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: mageia, mandriva
 Slug: bye-bye-planet-mandriva
 Status: published
 

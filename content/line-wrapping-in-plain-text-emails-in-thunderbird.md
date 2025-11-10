@@ -1,8 +1,8 @@
 Title: Line wrapping in plain text emails in Thunderbird
 Date: 2013-11-22 10:39
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: line-wrapping-in-plain-text-emails-in-thunderbird
 Status: published
 

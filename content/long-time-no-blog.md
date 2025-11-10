@@ -1,8 +1,8 @@
 Title: Long time no blog...
 Date: 2008-01-19 01:50
+Author: liberforce
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: GNOME, jamendo
 Slug: long-time-no-blog
 Status: published
 

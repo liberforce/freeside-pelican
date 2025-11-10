@@ -1,8 +1,8 @@
 Title: You sexy thing...
 Date: 2007-09-26 21:59
+Author: liberforce
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: you-sexy-thing
 Status: published
 

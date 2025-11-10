@@ -1,8 +1,8 @@
 Title: FOSDEM 2015
 Date: 2015-02-01 12:03
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: GNOME, FOSDEM
 Slug: fosdem-2015
 Status: published
 

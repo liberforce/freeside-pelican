@@ -1,8 +1,8 @@
 Title: About E-waste
 Date: 2007-11-27 17:09
+Author: liberforce
 Category: Ecology  / Ecologie
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: matériel, consommation, écologie
 Slug: about-e-waste
 Status: published
 

@@ -1,8 +1,8 @@
 Title: Recycling and the art of BadRAM...
 Date: 2007-09-26 00:57
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: recyclage, matériel, mandriva
 Slug: recycling-and-the-art-of-badram
 Status: published
 

@@ -1,8 +1,8 @@
 Title: Why I don't use Beryl/Compiz
 Date: 2007-09-26 01:08
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: why-i-dont-use-berylcompiz
 Status: published
 

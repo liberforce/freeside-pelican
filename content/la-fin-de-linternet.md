@@ -1,8 +1,8 @@
 Title: La fin de l'Internet ?
 Date: 2007-09-26 01:00
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: la-fin-de-linternet
 Status: published
 

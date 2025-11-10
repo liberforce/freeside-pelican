@@ -1,8 +1,8 @@
 Title: Déprime publicitaire
 Date: 2007-11-29 23:38
+Author: liberforce
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: publicité
 Slug: deprime-publicitaire
 Status: published
 

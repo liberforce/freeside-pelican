@@ -1,8 +1,8 @@
 Title: Quoi de neuf docteur ?
 Date: 2007-09-26 21:51
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: GNOME
 Slug: quoi-de-neuf-docteur
 Status: published
 

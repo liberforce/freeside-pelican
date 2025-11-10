@@ -1,8 +1,8 @@
 Title: 30, but not the way I thought...
 Date: 2009-11-09 23:58
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: 30-but-not-the-way-i-thought
 Status: published
 

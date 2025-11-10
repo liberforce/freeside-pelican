@@ -1,8 +1,8 @@
 Title: Comment migrer vers Dotclear ?
 Date: 2007-09-26 01:18
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: comment-migrer-vers-dotclear
 Status: published
 

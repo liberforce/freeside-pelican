@@ -1,8 +1,8 @@
 Title: (M|T)aux de tête
 Date: 2007-09-26 01:09
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: mtaux-de-tete
 Status: published
 

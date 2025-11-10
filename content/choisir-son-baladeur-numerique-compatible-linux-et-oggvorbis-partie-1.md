@@ -1,8 +1,8 @@
 Title: Choisir son baladeur numérique compatible Linux et Ogg/Vorbis - partie 1
 Date: 2007-10-11 23:51
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: baladeur numérique, linux, ogg
 Slug: choisir-son-baladeur-numerique-compatible-linux-et-oggvorbis-partie-1
 Status: published
 

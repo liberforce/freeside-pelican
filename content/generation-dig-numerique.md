@@ -1,8 +1,8 @@
 Title: Génération dig.. numérique
 Date: 2007-09-26 22:20
+Author: liberforce
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: generation-dig-numerique
 Status: published
 

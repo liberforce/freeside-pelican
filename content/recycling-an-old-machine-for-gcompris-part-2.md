@@ -1,8 +1,8 @@
 Title: Recycling an old machine for gcompris - part 2
 Date: 2007-09-26 22:26
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: recyclage, matériel
 Slug: recycling-an-old-machine-for-gcompris-part-2
 Status: published
 

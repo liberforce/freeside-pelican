@@ -1,8 +1,8 @@
 Title: Number of the day: 185 !
 Date: 2007-10-01 17:41
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: GNOME
 Slug: number-of-the-day-185
 Status: published
 

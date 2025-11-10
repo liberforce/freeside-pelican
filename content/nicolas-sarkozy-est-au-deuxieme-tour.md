@@ -1,8 +1,8 @@
 Title: Nicolas Sarkozy est au deuxième tour...
 Date: 2007-10-01 17:33
+Author: liberforce
 Category: Politics / Politique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: nicolas-sarkozy-est-au-deuxieme-tour
 Status: published
 

@@ -1,8 +1,8 @@
 Title: Feuilles de personnages Star Wars D6
 Date: 2012-01-17 12:59
+Author: liberforce
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: star wars
 Slug: feuilles-de-personnages-star-wars-d6
 Status: published
 

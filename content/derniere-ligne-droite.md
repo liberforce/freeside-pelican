@@ -1,8 +1,8 @@
 Title: Dernière ligne droite...
 Date: 2009-02-16 02:40
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: FOSDEM, appartement
 Slug: derniere-ligne-droite
 Status: published
 

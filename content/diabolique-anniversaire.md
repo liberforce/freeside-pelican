@@ -1,8 +1,8 @@
 Title: Diabolique anniversaire...
 Date: 2012-01-09 16:35
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: diabolique-anniversaire
 Status: published
 

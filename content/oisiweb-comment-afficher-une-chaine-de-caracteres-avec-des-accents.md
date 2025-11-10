@@ -1,8 +1,8 @@
 Title: Oisiweb: Comment afficher une chaine de caractères avec des accents ?
 Date: 2007-09-26 23:00
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: oisiweb, développement, GNOME
 Slug: oisiweb-comment-afficher-une-chaine-de-caracteres-avec-des-accents
 Status: published
 

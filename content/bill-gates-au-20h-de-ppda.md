@@ -1,8 +1,8 @@
 Title: Bill Gates au 20H de PPDA
 Date: 2007-09-26 22:40
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: microsoft, médias
 Slug: bill-gates-au-20h-de-ppda
 Status: published
 

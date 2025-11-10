@@ -1,8 +1,8 @@
 Title: Prêt pour le GUADEC !
 Date: 2007-09-26 21:47
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: GUADEC
 Slug: pret-pour-le-guadec
 Status: published
 

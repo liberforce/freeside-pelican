@@ -1,8 +1,8 @@
 Title: Revue du netbook Acer Aspire One
 Date: 2008-07-23 21:04
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: netbooks, matériel, mandriva, linux
 Slug: revue-du-netbook-acer-aspire-one
 Status: published
 

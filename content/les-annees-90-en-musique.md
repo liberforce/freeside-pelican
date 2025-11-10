@@ -1,8 +1,8 @@
 Title: Les années 90 en musique...
 Date: 2009-03-24 23:37
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: nostalgie, musique
 Slug: les-annees-90-en-musique
 Status: published
 

@@ -1,8 +1,8 @@
 Title: Erreurs fréquentes en GTK
 Date: 2012-08-24 22:58
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: erreurs-frequentes-en-gtk
 Status: published
 

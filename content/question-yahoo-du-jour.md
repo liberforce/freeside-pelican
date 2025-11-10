@@ -1,8 +1,8 @@
 Title: Question Yahoo du jour
 Date: 2007-09-26 22:34
+Author: liberforce
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: Unclassified
 Slug: question-yahoo-du-jour
 Status: published
 

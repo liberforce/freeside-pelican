@@ -1,8 +1,8 @@
 Title: Retour vers le passé
 Date: 2008-10-23 00:49
+Author: liberforce
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
-
+Tags: appartement
 Slug: retour-vers-le-passe
 Status: published
 
