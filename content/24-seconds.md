@@ -1,16 +1,16 @@
 Title: 24 seconds !
-Date: 2008-10-16 22:40
-Author: liberforce
+Date: 2008-10-17 00:40
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: linux, boot time, mandriva
 Slug: 24-seconds
 Status: published
 
-This is my new boot time, thanks to the instructions of Mandriva's kernelstar, [pterjan](\%22http://fasmz.org/%7Epterjan/blog/\%22) :-p. Thanks forhaving been so reactive.
+This is my new boot time, thanks to the instructions of Mandriva's kernelstar, [pterjan](http://fasmz.org/%7Epterjan/blog/) :-p. Thanks forhaving been so reactive.
 
-[<img src="\%22/public/mandriva/.bootchart-2009.0-no-usb-storage_m.jpg\%22" title="\&quot;Bootchart" style="\&quot;margin:" data-2009.0="" data-without="" data-usb-storage="" data-preloading,="" data-oct="" data-2008\"="" data-0="" data-1em="" data-0;="" float:="" data-left;\"="" alt="\&quot;\&quot;" />](\%22/public/mandriva/bootchart-2009.0-no-usb-storage.png\%22)If you didn't,you should read my <a href="\%22/post/2008/10/14/What-happened-to-my-boot-time-dude\%22" hreflang="\&quot;en\&quot;">previous entry about boottime</a>. So, how did these 9 seconds (compared to 2009.0 without the fix, and7 compared to 2008.1) disapeared ? Well, first, I'd tell you I'm not surethey're completely gone, because I felt that loging in was sensibly slower(more time until I have a wallpaper) but I have no numbers for this, as I onlymeasured the boot time until gdm for 2008.1 and 2009.0. So maybe the"<a href="\%22http://blog.crozat.net/2008/09/improving-boot-time-on-general-linux.html\%22" hreflang="\&quot;en\&quot;">graphicaldesktop startup time</a>" is a bit longer, but not 7 seconds longer, so I'msure I won some time...
+[<img src="/public/mandriva/.bootchart-2009.0-no-usb-storage_m.jpg" title="Bootchart 2009.0 without usb-storage preloading, oct 2008" style="margin: 0 1em 1em 0; float: left;" />](/public/mandriva/bootchart-2009.0-no-usb-storage.png)If you didn't,you should read my <a href="/post/2008/10/14/What-happened-to-my-boot-time-dude" hreflang="en">previous entry about boottime</a>. So, how did these 9 seconds (compared to 2009.0 without the fix, and7 compared to 2008.1) disapeared ? Well, first, I'd tell you I'm not surethey're completely gone, because I felt that loging in was sensibly slower(more time until I have a wallpaper) but I have no numbers for this, as I onlymeasured the boot time until gdm for 2008.1 and 2009.0. So maybe the"<a href="http://blog.crozat.net/2008/09/improving-boot-time-on-general-linux.html" hreflang="en">graphicaldesktop startup time</a>" is a bit longer, but not 7 seconds longer, so I'msure I won some time...
 
-So where was the problem ? Well it seems that the `usb-storage`module is at fault. Yes. Again. Here is what fcrozat told us a few weeks ago inhis article named "<a href="\%22Improving%20boot%20time%20on%20a%20general%20Linux%20distribution,%20not%20an%20easy%20task\%22" hreflang="\&quot;en\&quot;">Improvingboot time on a general Linux distribution, not an easy task</a>" :
+So where was the problem ? Well it seems that the `usb-storage`module is at fault. Yes. Again. Here is what fcrozat told us a few weeks ago inhis article named "<a href="Improving%20boot%20time%20on%20a%20general%20Linux%20distribution,%20not%20an%20easy%20task" hreflang="en">Improvingboot time on a general Linux distribution, not an easy task</a>" :
 
 > *We also had reports of "udev takes forever" when people had usb storagedevices plugged on their system. We did some tests and it was adding about 5sto boot, mostly because of "usb-storage" settle delay (which is 5s), when udevcoldplug starts. To try to reduce this, we are now loading usb-storage modulebefore udev is started, if an usb mass storage device is detected, to make surethe 5s "usb-storage" settle delay is done in parallel with udev. Average gain :3s (there is still a penalty of about 2s when usb mass storage is plugged butwe can't really do anything about it ATM).*
 

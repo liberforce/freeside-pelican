@@ -1,6 +1,6 @@
 Title: Un nouveau baladeur...
-Date: 2009-08-19 00:31
-Author: liberforce
+Date: 2009-08-19 02:31
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: gstreamer, baladeur numérique
 Slug: un-nouveau-baladeur
@@ -9,7 +9,7 @@ Status: published
 Il y a un mois, mon fidèle Samsung YP-MT6X disparaissait mystérieusement auboulot. Vol ou perte, impossible de trancher. Paix à son âme. J'ai donc finipar commander son remplaçant, que j'avais déjà eu l'occasion de tester pour uncadeau. Mon Meizu Mini Player M6 SL est arrivé de Hong Kong ce matin, après 3semaines d'attente. J'espère donc poster quelques astuces ici pour pouvoir tireun maximum profit de cet engin, notamment :
 
 - l'affichage des couvertures d'album
-- la conversion de vidéos lisibles par le Meizu avec gstreamer, afin dedéterminer un profil qui pourra être intégré à <a href="\%22http://www.linuxrising.org/transmageddon/\%22" hreflang="\&quot;en\&quot;">Transmageddon</a>
+- la conversion de vidéos lisibles par le Meizu avec gstreamer, afin dedéterminer un profil qui pourra être intégré à <a href="http://www.linuxrising.org/transmageddon/" hreflang="en">Transmageddon</a>
 - comment régler les stations de radio avec un fichier externe
 - l'utilisation de sous titres externes au format srt pour les vidéos
 - l'affichage des paroles de chansons

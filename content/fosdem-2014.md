@@ -1,6 +1,6 @@
 Title: FOSDEM 2014
-Date: 2014-02-14 01:35
-Author: liberforce
+Date: 2014-02-14 02:35
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: GNOME, FOSDEM
 Slug: fosdem-2014
@@ -8,6 +8,6 @@ Status: published
 
 Déjà 2 semaines depuis le dernier FOSDEM... L'occasion de rencontrer lespotes de GNOME-FR (merci à Fred pour l'hébergement et les bières ;-)), goûterles spécialités locales, et rencontrer les utilisateurs de GNOME. Il devraitd'ailleurs y avoir un peu de mouvement suite à certaines rencontres. Àsuivre…
 
-Et pour la première fois pour moi, la possibilité de participer cetévénement à titre professionnel ! Merci à [SoftAtHome](\%22http://softathome.com\%22) d'avoir sponsorisé mon voyage !
+Et pour la première fois pour moi, la possibilité de participer cetévénement à titre professionnel ! Merci à [SoftAtHome](http://softathome.com) d'avoir sponsorisé mon voyage !
 
 </p>

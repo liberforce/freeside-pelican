@@ -1,6 +1,6 @@
 Title: Week end au Havre
-Date: 2007-09-26 22:39
-Author: liberforce
+Date: 2007-02-07 00:38
+Author: LM2153-GANDI
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: week-end-au-havre
@@ -8,7 +8,7 @@ Status: published
 
 Vendredi soir, début du périple: départ avec ma douce et tendre, qui s'étaitpour l'occasion allégée de quelques kilos de cheveux. Non, elle n'avaitpourtant pas une coupe afro.
 
-<div class="\"hitencart\"" style="\&quot;margin-left:" 2em\"="">
+<div class="hitencart" style="margin-left: 2em">
 
 - Départ à de Noisy le Grand (93) à 17H45
 - Arrivée à Octeville près du Havre (76) à 22H00 ! 

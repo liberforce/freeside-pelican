@@ -1,6 +1,6 @@
 Title: Migration over-blog vers Dotclear: opération réussie...
-Date: 2007-10-03 08:38
-Author: liberforce
+Date: 2007-10-03 10:40
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: migration-over-blog-vers-dotclear-operation-reussie
@@ -8,7 +8,7 @@ Status: published
 
 ...mais non sans mal. En effet, une des fonctionnalités pour laquellej'avais choisi la plate-forme over-blog (à savoir l'export du blog au formatxml) a tout simplement disparu dans la version 2, sans aucune annonce !
 
-A la question posée au mois de mai sur les forums, de savoir où se trouve lafonction d'export qui existait auparavant, voici <a href="\%22http://forum.over-blog.com/thread-2584898.html\%22" hreflang="\&quot;fr\&quot;">la réponse de l'admin</a>:
+A la question posée au mois de mai sur les forums, de savoir où se trouve lafonction d'export qui existait auparavant, voici <a href="http://forum.over-blog.com/thread-2584898.html" hreflang="fr">la réponse de l'admin</a>:
 
 > en v2, n'existe pas. Il y aura prochainement (je ne sais pas quand) unenouvelle fonction pour sauvegarder ses infos
 
@@ -27,6 +27,6 @@ Mais il y a aussi quelques désavantages (liés à la version de dotclear utilis
 
 Cela m'a aussi permis de passer en revue presque un an de billets. C'est pasmal de pouvoir voir si une opinion a évolué, ce quon a pu faire... Bref, c'estreparti !
 
-**EDIT:** et pour mes (rares :-p) fidèles lecteurs, ça se passemaintenant sur <a href="\%22\%22" hreflang="\&quot;fr\&quot;">http://blog.freeside.fr</a>.  
+**EDIT:** et pour mes (rares :-p) fidèles lecteurs, ça se passemaintenant sur <a href="" hreflang="fr">http://blog.freeside.fr</a>.  
 
 </p>

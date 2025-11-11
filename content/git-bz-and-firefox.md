@@ -1,12 +1,12 @@
 Title: git-bz and Firefox
-Date: 2012-07-30 15:50
-Author: liberforce
+Date: 2012-07-30 17:50
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: git, GNOME
 Slug: git-bz-and-firefox
 Status: published
 
-[git-bz](\%22http://git.fishsoup.net/cgit/git-bz/\%22) is a utilitywritten by <a href="\%22http://blog.fishsoup.net\%22" hreflang="\&quot;en\&quot;">Owen Taylor</a> toease the workflow between git and the patches living in a bugzilla bugtracker.It allows uploading, applying patches to/from bugzilla from the commandline.
+[git-bz](http://git.fishsoup.net/cgit/git-bz/) is a utilitywritten by <a href="http://blog.fishsoup.net" hreflang="en">Owen Taylor</a> toease the workflow between git and the patches living in a bugzilla bugtracker.It allows uploading, applying patches to/from bugzilla from the commandline.
 
 As it's the second time I'm bitten by that problem, I'll write it here as amemo. The way git-bz communicates with bugzilla is by reusing the bugzillacookie from your browser. You just tell it which browser you're using, and itwill get the cookie at the right location. When this fail however, I tend tocheck if I configured the right browser, or if I'm logged onbugzilla.gnome.org. And I am, but it still fails.
 

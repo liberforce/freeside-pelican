@@ -1,6 +1,6 @@
 Title: Next step to rule the world : done
-Date: 2008-04-09 19:06
-Author: liberforce
+Date: 2008-04-09 20:56
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: mandriva
 Slug: next-step-to-rule-the-world-done
@@ -12,12 +12,12 @@ I've started testing it quite late in this development cycle (RC2), but Istill w
 
 Everything you should know about it is here:
 
-- <a href="\%22http://wiki.mandriva.com/en/2008.1_Tour\%22" hreflang="\&quot;fr\&quot;">MandrivaLinux 2008.1 Tour</a>
-- <a href="\%22http://wiki.mandriva.com/en/2008.1_Notes\%22" hreflang="\&quot;en\&quot;">MandrivaLinux 2008.1 Release Notes</a>
-- <a href="\%22http://wiki.mandriva.com/en/2008.1_Errata\%22" hreflang="\&quot;fr\&quot;">MandrivaLinux 2008.1 Errata</a>
-- <a href="\%22http://wiki.mandriva.com/en/2008.1_Reviewers_Guide\%22" hreflang="\&quot;fr\&quot;">Mandriva Linux 2008.1Reviewers Guide</a>
+- <a href="http://wiki.mandriva.com/en/2008.1_Tour" hreflang="fr">MandrivaLinux 2008.1 Tour</a>
+- <a href="http://wiki.mandriva.com/en/2008.1_Notes" hreflang="en">MandrivaLinux 2008.1 Release Notes</a>
+- <a href="http://wiki.mandriva.com/en/2008.1_Errata" hreflang="fr">MandrivaLinux 2008.1 Errata</a>
+- <a href="http://wiki.mandriva.com/en/2008.1_Reviewers_Guide" hreflang="fr">Mandriva Linux 2008.1Reviewers Guide</a>
 
-And the most important : the link to [download Mandriva Linux](\%22http://torrent.mandriva.com/public/\%22) with yourprefered bittorrent client (<a href="\%22http://www.transmissionbt.com/\%22" hreflang="\&quot;en\&quot;">Transmission</a> in my case).  
+And the most important : the link to [download Mandriva Linux](http://torrent.mandriva.com/public/) with yourprefered bittorrent client (<a href="http://www.transmissionbt.com/" hreflang="en">Transmission</a> in my case).  
 Many thanks to everyone who worked on this release. Now Enjoy !
 
 </p>

@@ -1,12 +1,12 @@
 Title: Rien de très original là dedans, mais...
-Date: 2012-07-23 00:12
-Author: liberforce
+Date: 2012-07-23 02:12
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: mageia, GUADEC, GNOME
 Slug: rien-de-tres-original-la-dedans-mais
 Status: published
 
-![\\\\](\%22http://guadec.org/sites/www.guadec.org/files/banner-125.png\%22)
+![](http://guadec.org/sites/www.guadec.org/files/banner-125.png)
 
 J'en profiterai pour rejoindre les autres membres de GNOME-FR (entre autres)qui auront fait le déplacement. Arrivée le 25 juillet au soir, puis départprévu le 3 août au matin pour Lisbonne... en car. Je pense déjà aux 10 heuresde bus qui m'attendent. Une occasion pour bouquiner, ou pour commencer àpréparer une petite présentation sur GNOME pour la rentrée.
 

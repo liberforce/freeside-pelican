@@ -1,6 +1,6 @@
 Title: Poussée d'Archimède
-Date: 2009-01-12 00:01
-Author: liberforce
+Date: 2009-01-12 01:01
+Author: LM2153-GANDI
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: poussee-darchimede

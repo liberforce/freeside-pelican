@@ -1,12 +1,12 @@
 Title: Olympia = spammeur
-Date: 2008-07-23 19:44
-Author: liberforce
+Date: 2008-07-23 21:35
+Author: LM2153-GANDI
 Category: Gossip / Blabla
 Tags: publicité
 Slug: olympia-spammeur
 Status: published
 
-Il y a quelques mois j'ai acheté des billets pour aller voir <a href="\%22http://fr.wikipedia.org/wiki/Patrick_Timsit\%22" hreflang="\&quot;fr\&quot;">Patrick Timsit</a> àl'<a href="\%22http://fr.wikipedia.org/wiki/Olympia_%28Paris%29\%22" hreflang="\&quot;fr\&quot;">Olympia</a>. Depuis jereçois des "newsletters" bien particulières, donnant la liste des spectaclesprogrammation de la salle parisienne. En fait j'ai commis l'erreur d'achetermes places directement sur le site de l'olympia (olympiahall.com - non, pas delien pour ne pas leur faire de pub). Depuis ils m'envoient leur newsletter, queje n'ai pourtant pas solicité (à tout les coups je me suis fait avoir par du<a href="\%22http://fr.wikipedia.org/wiki/Opt_out\%22" hreflang="\&quot;fr\&quot;">opt-out</a>). Bon,je me dis ensuite que c'est un site sérieux quand même, alors je tente le liende désabonnement. Et là, surprise : il a une drôle de tronche.
+Il y a quelques mois j'ai acheté des billets pour aller voir <a href="http://fr.wikipedia.org/wiki/Patrick_Timsit" hreflang="fr">Patrick Timsit</a> àl'<a href="http://fr.wikipedia.org/wiki/Olympia_%28Paris%29" hreflang="fr">Olympia</a>. Depuis jereçois des "newsletters" bien particulières, donnant la liste des spectaclesprogrammation de la salle parisienne. En fait j'ai commis l'erreur d'achetermes places directement sur le site de l'olympia (olympiahall.com - non, pas delien pour ne pas leur faire de pub). Depuis ils m'envoient leur newsletter, queje n'ai pourtant pas solicité (à tout les coups je me suis fait avoir par du<a href="http://fr.wikipedia.org/wiki/Opt_out" hreflang="fr">opt-out</a>). Bon,je me dis ensuite que c'est un site sérieux quand même, alors je tente le liende désabonnement. Et là, surprise : il a une drôle de tronche.
 
 `http://www.olympiahall.com/valid_desabo0015.asp?id={Num%C3%A9ro%20de%20l'identit%C3%A9}&email=mon.adresse.em@il.fr`
 

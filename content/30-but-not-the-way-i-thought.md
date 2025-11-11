@@ -1,6 +1,6 @@
 Title: 30, but not the way I thought...
-Date: 2009-11-09 23:58
-Author: liberforce
+Date: 2009-11-10 00:58
+Author: LM2153-GANDI
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: 30-but-not-the-way-i-thought

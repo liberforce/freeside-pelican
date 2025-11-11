@@ -1,12 +1,12 @@
 Title: GUADEC: au revoır Istanbul !
-Date: 2008-07-12 20:17
-Author: liberforce
+Date: 2008-07-12 23:17
+Author: LM2153-GANDI
 Category: Life / Vie quotidienne
 Tags: mandriva, GUADEC, GNOME
 Slug: guadec-au-revoir-istanbul
 Status: published
 
-Hé bien, ces dernıers jours ont fılé comme le vent ! Moı quı voulais faıreun poınt régulıer... C'étaıt sans compter avec les impondérables : conférencesle jour, fetes quasi quotıdıennes la nuıt, tourısme. La semaıne a laıssé destraces sur l'organısme ! Alors Aurore et moı partons nous refaıre une santé surl'ıle de <a href="\%22http://en.wikipedia.org/wiki/Bozcaada\%22" hreflang="\&quot;en\&quot;">Bozcaada</a> pendant quelquesjours.
+Hé bien, ces dernıers jours ont fılé comme le vent ! Moı quı voulais faıreun poınt régulıer... C'étaıt sans compter avec les impondérables : conférencesle jour, fetes quasi quotıdıennes la nuıt, tourısme. La semaıne a laıssé destraces sur l'organısme ! Alors Aurore et moı partons nous refaıre une santé surl'ıle de <a href="http://en.wikipedia.org/wiki/Bozcaada" hreflang="en">Bozcaada</a> pendant quelquesjours.
 
 Sur une poınt technıque, les conférences étaıent assez ınégales. Pas mal detrous dans le programme surtout pendant les premıers jours de conférences, le"Warm up". En revanche, les keynotes ont été tres réussıes. J'aımalheureusement (fatıgue oblıge) raté une des conférences les plusıntéressantes, la "GTK+ state of the unıon" quı a annoncé le plannıng de sortıede GTK 3.0". Zut. Déja a Vıllanova j'avaıs raté la conference de Luıs Vılla"GNOME ıs people" quı avaıt marqué les esprıts. Bon, je doıs etre maudıt.
 

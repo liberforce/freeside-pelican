@@ -1,6 +1,6 @@
 Title: Propriétaire... Enfin !
-Date: 2008-10-11 00:17
-Author: liberforce
+Date: 2008-10-11 03:28
+Author: LM2153-GANDI
 Category: Life / Vie quotidienne
 Tags: appartement
 Slug: proprietaire-enfin
@@ -45,7 +45,7 @@ Un petit sage chauve avec une longue mèche blonde a dit un jour : *"Pôcool la 
 
 Je comprends par conséquent qu'ils en soient réduits à bouffer des kebabsdans les halls d'immeubles en hiver en buvant du coca et du whiskey. Bien sûr,c'est un acte militant pour eux : laisser le sol aussi gluant que possibleaprès leur passage montre le bourbier socio-économique du modèle d'intégration"à la française".
 
-En tout cas, ils ont des capacités d'organisation insoupçonnées. Graver despetits messages comme "Nike la bac" sur les portes d'ascenceur leur permetd'exercer leurs facultés de travail colaboratif, et de centraliserl'information. Et oui, dans mon immeuble, ils ont inventé le wiki avecplusieurs années d'avance. De même, j'arrive à déduire qu'ils ont une culturetélévisuelle assez étendue. Ce sont des fans du "<a href="\%22http://fr.wikipedia.org/wiki/Le_Juste_Prix\%22" hreflang="\&quot;fr\&quot;">Juste Prix</a>" avec PhilippeRisoli. Ils ont même reproduit le fameux "jeu du coup de poing" avec le fauxplafond du hall. Mais pas de chance, il n'y avait pas de petit papier derrièreles trous faisant gagner 50 000F. C'est sûr, c'est bien plus joli avec tous cestrous : le faux plafond ressemble à la robe d'un dalmatien.
+En tout cas, ils ont des capacités d'organisation insoupçonnées. Graver despetits messages comme "Nike la bac" sur les portes d'ascenceur leur permetd'exercer leurs facultés de travail colaboratif, et de centraliserl'information. Et oui, dans mon immeuble, ils ont inventé le wiki avecplusieurs années d'avance. De même, j'arrive à déduire qu'ils ont une culturetélévisuelle assez étendue. Ce sont des fans du "<a href="http://fr.wikipedia.org/wiki/Le_Juste_Prix" hreflang="fr">Juste Prix</a>" avec PhilippeRisoli. Ils ont même reproduit le fameux "jeu du coup de poing" avec le fauxplafond du hall. Mais pas de chance, il n'y avait pas de petit papier derrièreles trous faisant gagner 50 000F. C'est sûr, c'est bien plus joli avec tous cestrous : le faux plafond ressemble à la robe d'un dalmatien.
 
 Enfin, ils ne rataient pas une occasion de montrer à quel point leurinstinct de survie est aiguisé : ils doivent pouvoir faire du feu pour sechauffer, ou faire cuire un steak de mammouth. Bon y a plus trop de mammouthspar chez nous, mais s'ils revenaient, ça irait mal pour eux, tellement lespetits jeunes se sont entraînés sur les poubelles et les voitures (j'aime quandles pompiers viennent sonner chez moi à 2H00 du matin, pour me conseiller deboucher les aérations, d'habitude je ne les vois que pour les calendriers).
 
@@ -53,12 +53,12 @@ Fini donc ce contact privilégié avec la jeunesse, mais tant qu'il y aura dessk
 
 ## Le nouveau chez moi
 
-La rue de devant donne sur une rue en sens unique peu passante. L'arrièredonne sur des jardins. Pas de voisins au dessus. On est pas très loin d'Orly,mais on entend quasiment pas d'avions. Un grand parc à 5 minutes. La gare à 10minutes. Le <a href="\%22http://fr.wikipedia.org/wiki/Trans-Val-de-Marne\%22" hreflang="\&quot;fr\&quot;">TVM</a> à 5 minutes. Bien sûrje vais devoir reprendre les transports, mais bon, ça me fera une excuse pourm'acheter un netbook :-) . Je passerai de 30 minutes à 1H30 de transports parjour, mais je serai plus écolo, prenant les transports en commun plutôt que maClio (poubelle-mobile pour les intimes). Depuis bientôt 4 ans que je suis à laRATP, je ne prenais plus les transports, alors que pourtant, je n'aime pasconduire... Et pour finir c'est une ville de gauche, ça ne fait pas de mal.Bref, un havre de tranquillité (je l'espère, je le saurai quand je seraidedans). Enfin, pour parfaire et élargir vos connaissances en habitat urbain,je vous conseille la lecture du magnifique ouvrage "Les [Bidochon](\%22http://fr.wikipedia.org/wiki/Les_Bidochon\%22) en Habitation à LoyerModéré"
+La rue de devant donne sur une rue en sens unique peu passante. L'arrièredonne sur des jardins. Pas de voisins au dessus. On est pas très loin d'Orly,mais on entend quasiment pas d'avions. Un grand parc à 5 minutes. La gare à 10minutes. Le <a href="http://fr.wikipedia.org/wiki/Trans-Val-de-Marne" hreflang="fr">TVM</a> à 5 minutes. Bien sûrje vais devoir reprendre les transports, mais bon, ça me fera une excuse pourm'acheter un netbook :-) . Je passerai de 30 minutes à 1H30 de transports parjour, mais je serai plus écolo, prenant les transports en commun plutôt que maClio (poubelle-mobile pour les intimes). Depuis bientôt 4 ans que je suis à laRATP, je ne prenais plus les transports, alors que pourtant, je n'aime pasconduire... Et pour finir c'est une ville de gauche, ça ne fait pas de mal.Bref, un havre de tranquillité (je l'espère, je le saurai quand je seraidedans). Enfin, pour parfaire et élargir vos connaissances en habitat urbain,je vous conseille la lecture du magnifique ouvrage "Les [Bidochon](http://fr.wikipedia.org/wiki/Les_Bidochon) en Habitation à LoyerModéré"
 
 *La vue de la cuisine sur les jardins :  *
 
-<img src="\%22/public/vrac/jardin.jpg\%22" title="\&quot;Jardin," style="\&quot;margin:" data-oct="" data-2008\"="" data-0="" data-auto;="" display:="" data-block;\"="" data-de="" data-la="" data-cuisine="" data-sur="" data-le="" data-jardin\"="" alt="\&quot;Vue" />
+<img src="/public/vrac/jardin.jpg" title="Jardin, oct 2008" style="margin: 0 auto; display: block;" alt="Vue de la cuisine sur le jardin" />
 
-*\[1\] Juste au cas où ce n'était pas clair : je suis allé dans les mêmesécoles qu'eux, je suis fils d'immigré, et j'habitais (et j'habite encore pourau moins un mois) la même cage à poule. Sauf que moi à l'école, j'écoutais. Etpis pour les incultes pourris du slip, le sage, c'est <a href="\%22http://fr.wikipedia.org/wiki/Titeuf\%22" hreflang="\&quot;fr\&quot;">Titeuf</a> ;-)*
+*\[1\] Juste au cas où ce n'était pas clair : je suis allé dans les mêmesécoles qu'eux, je suis fils d'immigré, et j'habitais (et j'habite encore pourau moins un mois) la même cage à poule. Sauf que moi à l'école, j'écoutais. Etpis pour les incultes pourris du slip, le sage, c'est <a href="http://fr.wikipedia.org/wiki/Titeuf" hreflang="fr">Titeuf</a> ;-)*
 
 </p>

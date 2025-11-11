@@ -1,6 +1,6 @@
 Title: Grep updated in Mandriva 2009.0
-Date: 2008-10-22 16:16
-Author: liberforce
+Date: 2008-10-22 18:16
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: mandriva, grep
 Slug: grep-updated-in-mandriva-20090
@@ -12,13 +12,13 @@ Well in fact, its not. Grep 2.5.3 introduces the long awaited option`--exclude-d
 
 Before :
 
-<span id="\"hidsubpartcontentdiscussion\"">`find .`</span> <span id="\"hidsubpartcontentdiscussion\"">`-type f`</span> <span id="\"hidsubpartcontentdiscussion\"">`! -path '*/.svn/*' -print0 | xargs -0 grepfoo`</span>
+<span id="hidsubpartcontentdiscussion">`find .`</span> <span id="hidsubpartcontentdiscussion">`-type f`</span> <span id="hidsubpartcontentdiscussion">`! -path '*/.svn/*' -print0 | xargs -0 grepfoo`</span>
 
-<span id="\"hidsubpartcontentdiscussion\"">After :</span>
+<span id="hidsubpartcontentdiscussion">After :</span>
 
-<span id="\"hidsubpartcontentdiscussion\"">`grep -R --exclude-dir=.svn foo*`</span>
+<span id="hidsubpartcontentdiscussion">`grep -R --exclude-dir=.svn foo*`</span>
 
-<span id="\"hidsubpartcontentdiscussion\"">It's sad that this option tookseveral years to enter the code base (at least 2.5 years) and was first refused(this bug report is an <a href="\%22http://savannah.gnu.org/patch/?3521\%22" hreflang="\&quot;en\&quot;">example of how not to reply tousers</a>). Also, this new version of grep landed in 2009.0, but grep 2.5.3 wasreleased</span> <span id="\"hidsubpartcontentdiscussion\"">in august2007...</span>
+<span id="hidsubpartcontentdiscussion">It's sad that this option tookseveral years to enter the code base (at least 2.5 years) and was first refused(this bug report is an <a href="http://savannah.gnu.org/patch/?3521" hreflang="en">example of how not to reply tousers</a>). Also, this new version of grep landed in 2009.0, but grep 2.5.3 wasreleased</span> <span id="hidsubpartcontentdiscussion">in august2007...</span>
 
 Mandriva Linux 2008.1 users interested by this feature can install the2009.0 version of grep from their closest miror :
 

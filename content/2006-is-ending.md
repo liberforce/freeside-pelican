@@ -1,6 +1,6 @@
 Title: 2006 is ending...
-Date: 2007-09-26 00:42
-Author: liberforce
+Date: 2006-12-18 02:41
+Author: LM2153-GANDI
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: 2006-is-ending

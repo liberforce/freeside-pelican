@@ -1,12 +1,12 @@
 Title: Bientôt le passage chez le notaire...
-Date: 2008-08-18 01:38
-Author: liberforce
+Date: 2008-08-18 03:26
+Author: LM2153-GANDI
 Category: Life / Vie quotidienne
 Tags: loi, immobilier
 Slug: bientot-le-passage-chez-le-notaire
 Status: published
 
-Bientôt la délivrance ? Pas sûr. Il y a eu pas mal de complications depuisque j'ai signé le compromis de vente de l'achat de mon appartement. Surtout lespetites lignes qu'on se demande si on les a vraiment lues avant de signer...J'ai pu me rendre compte (trop tard) que j'ai effectivement signé une<a href="\%22http://www.paruvendu.fr/I/Immobilier-ancien-les-recours-en-cas-de-vices-caches\%22" hreflang="\&quot;fr\&quot;">clause de non garantie des vices cachés</a>. Et en plus, c'est légal. J'espèredonc que beau papa se fait du souci à tort en se demandant si le plancher n'estpas pourri.
+Bientôt la délivrance ? Pas sûr. Il y a eu pas mal de complications depuisque j'ai signé le compromis de vente de l'achat de mon appartement. Surtout lespetites lignes qu'on se demande si on les a vraiment lues avant de signer...J'ai pu me rendre compte (trop tard) que j'ai effectivement signé une<a href="http://www.paruvendu.fr/I/Immobilier-ancien-les-recours-en-cas-de-vices-caches" hreflang="fr">clause de non garantie des vices cachés</a>. Et en plus, c'est légal. J'espèredonc que beau papa se fait du souci à tort en se demandant si le plancher n'estpas pourri.
 
 C'est à ajouter aux petites surprises qui se sont accumulées:
 

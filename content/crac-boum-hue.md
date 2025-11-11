@@ -1,6 +1,6 @@
 Title: Crac boum hue !
-Date: 2008-10-17 00:17
-Author: liberforce
+Date: 2008-10-17 02:17
+Author: LM2153-GANDI
 Category: Life / Vie quotidienne
 Tags: appartement
 Slug: crac-boum-hue
@@ -10,12 +10,12 @@ Aujourd'hui, j'ai pris mon après midi pour aller dans mon nouvel appartementren
 
 J'ai profité du trou entre les deux rendez vous pour décoller un peu depapier ~~pain~~ peint à la main. J'ai ainsi pu découvrir les bellestraces d'humidité sur le mur côté rue... Dommage qu'on ne puisse pas arracherle papier peint de chaque appartement qu'on visite, pour éviter les surprises:-). Bon, apparemment, on va devoir traiter le mur, mais je m'y attendais déjàun peu.
 
-Vient ensuite le sol. Un bon gros coup de scie circulaire pour couper lacouche de lino, la couche d'aggloméré en dessous... puis on découvre la couchede parquet en pin. Je ne comprends pas que l'ancienne propriétaire ne l'ait pasgardé d'ailleurs. Peut être à cause des bruits que grincement que celaprovoquait ? En effet les voisins du dessous nous ont prévenus que le sol étaittrès bruyant. C'est aussi pour ça que je compte refaire le sol. C'était déjàbruyant avec une seule personne dedans, alors à deux (courant derrière le chat,qui plus est) ! Quel intérêt d'avoir son chez soi si on a peur d'inviter degens, parce que ça pourrait déranger ? Et puis vu <a href="\%22/post/2008/10/11/Proprietaire-Enfin\%22" hreflang="\&quot;fr\&quot;">mes voisins actuels</a>, je ne veux fairesubir cela à personne. Donc on va refaire l'isolation phonique, comme il faut,pour être tranquilles. En plus les voisins n'habitent apparemment les lieux que6 mois par an, donc il y a au moins une moitié de l'année où on pourra faire lanouba comme on veut :-) .
+Vient ensuite le sol. Un bon gros coup de scie circulaire pour couper lacouche de lino, la couche d'aggloméré en dessous... puis on découvre la couchede parquet en pin. Je ne comprends pas que l'ancienne propriétaire ne l'ait pasgardé d'ailleurs. Peut être à cause des bruits que grincement que celaprovoquait ? En effet les voisins du dessous nous ont prévenus que le sol étaittrès bruyant. C'est aussi pour ça que je compte refaire le sol. C'était déjàbruyant avec une seule personne dedans, alors à deux (courant derrière le chat,qui plus est) ! Quel intérêt d'avoir son chez soi si on a peur d'inviter degens, parce que ça pourrait déranger ? Et puis vu <a href="/post/2008/10/11/Proprietaire-Enfin" hreflang="fr">mes voisins actuels</a>, je ne veux fairesubir cela à personne. Donc on va refaire l'isolation phonique, comme il faut,pour être tranquilles. En plus les voisins n'habitent apparemment les lieux que6 mois par an, donc il y a au moins une moitié de l'année où on pourra faire lanouba comme on veut :-) .
 
 Bref. On a découvert le parquet, et on l'a fait sauter, et ça a l'air sain(ouf !). Un peu humide sur le mur que j'ai découvert, mais sain. Côté cuisine,le carrelage a été posé sur un réagréage, une chape en ciment allégé... et leparquet (ouaip, toujours là). Enfin, l'entrée c'est la même chose, mais il yavait un carrelage plus ancien en dessous. Oui, ça fait un peu fouillepaléontologique. Il faut croire que les anciens propriétaires étaient adeptesde la technique du mille feuille... Pas étonnant que tout l'appartement soitsurélevé de 3 centimètres ! En fait cela se voit au niveau du seuil de la porteet sur toutes les portes du reste, puisque le bas des portes a été scié.
 
-Au passage, j'ai découvert l'excellent <a href="\%22http://sweethome3d.sourceforge.net/fr/\%22" hreflang="\&quot;fr\&quot;">SweetHome3d</a> il y a quelques mois,pour pouvoir prévoir un peu l'aménagement futur. J'étais assez content detrouver ce genre de logiciels sous Linux. Cela me permet donc de vous offrircette vue approximative (tout n'est pas en place dans la cuisine) de ce à quoicela devrait ressembler une fois terminé.
+Au passage, j'ai découvert l'excellent <a href="http://sweethome3d.sourceforge.net/fr/" hreflang="fr">SweetHome3d</a> il y a quelques mois,pour pouvoir prévoir un peu l'aménagement futur. J'étais assez content detrouver ce genre de logiciels sous Linux. Cela me permet donc de vous offrircette vue approximative (tout n'est pas en place dans la cuisine) de ce à quoicela devrait ressembler une fois terminé.
 
-[<img src="\%22/public/appartement/.appartement_m.jpg\%22" title="\&quot;Modélisation" data-avec="" data-sweethome3d,="" data-oct="" data-2008\"="" alt="\&quot;\&quot;" />](\%22/public/appartement/appartement.png\%22)
+[![](/public/appartement/.appartement_m.jpg "Modélisation avec SweetHome3d, oct 2008")](/public/appartement/appartement.png)
 
 </p>

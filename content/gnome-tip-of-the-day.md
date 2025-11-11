@@ -1,6 +1,6 @@
 Title: GNOME tip of the day
-Date: 2007-09-26 01:04
-Author: liberforce
+Date: 2007-01-24 03:04
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: GNOME
 Slug: gnome-tip-of-the-day

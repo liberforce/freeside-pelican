@@ -1,6 +1,6 @@
 Title: Choisir son baladeur numérique compatible Linux et Ogg/Vorbis - partie 1
-Date: 2007-10-11 23:51
-Author: liberforce
+Date: 2007-10-12 01:51
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: baladeur numérique, linux, ogg
 Slug: choisir-son-baladeur-numerique-compatible-linux-et-oggvorbis-partie-1
@@ -8,25 +8,25 @@ Status: published
 
 ## Au départ, il y a toujours un truc qui gratte...
 
-Je suis actuellement à la recherche actuellement d'un cadeau d'anniversairepour ma chérie (faudrait que je me grouille quand même, c'était il y a 2semaines :-( ). Et je sais ce que je veux lui offrir: un <a href="\%22http://fr.wikipedia.org/wiki/Baladeur_num%C3%A9rique\%22" hreflang="\&quot;fr\&quot;">baladeur numérique</a>,plus communément appelé "baladeur MP3", bien que cela soit fort réducteur (quelbaladeur lit uniquement du MP3 de nos jours) ? Comme référence pour mon choix,j'ai le mien: je possède actullement un baladeur <a href="\%22http://www.samsung.com/ca/products/digitalaudioproducts/digitalmediaplayer/yp_mt6xxac.asp\%22" hreflang="\&quot;en\&quot;">Samsung YP-MT6X</a>.
+Je suis actuellement à la recherche actuellement d'un cadeau d'anniversairepour ma chérie (faudrait que je me grouille quand même, c'était il y a 2semaines :-( ). Et je sais ce que je veux lui offrir: un <a href="http://fr.wikipedia.org/wiki/Baladeur_num%C3%A9rique" hreflang="fr">baladeur numérique</a>,plus communément appelé "baladeur MP3", bien que cela soit fort réducteur (quelbaladeur lit uniquement du MP3 de nos jours) ? Comme référence pour mon choix,j'ai le mien: je possède actullement un baladeur <a href="http://www.samsung.com/ca/products/digitalaudioproducts/digitalmediaplayer/yp_mt6xxac.asp" hreflang="en">Samsung YP-MT6X</a>.
 
 Je recherche donc la perle rare, un baladeur à base de mémoire flash, et quiremplirait pour un budget raisonnable (200€ max) les fonctions suivantes, de laplus prioritaire à la moins prioritaire:
 
 1.  Compatible Linux
-2.  Compatible <a href="\%22http://fr.wikipedia.org/wiki/Ogg\%22" hreflang="\&quot;fr\&quot;">Ogg</a>/<a href="\%22http://fr.wikipedia.org/wiki/Vorbis\%22" hreflang="\&quot;fr\&quot;">Vorbis</a>
+2.  Compatible <a href="http://fr.wikipedia.org/wiki/Ogg" hreflang="fr">Ogg</a>/<a href="http://fr.wikipedia.org/wiki/Vorbis" hreflang="fr">Vorbis</a>
 3.  A base de mémoire flash
 4.  Reconnu comme une clé USB
 5.  Bonne autonomie (si possible + de 15 h)
 6.  Capacité de 2 Go ou plus
-7.  Gère les <a href="\%22http://fr.wikipedia.org/wiki/ID3\%22" hreflang="\&quot;fr\&quot;">métadonnées</a> MP3 et OGG/Vorbis
-8.  Gère l'encodage <a href="\%22http://fr.wikipedia.org/wiki/UTF-8\%22" hreflang="\&quot;fr\&quot;">UTF-8</a>
+7.  Gère les <a href="http://fr.wikipedia.org/wiki/ID3" hreflang="fr">métadonnées</a> MP3 et OGG/Vorbis
+8.  Gère l'encodage <a href="http://fr.wikipedia.org/wiki/UTF-8" hreflang="fr">UTF-8</a>
 9.  Utilise des piles plutôt qu'une batterie interne
 
 ## Quelques justifications de ces besoins: ****
 
-**Compatible Linux:** indispensable, ma copine a migré sous<a href="\%22http://www.mandriva.com\%22" hreflang="\&quot;en\&quot;">Mandriva Linux</a>/<a href="\%22http://www.gnome.org\%22" hreflang="\&quot;en\&quot;">GNOME</a> depuis plus d'un an.
+**Compatible Linux:** indispensable, ma copine a migré sous<a href="http://www.mandriva.com" hreflang="en">Mandriva Linux</a>/<a href="http://www.gnome.org" hreflang="en">GNOME</a> depuis plus d'un an.
 
-**Compatible OGG/Vorbis:** c'est une solution de confort, cartoute la musique que j'ai téléchargé sur <a href="\%22http://www.jamendo.com\%22" hreflang="\&quot;fr\&quot;">Jamendo</a> utilise ce format libre.
+**Compatible OGG/Vorbis:** c'est une solution de confort, cartoute la musique que j'ai téléchargé sur <a href="http://www.jamendo.com" hreflang="fr">Jamendo</a> utilise ce format libre.
 
 **A base de mémoire flash:** ce sont les plus compacts, mêmes'ils offrent moins de capacité de stockage que les modèles à disque dur. Ilssont moins sensibles au chocs aussi (pas de mécanique, que del'électronique).
 
@@ -34,13 +34,13 @@ Je recherche donc la perle rare, un baladeur à base de mémoire flash, et quire
 
 Il existe actuellement 2 manières de transférer des fichiers sur unbaladeur:
 
-- via le protocole <a href="\%22http://en.wikipedia.org/wiki/Media_Transfer_Protocol\%22" hreflang="\&quot;en\&quot;">MTP</a>
-- via l'<a href="\%22http://en.wikipedia.org/wiki/USB_mass_storage_device_class\%22" hreflang="\&quot;en\&quot;">UMS</a> (USB MassStorage)
+- via le protocole <a href="http://en.wikipedia.org/wiki/Media_Transfer_Protocol" hreflang="en">MTP</a>
+- via l'<a href="http://en.wikipedia.org/wiki/USB_mass_storage_device_class" hreflang="en">UMS</a> (USB MassStorage)
 
 Le protocole MTP pose plusieurs problèmes:
 
 - Il requiert l'utilisation de Microsoft Windows (XP au minimum) et WindowsMedia Player 10
-- Il utilise le monopole Windows pour imposer MTP et Janus, le système de<a href="\%22http://fr.wikipedia.org/wiki/Gestion_num%C3%A9rique_des_droits\%22" hreflang="\&quot;fr\&quot;">DRM</a> madein Microsoft
+- Il utilise le monopole Windows pour imposer MTP et Janus, le système de<a href="http://fr.wikipedia.org/wiki/Gestion_num%C3%A9rique_des_droits" hreflang="fr">DRM</a> madein Microsoft
 - Il empêche d'autres systèmes d'exploitation comme Linux ou Mac OS depouvoir communiquer simplement avec le baladeur
 - La bibliothèque libmtp sous Linux permet la communication avec lespériphériques MTP, mais elle est en cours de développement et ne gèrera doncpas forcément votre modèle de baladeur
 - Il est presque obligatoire de passer par un logiciel externe pourtransférer des fichiers sur le baladeur. Si vous êtes en déplacement, vousn'aurez pas forcément la configuration adéquate sous la main.

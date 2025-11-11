@@ -1,6 +1,6 @@
 Title: Best wishes of an happy new year!
-Date: 2007-09-26 00:46
-Author: liberforce
+Date: 2007-01-05 02:45
+Author: LM2153-GANDI
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: best-wishes-of-an-happy-new-year
@@ -10,14 +10,14 @@ I wish you a good health, because everyone needs it. Then love, money, an newshi
   
 2006 was shitty ? Well...  
 
-<div style="\&quot;text-align:" center;\"="">
+<div style="text-align: center;">
 
-<span class="\"hitimportant\"">I wish you all thebest for 2007 !</span>  
+<span class="hitimportant">I wish you all thebest for 2007 !</span>  
   
   
-<img src="\%22http://idata.over-blog.com/0/50/48/55/santa.png\%22" class="\&quot;CtreTexte\&quot;" alt="\&quot;\&quot;" />  
-Credits: [Johann"nojhan" Dréo](\%22http://www.nojhan.net/geekscottes/index.php?strip=34\%22)  
-Licence: [CreativeCommons BY-ShareAlike](\%22http://creativecommons.org/licenses/by-sa/2.0/\%22)
+<img src="http://idata.over-blog.com/0/50/48/55/santa.png" class="CtreTexte" width="421" height="329" />  
+Credits: [Johann"nojhan" Dréo](http://www.nojhan.net/geekscottes/index.php?strip=34)  
+Licence: [CreativeCommons BY-ShareAlike](http://creativecommons.org/licenses/by-sa/2.0/)
 
 </div>
 

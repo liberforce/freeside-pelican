@@ -1,6 +1,6 @@
 Title: GNOME Fr33 !
-Date: 2011-04-07 19:02
-Author: liberforce
+Date: 2011-04-07 21:02
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: GNOME
 Slug: gnome-fr33
@@ -10,6 +10,6 @@ Congratulations to everyone involved in this great adventure! The roadwasn't str
 
 See you this summer in Berlin at Desktop Summit guys!
 
-![\\\\](\%22http://www.gnome.org/wp-content/uploads/2011/04/iamgnome.png\%22)
+![](http://www.gnome.org/wp-content/uploads/2011/04/iamgnome.png)
 
 </p>

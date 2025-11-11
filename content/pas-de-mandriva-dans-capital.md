@@ -1,12 +1,12 @@
 Title: Pas de Mandriva dans Capital...
-Date: 2008-09-08 00:19
-Author: liberforce
+Date: 2008-09-08 02:19
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: netbooks, médias, mandriva
 Slug: pas-de-mandriva-dans-capital
 Status: published
 
-Il y a quelques semaines, l'émission Capital de M6 était venue tourner des<a href="\%22http://blog.mandriva.com/2008/07/17/m6-en-exclusivite-chez-mandriva/\%22" hreflang="\&quot;fr\&quot;">imagesdu Gdium dans les locaux de Mandriva</a>, pour leur sujet sur les netbooks.Manque de chance, <a href="\%22http://linuxfr.org/%7Esebastienb/27169.html\%22" hreflang="\&quot;fr\&quot;">il semble</a> (j'ai raté lereportage) que les images soient passées à la trappe, et que Linux n'ait pasété cité une seule fois dans le reportage... alors que c'est un facteur debaisse de prix, et que c'est une des raisons du succès de ces machines.
+Il y a quelques semaines, l'émission Capital de M6 était venue tourner des<a href="http://blog.mandriva.com/2008/07/17/m6-en-exclusivite-chez-mandriva/" hreflang="fr">imagesdu Gdium dans les locaux de Mandriva</a>, pour leur sujet sur les netbooks.Manque de chance, <a href="http://linuxfr.org/%7Esebastienb/27169.html" hreflang="fr">il semble</a> (j'ai raté lereportage) que les images soient passées à la trappe, et que Linux n'ait pasété cité une seule fois dans le reportage... alors que c'est un facteur debaisse de prix, et que c'est une des raisons du succès de ces machines.
 
 **Mise à jour:**
 

@@ -1,6 +1,6 @@
 Title: Réponse de HP à la demande de remboursement
-Date: 2008-11-06 01:00
-Author: liberforce
+Date: 2008-11-06 01:58
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: racketiciel, hp
 Slug: reponse-de-hp-a-la-demande-de-remboursement

@@ -1,6 +1,6 @@
 Title: Quels sont les avantages et inconvénients de Linux par rapport à Windows ?
-Date: 2009-05-10 23:54
-Author: liberforce
+Date: 2009-05-11 01:53
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: QR, windows, linux
 Slug: quels-sont-les-avantages-et-inconvenients-de-linux-par-rapport-a-windows
@@ -18,8 +18,8 @@ C'est une question qu'on me pose souvent... Je mets ma réponse type ici pourla 
 
 - Garder un système sain, exempt de virus, spywares et autres, demandebeaucoup (trop) de connaissances.
 - C'est très cher pour ce que c'est : Microsoft fait la majorité de sesbénéfices sur Windows et Office, et vu que les gens pensent qu'ils n'ont pas lechoix, ils continuent soit de les acheter, soit de les « pirater ». Mais mêmeun logiciel piraté occupe le terrain et empêche ainsi la concurrence des'installer, cela ne résoud donc pas le problème.
-- Microsoft utilise une technique illégale (la vente liée) pour <a href="\%22http://www.racketiciel.info\%22" hreflang="\&quot;fr\&quot;">contraindre l'utilisateur à acheter unelicence d'utilisation de Windows</a> à l'achat d'un ordinateur, même sil'acheteur possède déjà un système d'exploitation. Les utilisateurs qui seretrouvent à devoir payer cette « taxe Microsoft » ne sont pas que desutilisateurs de systèmes alternatifs comme GNU/Linux. Il y a aussi ceux qui ontdéjà acheté une autre version de Windows en version boîte (par exemple uneversion Pro à la place de la version Familiale livrée d'origine), ou lesétudiants qui bénéficient par leur école d'un partenariat pour avoir unelicence Windows gratuite ou à prix réduit.
-- Windows facilite l'utilisation de DRM qui décident de ce que l'on a ledroit de faire avec de la musique, même légalement achetée. <a href="\%22http://www.numerama.com/magazine/10738-Le-geant-des-supermarches-aux-USA-ferme-ses-serveurs-de-DRM.html\%22" hreflang="\&quot;fr\&quot;">De nombreux services de vente de musique avec DRM ont fermé</a>, laissant lesutilisateurs se démerder avec leur musique (virgin, leclerc, wall mart,etc.)
+- Microsoft utilise une technique illégale (la vente liée) pour <a href="http://www.racketiciel.info" hreflang="fr">contraindre l'utilisateur à acheter unelicence d'utilisation de Windows</a> à l'achat d'un ordinateur, même sil'acheteur possède déjà un système d'exploitation. Les utilisateurs qui seretrouvent à devoir payer cette « taxe Microsoft » ne sont pas que desutilisateurs de systèmes alternatifs comme GNU/Linux. Il y a aussi ceux qui ontdéjà acheté une autre version de Windows en version boîte (par exemple uneversion Pro à la place de la version Familiale livrée d'origine), ou lesétudiants qui bénéficient par leur école d'un partenariat pour avoir unelicence Windows gratuite ou à prix réduit.
+- Windows facilite l'utilisation de DRM qui décident de ce que l'on a ledroit de faire avec de la musique, même légalement achetée. <a href="http://www.numerama.com/magazine/10738-Le-geant-des-supermarches-aux-USA-ferme-ses-serveurs-de-DRM.html" hreflang="fr">De nombreux services de vente de musique avec DRM ont fermé</a>, laissant lesutilisateurs se démerder avec leur musique (virgin, leclerc, wall mart,etc.)
 - Le « Windows rot », littéralement la « Pourriture Windows », phénomène quifait qu'après avoir installé et désinstallé plein d'applications à la noix, onse retrouve avec un système instable, lent au démarrage, et à l'utilisation, etqui fait croire à l'utilisateur Windows qu'il est normal de devoir reformatersa machine tous les 6 mois.
 
 ## Avantages de GNU/Linux :
@@ -35,8 +35,8 @@ C'est une question qu'on me pose souvent... Je mets ma réponse type ici pourla 
 
 ## Inconvénients de GNU/Linux :
 
-- Difficile d'acheter des logiciels en magasin (très dur d'en trouver pourLinux), et les logiciels pour Windows ne fonctionnent sous Linux qu'au cas parcas (en utilisant <a href="\%22http://fr.wikipedia.org/wiki/Wine\%22" hreflang="\&quot;fr\&quot;">Wine</a>).
+- Difficile d'acheter des logiciels en magasin (très dur d'en trouver pourLinux), et les logiciels pour Windows ne fonctionnent sous Linux qu'au cas parcas (en utilisant <a href="http://fr.wikipedia.org/wiki/Wine" hreflang="fr">Wine</a>).
 - Certains périphériques n'ont pas de pilote pour Linux, ou sont mal gérés.Cela arrive quand les constructeurs ne fournissent pas de pilotes Linux, ou nefournissent pas les spécifications du matériel pour que la communauté Linux lefasse. Il faut donc faire un peu plus attention à l'achat, et vérifier lacompatibilité avant l'achat.
-- Il peut être difficile d'installer une version récente d'une application sile distributeur de la <a href="\%22http://fr.wikipedia.org/wiki/Distribution_GNU/Linux\%22" hreflang="\&quot;fr\&quot;">distributionGNU/Linux</a> ne l'a pas mise à disposition.
+- Il peut être difficile d'installer une version récente d'une application sile distributeur de la <a href="http://fr.wikipedia.org/wiki/Distribution_GNU/Linux" hreflang="fr">distributionGNU/Linux</a> ne l'a pas mise à disposition.
 
 </p>

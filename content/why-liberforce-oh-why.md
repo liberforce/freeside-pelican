@@ -1,12 +1,12 @@
 Title: Why liberforce, oh why ?
-Date: 2007-09-26 22:14
-Author: liberforce
+Date: 2007-02-27 00:14
+Author: LM2153-GANDI
 Category: Gossip / Blabla
 Tags: Unclassified
 Slug: why-liberforce-oh-why
 Status: published
 
-<div class="\"contenuArticle\"">
+<div class="contenuArticle">
 
 Liberforce is my nick on the web. You may askyourself where this stupid nick comes from. Or not.  
 
@@ -17,7 +17,7 @@ Liberforce is my nick on the web. You may askyourself where this stupid nick com
 Select the invible text below to know the answer...  
   
 
-<div class="\"hitencart\"">
+<div class="hitencart">
 
 It's response c, it's all Populous fault's if I stilluse this stupid name :-)
 

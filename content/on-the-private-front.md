@@ -1,6 +1,6 @@
 Title: On the private front...
-Date: 2010-04-03 01:46
-Author: liberforce
+Date: 2010-04-03 03:46
+Author: LM2153-GANDI
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: on-the-private-front

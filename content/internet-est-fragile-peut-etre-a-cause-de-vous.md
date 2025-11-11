@@ -1,12 +1,12 @@
 Title: Internet est fragile... Peut être à cause de vous !
-Date: 2007-09-26 22:36
-Author: liberforce
+Date: 2007-02-08 00:35
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: internet-est-fragile-peut-etre-a-cause-de-vous
 Status: published
 
-Il semble qu'une nouvelle fois l'Internet a tremblé, mardi dernier lorsd'une [nouvelleattaque des serveurs DNS racine](\%22http://www.generation-nt.com/actualites/24013/sophos-zombie-internet-ddos/\%22). Cette attaque n'est pas la première,<a href="\%22/post/2007/01/12/La-fin-de-lInternet\%22" hreflang="\&quot;fr\&quot;">comme je l'ai déjàexpliqué</a>.  
+Il semble qu'une nouvelle fois l'Internet a tremblé, mardi dernier lorsd'une [nouvelleattaque des serveurs DNS racine](http://www.generation-nt.com/actualites/24013/sophos-zombie-internet-ddos/). Cette attaque n'est pas la première,<a href="/post/2007/01/12/La-fin-de-lInternet" hreflang="fr">comme je l'ai déjàexpliqué</a>.  
   
 Le problème c'est que vous y avez peut être contribué. Il faut pour celaremplir quelques conditions:
 
@@ -21,6 +21,6 @@ Rassurez vous, vous pouvez aussi faire plein d'autres choses à votreinsu:
 - Serveur d'images pédophiles
 - Distributeur de billets (si on vous pique vos coordonnées)
 
-Il y a de quoi se faire du mourron si on n'est pas informaticien et qu'on estsous Windows. C'est pas pour rien que j'ai passé un ou deux potes plutôtnovices en informatique sous [MandrivaLinux](\%22http://www.mandriva.com/fr/\%22). 0 risque de contamination (en tout cas tant qu'[onreprésente moins d'un pourcent du marché](\%22http://www.xitimonitor.com/fr-fr/technique/systemes-d-exploitation-fevrier-2007/index-1-1-3-73.html\%22) :-) ).
+Il y a de quoi se faire du mourron si on n'est pas informaticien et qu'on estsous Windows. C'est pas pour rien que j'ai passé un ou deux potes plutôtnovices en informatique sous [MandrivaLinux](http://www.mandriva.com/fr/). 0 risque de contamination (en tout cas tant qu'[onreprésente moins d'un pourcent du marché](http://www.xitimonitor.com/fr-fr/technique/systemes-d-exploitation-fevrier-2007/index-1-1-3-73.html) :-) ).
 
 </p>

@@ -1,6 +1,6 @@
 Title: Choisir son baladeur numérique - partie 3
-Date: 2007-10-26 00:01
-Author: liberforce
+Date: 2007-11-10 19:26
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: ogg, matériel, linux, baladeur numérique
 Slug: choisir-son-baladeur-numerique-partie-3
@@ -10,11 +10,11 @@ Status: published
 
 Le *Meizu M6 SL 8Go*.
 
-Consultez le <a href="\%22http://www.generationmp3.com/labotestgmp3/index.php/2006/09/12/73-test-et-video-du-meizu-miniplayer-m6\%22" hreflang="\&quot;fr\&quot;">test du Meizu M6 SP</a> sur GénérationMP3 pour connaitre ses spécificationsexactes. Le M6 SL est le successeur du M6 SP, mais <a href="\%22http://fr.meizublog.com/specifications-prix-et-dates-du-meizu-m6-sl/\%22" hreflang="\&quot;fr\&quot;">les deuxmodèles sont très similaires</a>.
+Consultez le <a href="http://www.generationmp3.com/labotestgmp3/index.php/2006/09/12/73-test-et-video-du-meizu-miniplayer-m6" hreflang="fr">test du Meizu M6 SP</a> sur GénérationMP3 pour connaitre ses spécificationsexactes. Le M6 SL est le successeur du M6 SP, mais <a href="http://fr.meizublog.com/specifications-prix-et-dates-du-meizu-m6-sl/" hreflang="fr">les deuxmodèles sont très similaires</a>.
 
-Prix: 133 € TTC, transport Chine-France inclus. Commandé sur ebay à [ygsd_cn1](\%22http://myworld.ebay.fr/ygsd_cn1\%22).
+Prix: 133 € TTC, transport Chine-France inclus. Commandé sur ebay à [ygsd_cn1](http://myworld.ebay.fr/ygsd_cn1).
 
-<img src="\%22/public/vrac/meizu_sl.jpg\%22" data-m6="" data-sl\"="" alt="\&quot;Meizu" />
+![Meizu M6 SL](/public/vrac/meizu_sl.jpg)
 
 ## Pourquoi lui ?
 
@@ -22,14 +22,14 @@ Et pourquoi pas :-) ? Bon, voici les principaux avantages que je luitrouvais, pa
 
 Avantages:
 
-- Gestion native du [Ogg](\%22http://fr.wikipedia.org/wiki/Ogg\%22)/[Vorbis](\%22http://fr.wikipedia.org/wiki/Vorbis\%22), avec le [FLAC](\%22http://fr.wikipedia.org/wiki/FLAC\%22) en bonus
-- Connexion <a href="\%22http://en.wikipedia.org/wiki/USB_mass_storage_device_class\%22" hreflang="\&quot;en\&quot;">UMS</a>, donccompatible avec tous les systèmes d'exploitation actuels sans pilotespécifique
+- Gestion native du [Ogg](http://fr.wikipedia.org/wiki/Ogg)/[Vorbis](http://fr.wikipedia.org/wiki/Vorbis), avec le [FLAC](http://fr.wikipedia.org/wiki/FLAC) en bonus
+- Connexion <a href="http://en.wikipedia.org/wiki/USB_mass_storage_device_class" hreflang="en">UMS</a>, donccompatible avec tous les systèmes d'exploitation actuels sans pilotespécifique
 - Connectique USB standard
 - Radio FM avec RDS
 - Dictaphone
 - Bonne autonomie (26h en audio, 4h30 en vidéo)
 - Navigation par tags ET par répertoires
-- Vidéos au format [Xvid](\%22http://fr.wikipedia.org/wiki/Xvid\%22)
+- Vidéos au format [Xvid](http://fr.wikipedia.org/wiki/Xvid)
 
 Inconvénients:
 
@@ -39,7 +39,7 @@ Inconvénients:
 
 Je l'ai choisi pour toutes ces raisons, et surtout le fait qu'il utilise desformats ouverts et une connectique standard, avec un très bon rapport qualitéprix.
 
-Vous pouvez consulter les <a href="\%22http://en.meizu.com/product_m6sl.asp\%22" hreflang="\&quot;en\&quot;">spécifications complètes du Meizu M6SL</a> pour plus d'informations.
+Vous pouvez consulter les <a href="http://en.meizu.com/product_m6sl.asp" hreflang="en">spécifications complètes du Meizu M6SL</a> pour plus d'informations.
 
 ## Pourquoi l'importer ?
 
@@ -63,10 +63,10 @@ Merci beaucoup à Bob pour m'avoir parlé dans les commentaire de ce blog dece m
 
 ## Ressources externes
 
-- <a href="\%22http://www.meizume.com\%22" hreflang="\&quot;en\&quot;">Le forum Meizu</a>
-- <a href="\%22http://meizu-miniplayer.blogspot.com\%22" hreflang="\&quot;fr\&quot;">Le blogconsacré au Meizu</a>
-- <a href="\%22http://www.llaumgui.com/tag/Meizu%20M3\%22" hreflang="\&quot;fr\&quot;">Le blog surle Meizu M3, orienté linux</a>
-- <a href="\%22http://fr.meizublog.com/faq/\%22" hreflang="\&quot;fr\&quot;">La FAQ Meizu</a>
-- <a href="\%22http://en.meizu.com/downfile/M6manual_T1.009.pdf\%22" hreflang="\&quot;en\&quot;">Lemanuel en anglais au format PDF</a>
+- <a href="http://www.meizume.com" hreflang="en">Le forum Meizu</a>
+- <a href="http://meizu-miniplayer.blogspot.com" hreflang="fr">Le blogconsacré au Meizu</a>
+- <a href="http://www.llaumgui.com/tag/Meizu%20M3" hreflang="fr">Le blog surle Meizu M3, orienté linux</a>
+- <a href="http://fr.meizublog.com/faq/" hreflang="fr">La FAQ Meizu</a>
+- <a href="http://en.meizu.com/downfile/M6manual_T1.009.pdf" hreflang="en">Lemanuel en anglais au format PDF</a>
 
 </p>

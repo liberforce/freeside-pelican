@@ -1,6 +1,6 @@
 Title: \"Here\" is nowhere...
-Date: 2007-09-26 22:15
-Author: liberforce
+Date: 2007-02-27 00:15
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: here-is-nowhere
@@ -12,6 +12,6 @@ Every now and then, I see someone linking to a web page using  the"here" or "cl
 - for humans who can't figure out without reading the context what is theinformation you want to share
 - for humans with disabilities
 
-You'll find more explanations about why this is bad practice h... Well... Imeant: Just read [whylinking with "click here" is bad practice](\%22http://www.cs.tut.fi/%7Ejkorpela/www/click.html\%22).
+You'll find more explanations about why this is bad practice h... Well... Imeant: Just read [whylinking with "click here" is bad practice](http://www.cs.tut.fi/%7Ejkorpela/www/click.html).
 
 </p>

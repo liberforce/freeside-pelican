@@ -1,12 +1,12 @@
 Title: Number of the day: 185 !
-Date: 2007-10-01 17:41
-Author: liberforce
+Date: 2007-04-07 19:39
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: GNOME
 Slug: number-of-the-day-185
 Status: published
 
-This is the number of lines in the code shipped with GNOME 2.18 that use a[deprecatedsymbol in GLib](\%22http://developer.gnome.org/doc/API/2.0/glib/ix02.html\%22). The winner, by far, is *g_strcasecmp.*  
+This is the number of lines in the code shipped with GNOME 2.18 that use a[deprecatedsymbol in GLib](http://developer.gnome.org/doc/API/2.0/glib/ix02.html). The winner, by far, is *g_strcasecmp.*  
   
 at-spi/test/test-simple.c:766:        if(!g_strcasecmp (argv \[i\], "--poke"))  
 evolution-data-server/calendar/libecal/e-cal-time-util.c:425: \* This isanalogous to g_date_set_time() but takes the timezone into account.  

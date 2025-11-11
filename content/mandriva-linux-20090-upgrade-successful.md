@@ -1,6 +1,6 @@
 Title: Mandriva Linux 2009.0 : upgrade successful
-Date: 2008-10-12 23:23
-Author: liberforce
+Date: 2008-10-14 02:50
+Author: LM2153-GANDI
 Category: Computers / Informatique
 Tags: migration, mandriva, linux
 Slug: mandriva-linux-20090-upgrade-successful
@@ -10,39 +10,39 @@ But not without glitches.
 
 Here's how it went. I tried to remain in the position of a newcomer that hasno clue about what a command line interface is, so even if I used a terminal acouple of times, it was just to check some stuff, not to fix it. I launched themdkonline applet for the purpose of the upgrade (I always disable it because ofit wastes too much memory to my taste).
 
-<img src="\%22/public/mandriva/migration_2009.0/migration-applet.png\%22" title="\&quot;Applet" data-de="" data-migration,="" data-oct="" data-2008\"="" data-applet\"="" alt="\&quot;Migration" />
+![Migration applet](/public/mandriva/migration_2009.0/migration-applet.png "Applet de migration, oct 2008")
 
 Once launched, a notification popup appeared telling me there was a newdistro available. If I record well, I clicked on the applet (and not on thepopup), and was a bit surprised to be shown 2008.1 updates. I did those andwaited a bit more. I was once again presented with the "new distro available"notification popup. I clicked again on the applet, and was presented the distroupgrade dialog.
 
-<img src="\%22/public/mandriva/migration_2009.0/Capture-Une_nouvelle_distribution_stable_est_disponible.png\%22" title="\&quot;Une" data-nouvelle="" data-est="" data-disponible,="" data-oct="" data-2008\"="" data-stable="" data-distribution="" data-available\"="" alt="\&quot;&#39;New" />
+!['New stable distribution available](/public/mandriva/migration_2009.0/Capture-Une_nouvelle_distribution_stable_est_disponible.png "Une nouvelle distribution stable est disponible, oct 2008")
 
-Note : I really hate Yes/No dialogs. Pretty please, Mr. Developer,<a href="\%22http://library.gnome.org/devel/hig-book/stable/controls-buttons.html.en\%22" hreflang="\&quot;en\&quot;">useactions verbs on your buttons instead of Yes/No</a> (with button icons would beeven better) ! I the accepted the upgrade, and the new media sources weredownloaded and updated. Using the Aria IP geolocation, the Free (frenchprovider) mirrors were selected, and the upgrade process started downloadingand installing the packages.
+Note : I really hate Yes/No dialogs. Pretty please, Mr. Developer,<a href="http://library.gnome.org/devel/hig-book/stable/controls-buttons.html.en" hreflang="en">useactions verbs on your buttons instead of Yes/No</a> (with button icons would beeven better) ! I the accepted the upgrade, and the new media sources weredownloaded and updated. Using the Aria IP geolocation, the Free (frenchprovider) mirrors were selected, and the upgrade process started downloadingand installing the packages.
 
-<img src="\%22/public/mandriva/migration_2009.0/Capture-Mise_a_jour_de_la_distribution2.png\%22" title="\&quot;Mise" data-à="" data-jour="" data-de="" data-la="" data-distribution,="" data-oct="" data-2008\"="" alt="\&quot;\&quot;" />
+![](/public/mandriva/migration_2009.0/Capture-Mise_a_jour_de_la_distribution2.png "Mise à jour de la distribution, oct 2008")
 
 Here came the first problem : a curl error, because a package could not bedownloaded. I think this happened because the mirror may have been a bitoverloaded. So I had this error (no screenshot, sorry), and was presented thisdialog.
 
-<img src="\%22/public/mandriva/migration_2009.0/Capture-Felicitations.png\%22" title="\&quot;Félicitations," data-oct="" data-2008\"="" alt="\&quot;\&quot;" />
+![](/public/mandriva/migration_2009.0/Capture-Felicitations.png "Félicitations, oct 2008")
 
 Yep. The error detection code sucks : if a package download fails, it tellsyou the upgrade is finished.  A cat /etc/mandriva-release confirmed methat I still was using 2008.1. Here, even if the dialog recommended it, Ifeared that a reboot could do more harm than good, trying to boot a2008.1/2009.0 hybrid. So I started again the upgrade, and had more errors.
 
-<img src="\%22/public/mandriva/migration_2009.0/Capture-gurpmi2.png\%22" title="\&quot;gurpmi," data-oct="" data-2008\"="" data-error\"="" alt="\&quot;aria" />
+![aria error](/public/mandriva/migration_2009.0/Capture-gurpmi2.png "gurpmi, oct 2008")
 
 First I had an aria error, because the mirrors lists were unreachable Ithink. Then a dependency error , due to the fact that the upgrade had beeninterrupted. The drakxtooks couldn't be updated because the perl-Gtk2-Webkitpackage was missing, and this message was blocking the whole update.
 
-<img src="\%22/public/mandriva/migration_2009.0/Capture-Certains_paquetages_ne_peuvent_pas_etre_installes.png\%22" title="\&quot;Certains" data-paquetages="" data-ne="" data-peuvent="" data-être="" data-installés,="" data-oct="" data-2008\"="" data-can't="" data-install\"="" alt="\&quot;drakxtools" />
+![drakxtools can't install](/public/mandriva/migration_2009.0/Capture-Certains_paquetages_ne_peuvent_pas_etre_installes.png "Certains paquetages ne peuvent être installés, oct 2008")
 
 Seeing no other alternative, I closed the session, to avoid rebooting. Itried to login : my login was refused ! With no other choice, I then crossedfingers and rebooted... A few seconds after, I was happy to see GDM and not alogin prompt. I could log into my account, and started once again to upgrade.Then again, I had Aria errors and couldn't have the "Main updates" media.
 
-<img src="\%22/public/mandriva/migration_2009.0/Capture-Erreur-media.png\%22" title="\&quot;Erreur" data-média,="" data-oct="" data-2008\"="" data-error\"="" alt="\&quot;media" />
+![media error](/public/mandriva/migration_2009.0/Capture-Erreur-media.png "Erreur média, oct 2008")
 
 But still, the upgrade went on, with a (very) long packages download/installcycle. I hope Mandriva will do something about that, because it was one of thelongest upgrades I had ever been through. Before that, I had always done myupgrades seldomly by reinstalling (to check the choices that were made fordefaut applications), but most of the time, using the `init 3/urpmi --auto--auto-select/init 5` technique (and not forgetting to upgrade the kerneltoo). Oh, by the way, during the install, I had a warning telling me my /bootpartition was 99% full, but it caused no harm. I removed some old kernels sincethen, and everything's fine.
 
 The "upgrade completed" dialog appeared once again, but this time, the iconshowed was using the 2009.0 graphical style (which I don't really like, MCCicons were much nicer on previous releases - old doesn't mean it has tochange).
 
-<img src="\%22/public/mandriva/migration_2009.0/Capture-Felicitations-1.png\%22" title="\&quot;Félicitations" data-ok,="" data-oct="" data-2008\"="" alt="\&quot;\&quot;" />
+![](/public/mandriva/migration_2009.0/Capture-Felicitations-1.png "Félicitations ok, oct 2008")
 
-Following the given advice, I rebooted, and started thinking that a "Close"button would have been better than the "Ok" one (yep. I find that even if a bitoutdated, the <a href="\%22http://library.gnome.org/devel/hig-book/stable/\%22" hreflang="\&quot;en\&quot;">HIG</a> are still great).
+Following the given advice, I rebooted, and started thinking that a "Close"button would have been better than the "Ok" one (yep. I find that even if a bitoutdated, the <a href="http://library.gnome.org/devel/hig-book/stable/" hreflang="en">HIG</a> are still great).
 
 Once my session opened, the update applet still tells that I can migrate to2009.0 ! However, fixing my "Main updates" media problem (the main miror set byAria had an MD5SUM error on the synthesis file for this media), was as easy assetting by hand a new mirror, and looking for updates. The only broken thingwas my firefox panel icon, which had disappeared, since the icon had beenrenamed from firefox.png (2008.1) to firefox3.png (2009.0).
 
@@ -55,16 +55,16 @@ Once my session opened, the update applet still tells that I can migrate to2009.
 
 Before :
 
-<img src="\%22/public/mandriva/migration_2009.0/menus-before.png\%22" title="\&quot;Menus" data-(avant),="" data-oct="" data-2008\"="" alt="\&quot;\&quot;" />
+![](/public/mandriva/migration_2009.0/menus-before.png "Menus (avant), oct 2008")
 
 After :
 
-<img src="\%22/public/mandriva/migration_2009.0/menus-after.png\%22" title="\&quot;Menus" data-(après),="" data-oct="" data-2008\"="" alt="\&quot;\&quot;" />
+![](/public/mandriva/migration_2009.0/menus-after.png "Menus (après), oct 2008")
 
 ## The bad:
 
 - The upgrade didn't happen flawlessly.
-- Mandriva really needs to take into account the basics of the <a href="\%22http://library.gnome.org/devel/hig-book/stable/\%22" hreflang="\&quot;en\&quot;">HIG</a> for everynew dialog they create.
+- Mandriva really needs to take into account the basics of the <a href="http://library.gnome.org/devel/hig-book/stable/" hreflang="en">HIG</a> for everynew dialog they create.
 - When there's a md5sum error on an hdlist file on a mirror, aria doesn'tautomatically try to use another mirror.
 - The whole process was painfully slow, despite my AMD 3000+ CPU and a 20Mb/sconnection.
 - It seems that KDE users have much more trouble with the migration, whichwas to be expected with the huge changes from KDE3 to KDE4. Sorry for them:-(.
