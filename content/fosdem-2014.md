@@ -6,8 +6,6 @@ Tags: GNOME, FOSDEM
 Slug: fosdem-2014
 Status: published
 
-Déjà 2 semaines depuis le dernier FOSDEM... L'occasion de rencontrer lespotes de GNOME-FR (merci à Fred pour l'hébergement et les bières ;-)), goûterles spécialités locales, et rencontrer les utilisateurs de GNOME. Il devraitd'ailleurs y avoir un peu de mouvement suite à certaines rencontres. Àsuivre…
+Déjà 2 semaines depuis le dernier FOSDEM... L'occasion de rencontrer les potes de GNOME-FR (merci à Fred pour l'hébergement et les bières ;-)), goûter les spécialités locales, et rencontrer les utilisateurs de GNOME. Il devrait d'ailleurs y avoir un peu de mouvement suite à certaines rencontres. À suivre…
 
-Et pour la première fois pour moi, la possibilité de participer cetévénement à titre professionnel ! Merci à [SoftAtHome](http://softathome.com) d'avoir sponsorisé mon voyage !
-
-</p>
+Et pour la première fois pour moi, la possibilité de participer cet événement à titre professionnel ! Merci à [SoftAtHome](http://softathome.com) d'avoir sponsorisé mon voyage !

@@ -6,8 +6,6 @@ Tags: Unclassified
 Slug: its-big-its-white-its-hairy
 Status: published
 
-It's [Big BuckBunny](http://www.bigbuckbunny.org/index.php/download/) !
+It's [Big Buck Bunny](http://www.bigbuckbunny.org/index.php/download/) !
 
 Enjoy !
-
-</p>

@@ -8,8 +8,6 @@ Status: published
 
 Bonjour à tous les lecteurs de planète GNOME-FR !  
   
-[Vincent](http://www.vuntz.net/journal/) m'a permis de vousrejoindre pour votre plus grand bonheur, ce qui a provoqué une quantité nonnégligeable de spam sur la planète... Je m'en excuse, n'ayant pas trop decontrôle sur ce point. J'en ai même profité pour introduire par la mêmeoccasion mon premier troll politique, bien involontairement également (ce postlà n'était pas censé se retrouver ici !).  
+[Vincent](http://www.vuntz.net/journal/) m'a permis de vous rejoindre pour votre plus grand bonheur, ce qui a provoqué une quantité non négligeable de spam sur la planète... Je m'en excuse, n'ayant pas trop de contrôle sur ce point. J'en ai même profité pour introduire par la même occasion mon premier troll politique, bien involontairement également (ce post là n'était pas censé se retrouver ici !).  
   
-Pour ce qui ne me connaissent pas (et il doit y en avoir un paquet), je vousrenvois à mon <a href="/post/2006/12/06/Il-y-a-un-debut-a-tout" hreflang="fr">billet d'introduction</a>. Autrement,je traine en ce moment mes guêtres du côté d'[Ekiga](http://ekiga.org/), au niveau de la migration à GTK+ 2.10. Et puisj'ai un petit projet qui arrivera peut être après ça, si j'ai un peu plusavancé côté professionnel (c'est à dire si je suis moins à la bourre sur monprojet). Mais chut, ne le dites à personne.
-
-</p>
+Pour ce qui ne me connaissent pas (et il doit y en avoir un paquet), je vous renvois à mon <a href="/post/2006/12/06/Il-y-a-un-debut-a-tout" hreflang="fr">billet d'introduction</a>. Autrement, je traine en ce moment mes guêtres du côté d'[Ekiga](http://ekiga.org/), au niveau de la migration à GTK+ 2.10. Et puis j'ai un petit projet qui arrivera peut être après ça, si j'ai un peu plus avancé côté professionnel (c'est à dire si je suis moins à la bourre sur mon projet). Mais chut, ne le dites à personne.

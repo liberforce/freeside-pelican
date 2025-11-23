@@ -8,21 +8,19 @@ Status: published
 
 <div class="contenuArticle">
 
-Liberforce is my nick on the web. You may askyourself where this stupid nick comes from. Or not.  
+Liberforce is my nick on the web. You may ask yourself where this stupid nick comes from. Or not.  
 
 - a\) This is how my friends call me
-- b\) This is a name made up from "libre" (*free* as in freedom infrench) and "force", to actually carry the idea of the force of freedom ingeneral, and more precisely in the software world.
-- c\) It's the first answer I found to the question "How will you be known asamong the gods?" in the "Populous II" game, back when I was 12, in my old Amiga500 days
+- b\) This is a name made up from "libre" (*free* as in freedom in french) and "force", to actually carry the idea of the force of freedom in general, and more precisely in the software world.
+- c\) It's the first answer I found to the question "How will you be known as among the gods?" in the "Populous II" game, back when I was 12, in my old Amiga 500 days
 
 Select the invible text below to know the answer...  
   
 
 <div class="hitencart">
 
-It's response c, it's all Populous fault's if I stilluse this stupid name :-)
+It's response c, it's all Populous fault's if I still use this stupid name :-)
 
 </div>
 
 </div>
-
-</p>

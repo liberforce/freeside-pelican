@@ -6,8 +6,6 @@ Tags: mageia, mandriva
 Slug: bye-bye-planet-mandriva
 Status: published
 
-Je viens de constater que je suis encore sur [Planète Mandriva](http://planetmandriva.zarb.org/). Pourtant cela faitbientôt 2 ans que je suis passé à [Mageia](http://www.mageia.org),et je suis content de ce choix. Par conséquent, je viens d'envoyer un mail pourêtre retiré de la planète...
+Je viens de constater que je suis encore sur [Planète Mandriva](http://planetmandriva.zarb.org/). Pourtant cela fait bientôt 2 ans que je suis passé à [Mageia](http://www.mageia.org), et je suis content de ce choix. Par conséquent, je viens d'envoyer un mail pour être retiré de la planète...
 
-Bye bye [Mandriva](http://www.mandriva.com), nous aurons passé debons moments ensemble, depuis la Mandrake 9.1.
-
-</p>
+Bye bye [Mandriva](http://www.mandriva.com), nous aurons passé de bons moments ensemble, depuis la Mandrake 9.1.

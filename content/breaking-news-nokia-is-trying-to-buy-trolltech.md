@@ -9,5 +9,3 @@ Status: published
 Will it be for the best or the worst ?
 
 <a href="http://www.nokia.com/A4136001?newsid=1185531" hreflang="en">http://www.nokia.com/A4136001?newsid=1185531</a>
-
-</p>

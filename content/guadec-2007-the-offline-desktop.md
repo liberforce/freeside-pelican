@@ -7,5 +7,3 @@ Slug: guadec-2007-the-offline-desktop
 Status: published
 
 ![](/public/guadec/2007/offline-desktop.png)
-
-</p>

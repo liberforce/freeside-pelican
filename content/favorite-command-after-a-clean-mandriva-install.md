@@ -6,6 +6,5 @@ Tags: mandriva
 Slug: favorite-command-after-a-clean-mandriva-install
 Status: published
 
-    urpme -a mono
 
-</p>
+    urpme -a mono
