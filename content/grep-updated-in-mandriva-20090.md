@@ -1,6 +1,6 @@
 Title: Grep updated in Mandriva 2009.0
 Date: 2008-10-22 18:16
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: mandriva, grep
 Slug: grep-updated-in-mandriva-20090

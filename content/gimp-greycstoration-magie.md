@@ -1,6 +1,6 @@
 Title: GIMP + GREYCstoration = magie
 Date: 2008-03-11 01:50
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: hikaru, GREYcstoration, GIMP
 Slug: gimp-greycstoration-magie

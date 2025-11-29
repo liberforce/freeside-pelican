@@ -1,6 +1,6 @@
 Title: Over-blog: It's not a bug, it's a feature...
 Date: 2007-07-27 23:39
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: Unclassified
 Slug: over-blog-its-not-a-bug-its-a-feature

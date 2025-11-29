@@ -1,6 +1,6 @@
 Title: Question Yahoo du jour
 Date: 2007-02-09 00:34
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: question-yahoo-du-jour

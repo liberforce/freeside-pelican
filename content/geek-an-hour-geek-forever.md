@@ -1,6 +1,6 @@
 Title: Geek an hour, geek forever
 Date: 2010-04-03 03:11
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: mandriva, jeux
 Slug: geek-an-hour-geek-forever

@@ -1,6 +1,6 @@
 Title: Best wishes of an happy new year!
 Date: 2007-01-05 02:45
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: best-wishes-of-an-happy-new-year

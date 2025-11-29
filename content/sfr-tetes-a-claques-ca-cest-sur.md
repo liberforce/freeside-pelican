@@ -1,6 +1,6 @@
 Title: SFR: Têtes à claques, ça c'est sûr...
 Date: 2007-08-21 03:20
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: sfr, publicité
 Slug: sfr-tetes-a-claques-ca-cest-sur

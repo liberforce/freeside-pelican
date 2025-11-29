@@ -1,6 +1,6 @@
 Title: FOSDEM 2017
 Date: 2017-02-01 18:49
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: FOSDEM
 Slug: fosdem-2017

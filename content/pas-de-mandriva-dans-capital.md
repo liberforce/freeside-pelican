@@ -1,6 +1,6 @@
 Title: Pas de Mandriva dans Capital...
 Date: 2008-09-08 02:19
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: netbooks, médias, mandriva
 Slug: pas-de-mandriva-dans-capital

@@ -1,6 +1,6 @@
 Title: J'aimerais être une petite souris...
 Date: 2007-04-23 19:30
-Author: LM2153-GANDI
+Author: liberforce
 Category: Politics / Politique
 Tags: Unclassified
 Slug: jaimerais-etre-une-petite-souris

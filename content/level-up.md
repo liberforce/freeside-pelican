@@ -1,6 +1,6 @@
 Title: Level up
 Date: 2008-10-14 11:33
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME
 Slug: level-up

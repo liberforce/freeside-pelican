@@ -1,6 +1,6 @@
 Title: Retour de vacances...
 Date: 2007-01-26 03:05
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: retour-de-vacances

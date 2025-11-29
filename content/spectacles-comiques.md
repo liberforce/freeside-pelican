@@ -1,6 +1,6 @@
 Title: Spectacles comiques
 Date: 2006-12-23 03:13
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: spectacles-comiques

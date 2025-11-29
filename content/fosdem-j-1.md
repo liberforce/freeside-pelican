@@ -1,6 +1,6 @@
 Title: FOSDEM: J - 1
 Date: 2007-02-22 00:21
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: FOSDEM
 Slug: fosdem-j-1

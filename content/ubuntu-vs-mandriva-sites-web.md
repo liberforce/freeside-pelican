@@ -1,6 +1,6 @@
 Title: Ubuntu vs Mandriva: sites web
 Date: 2007-03-27 01:02
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: mandriva
 Slug: ubuntu-vs-mandriva-sites-web

@@ -1,6 +1,6 @@
 Title: Hasta la Vista...
 Date: 2007-01-31 03:06
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: hasta-la-vista

@@ -1,6 +1,6 @@
 Title: Mandriva positioning on the Linux market
 Date: 2008-04-22 00:44
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME, mandriva
 Slug: mandriva-positioning-on-the-linux-market

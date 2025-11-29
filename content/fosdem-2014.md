@@ -1,6 +1,6 @@
 Title: FOSDEM 2014
 Date: 2014-02-14 02:35
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME, FOSDEM
 Slug: fosdem-2014

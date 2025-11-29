@@ -1,6 +1,6 @@
 Title: First commit!
 Date: 2009-06-14 04:29
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME
 Slug: first-commit

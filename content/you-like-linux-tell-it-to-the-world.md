@@ -1,6 +1,6 @@
 Title: You like Linux ? Tell it to the world !
 Date: 2010-04-07 16:08
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: linux
 Slug: you-like-linux-tell-it-to-the-world

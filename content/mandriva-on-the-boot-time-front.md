@@ -1,6 +1,6 @@
 Title: Mandriva on the boot time front
 Date: 2008-09-30 02:23
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: mandriva, boot time
 Slug: mandriva-on-the-boot-time-front

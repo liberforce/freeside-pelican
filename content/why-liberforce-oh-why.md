@@ -1,6 +1,6 @@
 Title: Why liberforce, oh why ?
 Date: 2007-02-27 00:14
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: Unclassified
 Slug: why-liberforce-oh-why

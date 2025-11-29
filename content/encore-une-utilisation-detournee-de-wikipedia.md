@@ -1,6 +1,6 @@
 Title: Encore une utilisation détournée de Wikipédia...
 Date: 2007-07-24 23:36
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: wikipédia
 Slug: encore-une-utilisation-detournee-de-wikipedia

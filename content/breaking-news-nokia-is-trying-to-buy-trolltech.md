@@ -1,6 +1,6 @@
 Title: Breaking news: Nokia is trying to buy Trolltech
 Date: 2008-01-28 11:32
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: breaking-news-nokia-is-trying-to-buy-trolltech

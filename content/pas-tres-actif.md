@@ -1,6 +1,6 @@
 Title: Pas très actif
 Date: 2008-01-19 03:13
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: politique, mandriva, jeux
 Slug: pas-tres-actif

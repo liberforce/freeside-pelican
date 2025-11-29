@@ -1,6 +1,6 @@
 Title: Next step to rule the world : done
 Date: 2008-04-09 20:56
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: mandriva
 Slug: next-step-to-rule-the-world-done

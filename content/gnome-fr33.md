@@ -1,6 +1,6 @@
 Title: GNOME Fr33 !
 Date: 2011-04-07 21:02
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME
 Slug: gnome-fr33

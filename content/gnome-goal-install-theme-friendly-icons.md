@@ -1,6 +1,6 @@
 Title: GNOME Goal: Install theme-friendly icons
 Date: 2007-04-24 19:34
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME Goals, GNOME
 Slug: gnome-goal-install-theme-friendly-icons

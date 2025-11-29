@@ -1,6 +1,6 @@
 Title: Quoi de neuf docteur ?
 Date: 2007-05-30 23:51
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: GNOME
 Slug: quoi-de-neuf-docteur

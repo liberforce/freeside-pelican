@@ -1,6 +1,6 @@
 Title: Mandriva : thumbs up, GNOME : thumbs down
 Date: 2009-05-05 04:25
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: mandriva, GNOME
 Slug: mandriva-thumbs-up-gnome-thumbs-down

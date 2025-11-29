@@ -1,6 +1,6 @@
 Title: git-bz and Firefox
 Date: 2012-07-30 17:50
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: git, GNOME
 Slug: git-bz-and-firefox

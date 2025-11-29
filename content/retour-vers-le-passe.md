@@ -1,6 +1,6 @@
 Title: Retour vers le passé
 Date: 2008-10-23 03:54
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: appartement
 Slug: retour-vers-le-passe

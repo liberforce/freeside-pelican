@@ -1,6 +1,6 @@
 Title: Album Jamendo de la semaine: Baïki
 Date: 2007-09-28 19:43
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: jamendo
 Slug: album-jamendo-de-la-semaine-baiki

@@ -1,6 +1,6 @@
 Title: About E-waste
 Date: 2007-11-27 18:09
-Author: LM2153-GANDI
+Author: liberforce
 Category: Ecology  / Ecologie
 Tags: matériel, consommation, écologie
 Slug: about-e-waste

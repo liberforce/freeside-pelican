@@ -1,6 +1,6 @@
 Title: En dırect d'Istanbul
 Date: 2008-07-07 11:07
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: GUADEC, GNOME
 Slug: en-direct-distanbul

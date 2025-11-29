@@ -1,6 +1,6 @@
 Title: Bientôt le passage chez le notaire...
 Date: 2008-08-18 03:26
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: loi, immobilier
 Slug: bientot-le-passage-chez-le-notaire

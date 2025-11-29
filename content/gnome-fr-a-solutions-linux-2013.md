@@ -1,6 +1,6 @@
 Title: GNOME-FR à Solutions Linux 2013
 Date: 2013-04-29 16:51
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME
 Slug: gnome-fr-a-solutions-linux-2013

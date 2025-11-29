@@ -1,6 +1,6 @@
 Title: Un nouveau baladeur...
 Date: 2009-08-19 02:31
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: gstreamer, baladeur numérique
 Slug: un-nouveau-baladeur

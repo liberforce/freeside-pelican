@@ -1,6 +1,6 @@
 Title: Mandriva 2008 se rapproche...
 Date: 2007-10-05 13:17
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: mandriva
 Slug: mandriva-2008-se-rapproche

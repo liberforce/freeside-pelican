@@ -1,6 +1,6 @@
 Title: Compte rendu du FOSDEM
 Date: 2007-02-26 00:18
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: FOSDEM, bande dessinée
 Slug: compte-rendu-du-fosdem

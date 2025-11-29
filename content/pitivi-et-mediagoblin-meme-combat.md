@@ -1,6 +1,6 @@
 Title: Pitivi et MediaGoblin, même combat !
 Date: 2014-03-31 00:50
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: pitivi, gstreamer, GNOME
 Slug: pitivi-et-mediagoblin-meme-combat

@@ -1,6 +1,6 @@
 Title: (M|T)aux de tête
 Date: 2006-12-20 03:09
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: mtaux-de-tete

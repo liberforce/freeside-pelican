@@ -1,6 +1,6 @@
 Title: La fin de la pub à Paris ?
 Date: 2007-12-17 00:06
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: google, wikipédia, publicité
 Slug: la-fin-de-la-pub-a-paris

@@ -1,6 +1,6 @@
 Title: Le conseiller Windows
 Date: 2007-02-20 08:22
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: publicité
 Slug: le-conseiller-windows

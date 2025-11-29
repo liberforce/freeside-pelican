@@ -1,6 +1,6 @@
 Title: Beauty And The Geek: let's geek again !
 Date: 2007-09-18 03:17
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: tv
 Slug: beauty-and-the-geek-lets-geek-again

@@ -1,6 +1,6 @@
 Title: Bilan de l'opération \"stop pub\", on embraye sur la suite...
 Date: 2007-09-18 03:19
-Author: LM2153-GANDI
+Author: liberforce
 Category: Ecology  / Ecologie
 Tags: sfr, publicité
 Slug: bilan-de-loperation-stop-pub-on-embraye-sur-la-suite

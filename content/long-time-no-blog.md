@@ -1,6 +1,6 @@
 Title: Long time no blog...
 Date: 2008-01-19 02:49
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: GNOME, jamendo
 Slug: long-time-no-blog

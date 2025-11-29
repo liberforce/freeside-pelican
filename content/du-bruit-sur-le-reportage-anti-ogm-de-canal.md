@@ -1,6 +1,6 @@
 Title: Du bruit sur le reportage anti-OGM de Canal+...
 Date: 2007-02-07 00:37
-Author: LM2153-GANDI
+Author: liberforce
 Category: Ecology  / Ecologie
 Tags: Unclassified
 Slug: du-bruit-sur-le-reportage-anti-ogm-de-canal

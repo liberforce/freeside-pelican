@@ -1,6 +1,6 @@
 Title: Sélection Jamendo de la semaine
 Date: 2007-05-16 23:55
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: jamendo
 Slug: selection-jamendo-de-la-semaine

@@ -1,6 +1,6 @@
 Title: Personnaliser Firefox pour GNOME 3
 Date: 2013-02-05 16:12
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: firefox, GNOME
 Slug: personnaliser-firefox-pour-gnome-3

@@ -1,6 +1,6 @@
 Title: Go players ?
 Date: 2008-08-09 11:04
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: go, GUADEC, GNOME
 Slug: go-players

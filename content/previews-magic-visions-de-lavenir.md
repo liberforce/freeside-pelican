@@ -1,6 +1,6 @@
 Title: Previews Magic: Visions de l'avenir
 Date: 2007-04-20 19:28
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: MTG
 Slug: previews-magic-visions-de-lavenir

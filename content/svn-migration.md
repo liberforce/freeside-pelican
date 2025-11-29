@@ -1,6 +1,6 @@
 Title: SVN migration
 Date: 2007-01-05 02:51
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: svn-migration

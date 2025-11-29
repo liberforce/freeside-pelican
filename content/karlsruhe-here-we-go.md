@@ -1,6 +1,6 @@
 Title: Karlsruhe, here we go !
 Date: 2016-07-25 22:01
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GUADEC, GNOME
 Slug: karlsruhe-here-we-go

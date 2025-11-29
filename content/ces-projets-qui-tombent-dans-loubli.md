@@ -1,6 +1,6 @@
 Title: Ces projets qui tombent dans l'oubli...
 Date: 2007-06-06 23:45
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: ces-projets-qui-tombent-dans-loubli

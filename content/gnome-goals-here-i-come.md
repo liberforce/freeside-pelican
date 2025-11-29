@@ -1,6 +1,6 @@
 Title: GNOME Goals, here I come !
 Date: 2008-12-04 03:02
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME Goals, GNOME
 Slug: gnome-goals-here-i-come

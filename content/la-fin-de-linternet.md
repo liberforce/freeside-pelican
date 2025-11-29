@@ -1,6 +1,6 @@
 Title: La fin de l'Internet ?
 Date: 2007-01-12 03:00
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: la-fin-de-linternet

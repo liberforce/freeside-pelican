@@ -1,6 +1,6 @@
 Title: Vacances, neige et écologie
 Date: 2007-01-09 02:55
-Author: LM2153-GANDI
+Author: liberforce
 Category: Ecology  / Ecologie
 Tags: Unclassified
 Slug: vacances-neige-et-ecologie

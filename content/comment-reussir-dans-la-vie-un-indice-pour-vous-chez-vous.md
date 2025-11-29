@@ -1,6 +1,6 @@
 Title: Comment réussir dans la vie ? Un indice, pour vous, chez vous.
 Date: 2008-06-17 01:08
-Author: LM2153-GANDI
+Author: liberforce
 Category: Politics / Politique
 Tags: sarko
 Slug: comment-reussir-dans-la-vie-un-indice-pour-vous-chez-vous

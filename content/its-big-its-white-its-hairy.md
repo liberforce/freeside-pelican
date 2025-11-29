@@ -1,6 +1,6 @@
 Title: It's big, it's white, it's hairy
 Date: 2008-06-01 20:32
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: its-big-its-white-its-hairy

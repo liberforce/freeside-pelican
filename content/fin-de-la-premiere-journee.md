@@ -1,6 +1,6 @@
 Title: Fin de la premiere journée
 Date: 2008-07-08 00:50
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: mandriva, GUADEC, GNOME
 Slug: fin-de-la-premiere-journee

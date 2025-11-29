@@ -1,6 +1,6 @@
 Title: Week end au Havre
 Date: 2007-02-07 00:38
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: week-end-au-havre

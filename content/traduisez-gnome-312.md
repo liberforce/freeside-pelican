@@ -1,6 +1,6 @@
 Title: Traduisez GNOME 3.12 !
 Date: 2014-03-14 10:47
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME
 Slug: traduisez-gnome-312

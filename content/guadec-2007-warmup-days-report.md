@@ -1,6 +1,6 @@
 Title: GUADEC 2007: Warmup days report
 Date: 2007-07-27 23:38
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GUADEC
 Slug: guadec-2007-warmup-days-report

@@ -1,6 +1,6 @@
 Title: Number of the day: 185 !
 Date: 2007-04-07 19:39
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME
 Slug: number-of-the-day-185

@@ -1,6 +1,6 @@
 Title: T ki ?
 Date: 2006-12-22 03:10
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: t-ki

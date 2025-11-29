@@ -1,6 +1,6 @@
 Title: Crac boum hue !
 Date: 2008-10-17 02:17
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: appartement
 Slug: crac-boum-hue

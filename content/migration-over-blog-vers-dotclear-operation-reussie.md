@@ -1,6 +1,6 @@
 Title: Migration over-blog vers Dotclear: opération réussie...
 Date: 2007-10-03 10:40
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: migration-over-blog-vers-dotclear-operation-reussie

@@ -1,6 +1,6 @@
 Title: \"Here\" is nowhere...
 Date: 2007-02-27 00:15
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: here-is-nowhere

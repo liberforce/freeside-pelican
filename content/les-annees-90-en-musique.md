@@ -1,6 +1,6 @@
 Title: Les années 90 en musique...
 Date: 2009-03-25 00:37
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: nostalgie, musique
 Slug: les-annees-90-en-musique

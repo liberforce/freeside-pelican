@@ -1,6 +1,6 @@
 Title: Manifestations anti-HADOPI
 Date: 2009-05-04 00:11
-Author: LM2153-GANDI
+Author: liberforce
 Category: Politics / Politique
 Tags: HADOPI
 Slug: manifestations-anti-hadopi

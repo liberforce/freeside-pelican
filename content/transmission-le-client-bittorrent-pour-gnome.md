@@ -1,6 +1,6 @@
 Title: Transmission, le client bittorrent pour GNOME
 Date: 2007-05-24 23:53
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: mandriva, GNOME
 Slug: transmission-le-client-bittorrent-pour-gnome

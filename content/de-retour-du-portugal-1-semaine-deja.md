@@ -1,6 +1,6 @@
 Title: De retour du Portugal, 1 semaine déjà...
 Date: 2007-09-18 03:16
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: eurovision
 Slug: de-retour-du-portugal-1-semaine-deja

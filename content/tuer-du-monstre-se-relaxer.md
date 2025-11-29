@@ -1,6 +1,6 @@
 Title: Tuer du monstre, se relaxer...
 Date: 2007-05-14 23:58
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: émulation, jeux
 Slug: tuer-du-monstre-se-relaxer

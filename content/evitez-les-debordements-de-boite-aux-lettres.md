@@ -1,6 +1,6 @@
 Title: Evitez les débordements de boite aux lettres...
 Date: 2007-08-24 03:23
-Author: LM2153-GANDI
+Author: liberforce
 Category: Ecology  / Ecologie
 Tags: publicité
 Slug: evitez-les-debordements-de-boite-aux-lettres

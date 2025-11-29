@@ -1,6 +1,6 @@
 Title: Google: Sarkozy apparenté à Le Pen ?
 Date: 2007-07-28 23:41
-Author: LM2153-GANDI
+Author: liberforce
 Category: Politics / Politique
 Tags: sarko
 Slug: google-sarkozy-apparente-a-le-pen

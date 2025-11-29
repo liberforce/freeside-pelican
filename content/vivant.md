@@ -1,6 +1,6 @@
 Title: Vivant
 Date: 2008-12-01 02:34
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: rumeur
 Slug: vivant

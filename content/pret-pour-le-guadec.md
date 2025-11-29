@@ -1,6 +1,6 @@
 Title: Prêt pour le GUADEC !
 Date: 2007-06-30 23:47
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GUADEC
 Slug: pret-pour-le-guadec

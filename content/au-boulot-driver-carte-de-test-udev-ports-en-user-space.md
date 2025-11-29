@@ -1,6 +1,6 @@
 Title: Au boulot ! Driver, carte de test, udev, ports en user-space
 Date: 2007-05-30 23:49
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: développement, linux, udev
 Slug: au-boulot-driver-carte-de-test-udev-ports-en-user-space

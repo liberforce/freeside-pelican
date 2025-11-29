@@ -1,6 +1,6 @@
 Title: Plein de choses à dire...
 Date: 2007-02-15 00:32
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: GNOME
 Slug: plein-de-choses-a-dire

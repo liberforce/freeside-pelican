@@ -1,6 +1,6 @@
 Title: Déprime publicitaire
 Date: 2007-11-30 00:38
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: publicité
 Slug: deprime-publicitaire

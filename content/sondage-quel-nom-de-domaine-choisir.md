@@ -1,6 +1,6 @@
 Title: Sondage: quel nom de domaine choisir ?
 Date: 2007-07-23 23:34
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: Unclassified
 Slug: sondage-quel-nom-de-domaine-choisir

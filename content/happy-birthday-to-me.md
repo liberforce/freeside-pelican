@@ -1,6 +1,6 @@
 Title: Happy Birthday to me !
 Date: 2008-11-02 01:26
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: happy-birthday-to-me

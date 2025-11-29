@@ -1,6 +1,6 @@
 Title: Vivement l'élargissement extra-européen !
 Date: 2007-05-16 23:57
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: eurovision
 Slug: vivement-lelargissement-extra-europeen

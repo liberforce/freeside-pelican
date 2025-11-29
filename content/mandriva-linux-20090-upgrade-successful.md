@@ -1,6 +1,6 @@
 Title: Mandriva Linux 2009.0 : upgrade successful
 Date: 2008-10-14 02:50
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: migration, mandriva, linux
 Slug: mandriva-linux-20090-upgrade-successful

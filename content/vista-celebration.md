@@ -1,6 +1,6 @@
 Title: Vista celebration
 Date: 2007-02-01 00:45
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: microsoft
 Slug: vista-celebration

@@ -1,6 +1,6 @@
 Title: Un coup de polish (interne) sur le blog
 Date: 2007-02-06 00:42
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: un-coup-de-polish-interne-sur-le-blog

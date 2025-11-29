@@ -1,6 +1,6 @@
 Title: Et Jésus dit aux apôtres...
 Date: 2007-05-03 00:01
-Author: LM2153-GANDI
+Author: liberforce
 Category: Politics / Politique
 Tags: sarko
 Slug: et-jesus-dit-aux-apotres

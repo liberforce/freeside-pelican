@@ -1,6 +1,6 @@
 Title: Culture Geek
 Date: 2007-03-08 01:11
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: tv
 Slug: culture-geek

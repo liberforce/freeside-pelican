@@ -1,6 +1,6 @@
 Title: Ekiga's saving the world...
 Date: 2008-12-11 21:25
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: écologie, GNOME
 Slug: ekigas-saving-the-world

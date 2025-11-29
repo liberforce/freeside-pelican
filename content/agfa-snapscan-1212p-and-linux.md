@@ -1,6 +1,6 @@
 Title: AGFA Snapscan 1212p and Linux
 Date: 2007-02-20 00:23
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: recyclage, linux, matériel
 Slug: agfa-snapscan-1212p-and-linux

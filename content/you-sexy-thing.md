@@ -1,6 +1,6 @@
 Title: You sexy thing...
 Date: 2007-05-04 23:59
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: Unclassified
 Slug: you-sexy-thing

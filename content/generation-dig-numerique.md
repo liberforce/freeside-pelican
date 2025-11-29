@@ -1,6 +1,6 @@
 Title: Génération dig.. numérique
 Date: 2007-02-26 00:20
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: Unclassified
 Slug: generation-dig-numerique

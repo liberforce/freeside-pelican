@@ -1,6 +1,6 @@
 Title: Fed up with ulimit.com
 Date: 2007-01-11 02:58
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: fed-up-with-ulimitcom

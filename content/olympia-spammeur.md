@@ -1,6 +1,6 @@
 Title: Olympia = spammeur
 Date: 2008-07-23 21:35
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: publicité
 Slug: olympia-spammeur

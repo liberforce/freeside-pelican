@@ -1,6 +1,6 @@
 Title: White and Nerdy
 Date: 2007-10-18 01:57
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: Unclassified
 Slug: white-and-nerdy

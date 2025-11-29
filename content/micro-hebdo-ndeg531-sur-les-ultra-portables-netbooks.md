@@ -1,6 +1,6 @@
 Title: Micro Hebdo n°531 sur les ultra-portables (netbooks)
 Date: 2008-06-24 03:20
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: windows, netbooks, médias, matériel, mandriva
 Slug: micro-hebdo-ndeg531-sur-les-ultra-portables-netbooks

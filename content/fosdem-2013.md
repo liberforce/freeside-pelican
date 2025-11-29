@@ -1,6 +1,6 @@
 Title: FOSDEM 2013
 Date: 2013-01-30 04:18
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: FOSDEM
 Slug: fosdem-2013

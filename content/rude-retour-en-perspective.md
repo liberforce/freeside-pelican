@@ -1,6 +1,6 @@
 Title: Rude retour en perspective
 Date: 2007-01-09 02:53
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: rude-retour-en-perspective

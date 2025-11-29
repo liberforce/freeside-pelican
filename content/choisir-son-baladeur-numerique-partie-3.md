@@ -1,6 +1,6 @@
 Title: Choisir son baladeur numérique - partie 3
 Date: 2007-11-10 19:26
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: ogg, matériel, linux, baladeur numérique
 Slug: choisir-son-baladeur-numerique-partie-3

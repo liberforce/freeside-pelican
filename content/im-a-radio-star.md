@@ -1,6 +1,6 @@
 Title: I'm a Radio Star
 Date: 2007-11-13 03:05
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: médias, mandriva, linux
 Slug: im-a-radio-star

@@ -1,6 +1,6 @@
 Title: Recycling on the net...
 Date: 2007-01-23 03:03
-Author: LM2153-GANDI
+Author: liberforce
 Category: Ecology  / Ecologie
 Tags: Unclassified
 Slug: recycling-on-the-net

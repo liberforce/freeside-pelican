@@ -1,6 +1,6 @@
 Title: FOSDEM 2015
 Date: 2015-02-01 13:03
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME, FOSDEM
 Slug: fosdem-2015

@@ -1,6 +1,6 @@
 Title: Propriétaire... Enfin !
 Date: 2008-10-11 03:28
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: appartement
 Slug: proprietaire-enfin

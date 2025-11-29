@@ -1,6 +1,6 @@
 Title: Un nouveau spammeur sur planète GNOME-FR !
 Date: 2007-03-02 01:11
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: GNOME
 Slug: un-nouveau-spammeur-sur-planete-gnome-fr

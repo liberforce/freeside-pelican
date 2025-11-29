@@ -1,6 +1,6 @@
 Title: Yahoo answers and the infinite dumbness....
 Date: 2006-12-12 02:39
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: Unclassified
 Slug: yahoo-answers-and-the-infinite-dumbness

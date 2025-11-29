@@ -1,6 +1,6 @@
 Title: GUADEC: au revoır Istanbul !
 Date: 2008-07-12 23:17
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: mandriva, GUADEC, GNOME
 Slug: guadec-au-revoir-istanbul

@@ -1,6 +1,6 @@
 Title: Windows, Linux, thoughts
 Date: 2008-06-16 03:24
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: linux, mandriva, windows
 Slug: windows-linux-thoughts

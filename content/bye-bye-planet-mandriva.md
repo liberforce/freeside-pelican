@@ -1,6 +1,6 @@
 Title: Bye bye planet mandriva
 Date: 2013-02-06 18:39
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: mageia, mandriva
 Slug: bye-bye-planet-mandriva

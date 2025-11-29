@@ -1,6 +1,6 @@
 Title: GUADEC 2007 incertain...
 Date: 2007-03-27 00:58
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: GUADEC
 Slug: guadec-2007-incertain

@@ -1,6 +1,6 @@
 Title: Il y a un début à tout...
 Date: 2006-12-06 02:38
-Author: LM2153-GANDI
+Author: liberforce
 Category: Gossip / Blabla
 Tags: Unclassified
 Slug: il-y-a-un-debut-a-tout

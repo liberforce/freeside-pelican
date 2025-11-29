@@ -1,6 +1,6 @@
 Title: Smoketesting ? Burn that thing !
 Date: 2007-01-23 03:01
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: smoketesting-burn-that-thing

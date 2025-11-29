@@ -1,6 +1,6 @@
 Title: Diabolique anniversaire...
 Date: 2012-01-09 17:35
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: diabolique-anniversaire

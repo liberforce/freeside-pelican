@@ -1,6 +1,6 @@
 Title: Pidgin connection errors with jabber
 Date: 2008-04-01 21:50
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: bug, mandriva, pidgin
 Slug: pidgin-connection-errors-with-jabber

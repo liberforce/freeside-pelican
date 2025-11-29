@@ -1,6 +1,6 @@
 Title: 5 mn de répit pour la planète ? Pas sûr...
 Date: 2007-01-23 03:02
-Author: LM2153-GANDI
+Author: liberforce
 Category: Ecology  / Ecologie
 Tags: Unclassified
 Slug: 5-mn-de-repit-pour-la-planete-pas-sur

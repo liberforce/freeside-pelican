@@ -1,6 +1,6 @@
 Title: Grosse journée de boulot
 Date: 2007-04-16 19:37
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: jamendo
 Slug: grosse-journee-de-boulot

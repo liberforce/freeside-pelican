@@ -1,6 +1,6 @@
 Title: Why I don't use Beryl/Compiz
 Date: 2006-12-19 03:08
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: why-i-dont-use-berylcompiz

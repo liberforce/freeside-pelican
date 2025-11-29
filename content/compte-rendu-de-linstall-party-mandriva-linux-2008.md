@@ -1,6 +1,6 @@
 Title: Compte rendu de l'install party Mandriva Linux 2008
 Date: 2007-11-26 01:24
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: mandriva, linux
 Slug: compte-rendu-de-linstall-party-mandriva-linux-2008

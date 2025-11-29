@@ -1,6 +1,6 @@
 Title: Lazyweb: of the good usage of GSource...
 Date: 2008-02-21 19:19
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: glib, GNOME
 Slug: lazyweb-of-the-good-usage-of-gsource

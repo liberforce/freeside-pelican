@@ -1,6 +1,6 @@
 Title: Jamendo fait son show
 Date: 2008-12-01 18:31
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: glazart, tryad, jamendo, hype, drunksouls
 Slug: jamendo-fait-son-show

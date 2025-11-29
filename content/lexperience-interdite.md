@@ -1,6 +1,6 @@
 Title: L'expérience interdite...
 Date: 2008-10-11 03:43
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: migration, mandriva
 Slug: lexperience-interdite

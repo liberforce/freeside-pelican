@@ -1,6 +1,6 @@
 Title: Un nouveau nom de domaine...
 Date: 2007-08-21 03:22
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: un-nouveau-nom-de-domaine

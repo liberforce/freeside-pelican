@@ -1,6 +1,6 @@
 Title: GNOME lack of documentation
 Date: 2007-03-27 01:00
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME
 Slug: gnome-lack-of-documentation

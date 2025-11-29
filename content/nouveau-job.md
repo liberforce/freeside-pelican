@@ -1,6 +1,6 @@
 Title: Nouveau job !
 Date: 2013-10-25 16:01
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: nouveau-job

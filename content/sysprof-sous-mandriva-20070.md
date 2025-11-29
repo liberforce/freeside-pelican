@@ -1,6 +1,6 @@
 Title: Sysprof sous Mandriva 2007.0
 Date: 2007-03-28 00:58
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME, mandriva
 Slug: sysprof-sous-mandriva-20070

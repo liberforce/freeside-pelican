@@ -1,6 +1,6 @@
 Title: Finding good food at A Coruña
 Date: 2012-07-30 13:16
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: GUADEC
 Slug: finding-good-food-at-a-coruna

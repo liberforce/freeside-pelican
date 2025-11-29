@@ -1,6 +1,6 @@
 Title: Immobilier...
 Date: 2008-05-20 00:57
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: Unclassified
 Slug: immobilier

@@ -1,6 +1,6 @@
 Title: Choisir son baladeur numérique - partie 2
 Date: 2007-10-22 00:16
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: matériel, baladeur numérique
 Slug: choisir-son-baladeur-numerique-partie-2

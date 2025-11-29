@@ -1,6 +1,6 @@
 Title: Tacle en règle (?)
 Date: 2007-11-26 17:14
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: GNOME
 Slug: tacle-en-regle

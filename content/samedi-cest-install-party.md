@@ -1,6 +1,6 @@
 Title: Samedi, c'est install party !
 Date: 2009-11-26 23:49
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: ubuntu, mandriva
 Slug: samedi-cest-install-party

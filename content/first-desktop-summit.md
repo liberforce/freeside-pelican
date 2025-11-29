@@ -1,6 +1,6 @@
 Title: First Desktop Summit !
 Date: 2011-08-04 11:15
-Author: LM2153-GANDI
+Author: liberforce
 Category: Computers / Informatique
 Tags: Unclassified
 Slug: first-desktop-summit

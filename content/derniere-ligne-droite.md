@@ -1,6 +1,6 @@
 Title: Dernière ligne droite...
 Date: 2009-02-16 03:40
-Author: LM2153-GANDI
+Author: liberforce
 Category: Life / Vie quotidienne
 Tags: FOSDEM, appartement
 Slug: derniere-ligne-droite
