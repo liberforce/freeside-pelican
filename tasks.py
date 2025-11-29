@@ -1,12 +1,11 @@
 # -*- coding: utf-8 -*-
 
+import datetime
 import os
 import shutil
 import sys
-import datetime
 
 from invoke import task
-from invoke.util import cd
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 
@@ -52,7 +51,9 @@ def build(c):
 @task
 def rebuild(c):
     """`build` with the delete switch"""
-    c.run("pelican --delete-output-directory --settings {settings_base}".format(**CONFIG))
+    c.run(
+        "pelican --delete-output-directory --settings {settings_base}".format(**CONFIG)
+    )
 
 
 @task
