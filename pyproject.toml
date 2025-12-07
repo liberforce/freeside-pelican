@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "invoke>=2.2.1",
+    "pelican-pandoc-reader>=3.0.0",
     "pelican[markdown]>=4.11.0.post0",
 ]
