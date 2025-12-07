@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva, GNOME"
 slug: "transmission-le-client-bittorrent-pour-gnome"
+lang: "fr"
 status: "published"
 ---
 Le mois dernier, [Adam](http://www.happyassassin.net/) avait brêvement parlé de [Transmission](http://transmission.m0k.org/), un client bittorrent basé sur GTK. Commençant à être passablement échauffé par les nombreuses imperfections de l'interface du client bittorrent officiel, je me suis laissé tenter. Grand bien m'en a pris ! J'en suis presque à me demander pourquoi il ne fait pas partie du bureau GNOME. D'ailleurs serait-ce possible, ou le spectre de l'illégalité dans certains pays poserait-t-il problèmes. Bref.  

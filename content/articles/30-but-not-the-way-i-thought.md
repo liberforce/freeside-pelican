@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "Unclassified"
 slug: "30-but-not-the-way-i-thought"
+lang: "en"
 status: "published"
 ---
 Long time no blog, but as everyone does it, I've got to announce (a bit late) that I turned 30 a few days ago, on November 1st. These days have been a bit tough, as my grandmother deceased the day just before. She would have turned 94 years on November 20th. I was sad of course, but she lived well, and didn't suffer in her last days. She had a peaceful detah; my mother told me she vanished as a candle you blow.

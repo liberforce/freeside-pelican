@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Politics / Politique"
 tags: "HADOPI"
 slug: "manifestations-anti-hadopi"
+lang: "fr"
 status: "published"
 ---
 ## Impressions

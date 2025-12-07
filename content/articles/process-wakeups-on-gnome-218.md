@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "écologie, GNOME"
 slug: "process-wakeups-on-gnome-218"
+lang: "en"
 status: "published"
 ---
 # Learning from the past

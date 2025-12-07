@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "linux, mandriva, windows"
 slug: "windows-linux-thoughts"
+lang: "en"
 status: "published"
 ---
 Almost 5 years have passed since I erased my Microsoft Windows partitions to switch to [Mandriva Linux](http://www.mandriva.com) (Mandrakelinux 9.1 at that time). And I never regretted it. However, I try to keep myself informed of what happens in the Windows world, just to be able to help relatives when they're in trouble. So I keep an eye of all the stuff I don't use on Linux: anti-spywares, anti-adwares, anti-viruses, anti-everything.

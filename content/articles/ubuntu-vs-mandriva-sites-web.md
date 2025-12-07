@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva"
 slug: "ubuntu-vs-mandriva-sites-web"
+lang: "fr"
 status: "published"
 ---
 "Long time no blog" comme disent nos amis anglo-saxons !  

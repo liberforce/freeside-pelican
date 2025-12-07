@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "Unclassified"
 slug: "mtaux-de-tete"
+lang: "fr"
 status: "published"
 ---
 J'ai passé (avec mon père, et *surtout*: pour mon père) la soirée de ce soir à disséquer les différentes offres en termes de compte bancaires, aasurances vies, mutuelles. Seigneur-Jésus-Marie-Joseph ! Il y en a pour tous les goûts, entre les CODEVI, les livrets A, les PEL, CEL, LEP, assurances vie en tout genre où il faut prendre en compte les droits de succession mais aussi les prélèvement de l'état (11%)...  

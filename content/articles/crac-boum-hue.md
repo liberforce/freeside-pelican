@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "appartement"
 slug: "crac-boum-hue"
+lang: "fr"
 status: "published"
 ---
 Aujourd'hui, j'ai pris mon après midi pour aller dans mon nouvel appartement rencontrer des artisans pour qu'ils me fassent des devis pour la rénovation de mon parquet. Je remercie au passage monsieur Coelho de m'avoir posé un lapin (les lusophones comprendront) pour 3 minutes de retard (et parce qu'il n'y avait pas mon nom sur la boite à lettres). Pratique, j'avais pris mon après midi pour lui, vu qu'il voulait passer à 15H00. Heureusement, j'en avais un deuxième qui a pu passer plus tôt. Notez au passage que sur 4 artisans contactés, 3 sont portugais. Si, si, ils ne finissent pas tous dans l'informatique :-) .

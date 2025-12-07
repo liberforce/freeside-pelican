@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "Unclassified"
 slug: "call-me-back-mr-society"
+lang: "en"
 status: "published"
 ---
 I like computers. Diversity of them. But I just plainly hate cell phones. No matter how many features they have, I just hate them, because most of the phones, with that many features don't even achieve to perform well in their main task: just being a phone. I mean: calling and receiving calls. Being able to quickly access to your contacts list and call someone in a few seconds after you turn it on.  

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "question-yahoo-du-jour"
+lang: "fr"
 status: "published"
 ---
 [**Question:**]{.underline}  

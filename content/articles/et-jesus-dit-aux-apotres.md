@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Politics / Politique"
 tags: "sarko"
 slug: "et-jesus-dit-aux-apotres"
+lang: "fr"
 status: "published"
 ---
 Deux personnalités ont fait une déclaration importante aujourd'hui.  

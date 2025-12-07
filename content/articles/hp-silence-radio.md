@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "hp, racketiciel"
 slug: "hp-silence-radio"
+lang: "fr"
 status: "published"
 ---
 Plus d'une semaine que j'ai envoyé ma demande de remboursement, et je n'ai pas reçu l'accusé de réception de mon recommandé envoyé à HP. J'ai donc tenté de les joindre par téléphone au 0826 10 49 49. Dans mon cas, c'est un produit professionnel, et d'après leur site, cela me coûte un appel local. Les particuliers en seront pur leurs frais avec un numéro à 0,34€ la minute.

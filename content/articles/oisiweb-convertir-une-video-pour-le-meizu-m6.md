@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "gstreamer, baladeur numérique"
 slug: "oisiweb-convertir-une-video-pour-le-meizu-m6"
+lang: "fr"
 status: "published"
 ---
 Cher oisiweb, J'ai cherché (et trouvé) des solutions pour convertir des fichiers vidéo au format du [Meizu M6](http://en.meizu.com/product_m6sl.asp){hreflang="en"}, qui a les caractéristique suivantes:

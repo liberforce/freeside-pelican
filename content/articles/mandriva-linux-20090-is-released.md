@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva"
 slug: "mandriva-linux-20090-is-released"
+lang: "en"
 status: "published"
 ---
 Here we are, Mandriva Linux 2009.0 has been released today ! Congratulations to everyone involved !

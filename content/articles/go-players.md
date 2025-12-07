@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "go, GUADEC, GNOME"
 slug: "go-players"
+lang: "en"
 status: "published"
 ---
 I'm happy to see that [Federico](http://www.gnome.org/%7Efederico/news-2008-08.html#08){hreflang="en"} and [hpj](http://hpjansson.org/blag/){hreflang="en"} know how to play [go](http://en.wikipedia.org/wiki/Go_%28board_game%29){hreflang="en"} :-)

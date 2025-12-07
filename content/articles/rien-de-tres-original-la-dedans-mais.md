@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mageia, GUADEC, GNOME"
 slug: "rien-de-tres-original-la-dedans-mais"
+lang: "fr"
 status: "published"
 ---
 ![](http://guadec.org/sites/www.guadec.org/files/banner-125.png)

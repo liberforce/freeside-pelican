@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "pitivi, gstreamer, GNOME"
 slug: "pitivi-et-mediagoblin-meme-combat"
+lang: "fr"
 status: "published"
 ---
 C'est avec pas mal de retard, que je vous signale (ou rappelle) que [Pitivi](http://pitivi.org/), le logiciel de montage vidéo a lancé un [appel aux dons](http://fundraiser.pitivi.org/){hreflang="en"} par l'intermédiaire de la Fondation GNOME. Le but: aider à sortir la version 1.0 en récoltant assez de fonds pour dédier des gens à temps plein sur cette tâche, et s'il y a des sous en rab, financer des évolutions, pour lesquelles vous pouvez voter. Vous trouverez plus d'informations sur [ce billet d'antistress](http://libre-ouvert.toile-libre.org/index.php?article187/pitivi-a-besoin-de-vous){hreflang="fr"}.

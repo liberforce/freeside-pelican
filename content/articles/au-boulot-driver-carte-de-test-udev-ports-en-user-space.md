@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "développement, linux, udev"
 slug: "au-boulot-driver-carte-de-test-udev-ports-en-user-space"
+lang: "fr"
 status: "published"
 ---
 J'ai toujours l'impression d'être un mauvais développeur. D'avancer moins vite que les autres. Le fait de ne pas avoir de "mentor", de personne qui me tire vers le haut (côté code) dans mon entourage professionnel ou personnel y est sans doute pour beaucoup. Alors évidemment, quand je lis [Richard Hugues](http://hughsient.livejournal.com/) et [ce qu'il fait](http://hughsient.livejournal.com/27576.html) alors qu'[il finit à peine ses études](http://hughsient.livejournal.com/25527.html), j'ai la larme à l'oeil, moi qui n'ai jamais eu de cours d'UML ou design patterns, ni d'architecture logicielle... J'ai dû apprendre sur le tas...  

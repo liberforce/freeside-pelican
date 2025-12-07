@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "GNOME, mandriva"
 slug: "sysprof-sous-mandriva-20070"
+lang: "fr"
 status: "published"
 ---
 [Sysprof](http://live.gnome.org/Sysprof) est un logiciel de profiling: il permet de voir les fonctions qui utilisent le plus de temps CPU dans un programme. C'est le logiciel recommandé par GNOME pour vérifier les performances d'une application. Malheureusement, il semble que le logiciel ne peut être installé sous Mandriva 2007.0, à causes de problèmes de dépendances.  

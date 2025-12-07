@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "tv"
 slug: "culture-geek"
+lang: "fr"
 status: "published"
 ---
 Un [geek](http://fr.wikipedia.org/wiki/Geek), c'est aussi un humain, et parfois, sous une masse de poils, se cache parfois un gars bien.  

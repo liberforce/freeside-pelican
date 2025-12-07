@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "GNOME"
 slug: "gnome-lack-of-documentation"
+lang: "en"
 status: "published"
 ---
 GNOME lacks documentation. Everyone knows it. Sure. But we are in 2007 and there are still [people starting to learn GNOME by starting with CORBA](http://gnomesupport.org/forums/viewtopic.php?p=52253&sid=3748ae926f92152415b3086e5358a114#52253).  

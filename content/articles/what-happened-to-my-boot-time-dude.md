@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "boot time, migration, linux, mandriva"
 slug: "what-happened-to-my-boot-time-dude"
+lang: "en"
 status: "published"
 ---
 Hum... Why did I lose 2 seconds in boot time ? 2008.1 booted in 31s, and 2009.0 boots in 33s.

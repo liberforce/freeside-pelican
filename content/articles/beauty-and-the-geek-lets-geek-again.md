@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "tv"
 slug: "beauty-and-the-geek-lets-geek-again"
+lang: "fr"
 status: "published"
 ---
 Après avoir visionné les saisons 1, 2 et 3 US et la saison 1 anglaise, j'attendais l'adaptation française de ce produit de la real tv. Quoi, vous ne savez pas de quoi je parle ? Alors [consultez vos antisèches](http://blog.freeside.fr/post/2007/03/08/Culture-Geek).  

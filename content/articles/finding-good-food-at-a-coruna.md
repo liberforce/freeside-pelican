@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "GUADEC"
 slug: "finding-good-food-at-a-coruna"
+lang: "en"
 status: "published"
 ---
 Yesterday night, after a long walk to find a restaurant open on a Sunday, and two of the nice places found on the internet turning out to be closed (as in "the restaurant doesn't even exist anymore"), we eventually found the [Culuca](http://www.culuca.com){hreflang="es"}.

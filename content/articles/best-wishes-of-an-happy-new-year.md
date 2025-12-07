@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "Unclassified"
 slug: "best-wishes-of-an-happy-new-year"
+lang: "en"
 status: "published"
 ---
 I wish you a good health, because everyone needs it. Then love, money, an new shiny GNOME version, nice Mandriva backports, no DRM in your music, a good bandwith and freedom, freedom, freedom...  

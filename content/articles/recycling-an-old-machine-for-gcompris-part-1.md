@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "recyclage, matériel"
 slug: "recycling-an-old-machine-for-gcompris-part-1"
+lang: "en"
 status: "published"
 ---
 I'm currently trying to convert my sister's old computer to Linux (guess what ? Mandriva 2007). That way my 8 years old niece will be able to have her computer to play with [gcompris](http://gcompris.net/).  

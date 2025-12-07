@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "racketiciel, hp"
 slug: "reponse-de-hp-a-la-demande-de-remboursement"
+lang: "fr"
 status: "published"
 ---
 Hier matin (bah oui, on est déjà le 6), Aurore est allée chercher pour moi un recommandé... Mystère, je n'attendais rien pourtant. Bonne nouvelles, mauvaises nouvelles ? En fait plutôt mauvaises, mais je ne vais pas me laisser abattre. C'était la réponse d'HP à ma demande de remboursement (bon, au moins, pas besoin de se prendre la tête pour l'accusé de réception : ils avaient bien reçu ma lettre).

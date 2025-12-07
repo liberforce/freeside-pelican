@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva, GNOME"
 slug: "mandriva-thumbs-up-gnome-thumbs-down"
+lang: "en"
 status: "published"
 ---
 Mandriva 2009 Spring has been out for a few days now. Congratulations to everyone involved ! I did my upgrade this week end, all in graphical mode with `mdkapplet`. I had [some bad luck](https://qa.mandriva.com/show_bug.cgi?id=50557){hreflang="en"}, which was fortunately quickly repaired. What you need to know is that using a 23MB /boot partition is a bad idea, it's way too small if you keep a few kernels around. Once things were sorted out, I could enjoy the gorgeous design (Yay for that [tribal-penguin wallpaper](http://linuxbidouille.com/2009/03/07/theme-mandriva-20091/){hreflang="fr"} !), and everything went fine.

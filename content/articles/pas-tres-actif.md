@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "politique, mandriva, jeux"
 slug: "pas-tres-actif"
+lang: "fr"
 status: "published"
 ---
 Bin oui, je n'ai pas été très actif ces derniers temps, et pour plusieurs ~~mauvaises~~ raisons...

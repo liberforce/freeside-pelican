@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "publicité"
 slug: "le-conseiller-windows"
+lang: "fr"
 status: "published"
 ---
 N'ayant pas réussi à faire marcher le [vieux scanner](/post/2007/02/20/AGFA-Snapscan-1212p-and-Linux){hreflang="en"} que j'ai sur les bras, je n'ai pu scanner un magnifique document publicitaire reçu la semaine dernière. Une pièce de collection, voire même une sainte relique.  

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "FOSDEM, appartement"
 slug: "derniere-ligne-droite"
+lang: "fr"
 status: "published"
 ---
 Hé oui, cela fait un moment que je n'ai pas blogué... Entre la rénovation de mon appartement et de ma vie affective les dernières semaines ont été éprouvantes, mais assez positives. Cela explique mon absence au [FOSDEM](http://www.fosdem.org/). Bien dommage d'ailleurs, cela m'aurait donné une bonne bouffé d'air frais et m'aurait permis de revoir [tous ces gens sympathiques](http://blog.crozat.net/2009/02/did-somebody-asked-for-gnome-group.html) :-).

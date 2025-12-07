@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "ubuntu, mandriva"
 slug: "samedi-cest-install-party"
+lang: "fr"
 status: "published"
 ---
 Mon titre ne rimant qu'en français, cet article sera en français. Sorry, english folks !

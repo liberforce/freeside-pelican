@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "Unclassified"
 slug: "yahoo-answers-and-the-infinite-dumbness"
+lang: "en"
 status: "published"
 ---
 The more I go on the [french Yahoo Questions/Answers](http://fr.answers.yahoo.com/question/), the more I' m amazed about human stupidity. People that want us to do their homework. Others that don't even try to understand what the source of the problems can be (your computer crashes ? (Buy more RAM\|Reinstall Windows\|Buy another computer)). Lots of "Windows-is-a-piece-of-shit-but-I-still-use-it", and some linux zealots...  

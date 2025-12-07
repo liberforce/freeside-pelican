@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "FOSDEM"
 slug: "fosdem-j-1"
+lang: "fr"
 status: "published"
 ---
 Voilà, demain soir je pars pour mon premier [FOSDEM](http://www.fosdem.org/2007/). J'espère y voir des choses intéressantes, et ne pas être trop perdu dans les présentations qui sont parait-il plus techniques qu'au [GUADEC](http://guadec.org/). J'y verrai sans doute du côté GNOME:

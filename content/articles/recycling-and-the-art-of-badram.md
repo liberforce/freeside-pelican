@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "recyclage, matériel, mandriva"
 slug: "recycling-and-the-art-of-badram"
+lang: "en"
 status: "published"
 ---
 I like to help protecting the environment. [And I just hate the overconsumption society]{.hitimportant}. You know, the one that fills your mailboxes (electronic and real) with ads, that fills the web with ads, that fills the streets with ads. The one that wants to make you believe you **REALLY** need something. The one that makes dumb people they are poor if they don't own a DVD player and 2 TVs.  

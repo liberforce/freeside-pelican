@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "Unclassified"
 slug: "la-famille-sagrandit"
+lang: "fr"
 status: "published"
 ---
 ...avec l'arrivée d'Hikaru (prononcer hikarou):

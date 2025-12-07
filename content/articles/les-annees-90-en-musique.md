@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "nostalgie, musique"
 slug: "les-annees-90-en-musique"
+lang: "fr"
 status: "published"
 ---
 Ça fait longtemps que je n'ai pas posté, occupé à rendre mon appartement habitable (entre 2 épisodes de southpark).

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "oisiweb, développement, GNOME"
 slug: "oisiweb-comment-afficher-une-chaine-de-caracteres-avec-des-accents"
+lang: "fr"
 status: "published"
 ---
 Cher oisiweb (oisif+web, traduction libre de lazyweb),  

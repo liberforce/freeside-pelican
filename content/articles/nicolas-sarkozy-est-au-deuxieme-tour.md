@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Politics / Politique"
 tags: "Unclassified"
 slug: "nicolas-sarkozy-est-au-deuxieme-tour"
+lang: "fr"
 status: "published"
 ---
 Alors quand vous irez voter, rappelez vous bien que:

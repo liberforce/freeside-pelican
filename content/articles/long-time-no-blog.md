@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "GNOME, jamendo"
 slug: "long-time-no-blog"
+lang: "fr"
 status: "published"
 ---
 ...comme disent nos amis anglo-saxons. Alors tout d'abord, laissez moi vous souhaiter une **excellente année 2008 !  

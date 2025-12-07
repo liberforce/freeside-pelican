@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva, GNOME"
 slug: "gnome-218-on-mandriva-20070-with-jhbuild"
+lang: "en"
 status: "published"
 ---
 [GNOME 2.18](http://www.gnome.org/start/2.18/) has been released a few days ago. However, I still haven't seen it running.... I'm too lazy to download [Foresight Linux](http://www.rpath.org/rbuilder/project/foresight/release?id=5451), and it seems that the Mandriva One with GNOME 2.18 is only available for x86_64 users... Too bad for my Athlon XP 3000+.  

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "GNOME"
 slug: "gnome-tip-of-the-day"
+lang: "en"
 status: "published"
 ---
 [**Avoiding turning your screen on to raise/lower sound on your computer.  

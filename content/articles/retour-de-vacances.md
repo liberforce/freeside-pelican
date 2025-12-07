@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "Unclassified"
 slug: "retour-de-vacances"
+lang: "fr"
 status: "published"
 ---
 Les vacances se sont finies vendredi dernier, ça fait donc une semaine que j'ai repris le boulot, mais je n'avais pas vraiment eu le temps d'écrire à ce moment là. Vendredi soir donc, retour du Grand Bornand, où la pluie tombait en m'empêchant de me perfectionner en snowboard. J'avais pris 3 journées de cours, c'était la première fois que je pratiquais un sport de glisse sur neige, et j'ai vraiment été bluffé: on y prend vite goût. Le moniteur nous disait tout le temps que le snowboard est moins technique que le ski, mais plus physique. Côté physique, ça a plutôt bien tenu, malgré quelques courbatures en fin de semaine. Le jeudi, après une gamelle monstrueuse (sur une piste verte pourtant), j'ai béni mon casque.  

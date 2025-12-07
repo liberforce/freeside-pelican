@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Ecology  / Ecologie"
 tags: "publicité"
 slug: "evitez-les-debordements-de-boite-aux-lettres"
+lang: "fr"
 status: "published"
 ---
 Birmingham au mois de juillet, Narbonne au mois d'aout... Le temps des vacances revient avec le Portugal début septembre. Mais comme je pars pour deux semaines cette fois ci, je vais enfin me décider à utiliser les [planches à imprimer "stop pub"](http://www.environnement.gouv.fr/rubrique.php3?id_rubrique=1165), éditées par le ministère de l'écologie. Ce sera un bonne durée de test pour voir si ce type de consigne sur boite aux lettres est réellement suivi ou pas.  

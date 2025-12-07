@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "why-i-dont-use-berylcompiz"
+lang: "en"
 status: "published"
 ---
 Although I'm a Mandriva user, [this post of Lucas Nussbaum's](http://www.lucas-nussbaum.net/blog/?p=223) from planet Ubuntu retained my attention. Using the fact that Linux needs 3D effects and proprietary drivers to face Windows is just a bad idea. Sure it adds some nice visual, is nice to show to friend so they can say "God, this guy is good at the computers thingy".  

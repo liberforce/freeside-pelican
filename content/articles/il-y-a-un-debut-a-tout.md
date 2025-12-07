@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "Unclassified"
 slug: "il-y-a-un-debut-a-tout"
+lang: "en"
 status: "published"
 ---
 Here I am... I wanted a blog to have some visibility in the GNOME world, and communicate in an easier way than in mailing lists. You surely don't know me, so here is some background info:

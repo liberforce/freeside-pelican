@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "baladeur numérique, matériel, linux"
 slug: "communiquer-avec-un-baladeur-mtp-sous-linux"
+lang: "fr"
 status: "published"
 ---
 [Hub](http://www.figuiere.net/){hreflang="en"} m'a fait remarquer que le [MTP](http://en.wikipedia.org/wiki/Media_Transfer_Protocol){hreflang="en"} était mieux géré [que je ne le pensais](/post/2007/10/12/Choisir-son-baladeur-numerique-compatible-Linux-et-Ogg/Vorbis){hreflang="fr"} sous Linux. J'en conclus par conséquent que si l'on ne souhaite pas vraiment faire une utilisation "clé USB", un baladeur MTP est une solution acceptable.

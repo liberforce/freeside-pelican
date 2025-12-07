@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "FOSDEM, bande dessinée"
 slug: "compte-rendu-du-fosdem"
+lang: "fr"
 status: "published"
 ---
 # Bruxelles, la ville

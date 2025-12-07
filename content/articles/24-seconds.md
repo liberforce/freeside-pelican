@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "linux, boot time, mandriva"
 slug: "24-seconds"
+lang: "en"
 status: "published"
 ---
 This is my new boot time, thanks to the instructions of Mandriva's kernel star, [pterjan](http://fasmz.org/%7Epterjan/blog/) :-p. Thanks for having been so reactive.

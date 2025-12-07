@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Politics / Politique"
 tags: "Unclassified"
 slug: "jaimerais-etre-une-petite-souris"
+lang: "fr"
 status: "published"
 ---
 ...Pour savoir pour qui Jacques Chirac a voté hier...  

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "GUADEC, GNOME"
 slug: "karlsruhe-here-we-go"
+lang: "en"
 status: "published"
 ---
 Because I'm missing my GNOME friends, and because GUADEC is the best conference in the world :)

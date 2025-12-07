@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "mandriva, GUADEC, GNOME"
 slug: "fin-de-la-premiere-journee"
+lang: "fr"
 status: "published"
 ---
 Finalement tout s'est bien passé aujourd'hui. Nous sommes un peu plus familiarisés avec le réseau de tranports et l'Akbil. C'est une sorte de toute petite cuillere en plastique qui sert de carte de transports rechargeable ici. Arrivés au GUADEC Pascal Terjan nous a présentés a Tuçe et Elvin, deux charmantes stambouliotes avec quı nous avons dıscuté tout l'apres midi (ainsi qu'avec Christian, un allemand de chez Imendıo).

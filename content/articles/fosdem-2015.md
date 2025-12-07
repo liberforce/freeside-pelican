@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "GNOME, FOSDEM"
 slug: "fosdem-2015"
+lang: "fr"
 status: "published"
 ---
 Deuxième et dernier jour du FOSDEM au stand GNOME.

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "hp, windows, racketiciel"
 slug: "rack-euh-chantagiciel-et-hp"
+lang: "fr"
 status: "published"
 ---
 Après avoir longuement étudié le marché des netbooks, j'ai fini par sponsoriser l'achat d'un ordinateur portable classique pour Aurore pour son anniversaire. J'ai donc commandé chez [rueducommerce.fr](http://www.rueducommerce.fr){hreflang="fr"} un [HP 550](http://h10010.www1.hp.com/wwpc/fr/fr/sm/WF06a/321957-321957-64295-89315-89315-3764998.html){hreflang="fr"}, pour 399€. C'est un modèle pour (réservé aux ?) professionnels sur le site d'HP, pour la modique somme de 412€ HT, soit 493€ TTC. Et livré avec le fielleux Windows Vista Familial Basic. Oui, j'ai acheté une licence Windows OEM, et oui j'ai honte. Mais j'espère me rattraper. Ma demande de remboursement a été envoyée à HP aujourd'hui par lettre recommandée avec accusé de réception. Je demande le remboursement de la licence Vista, soit entre 80 et 100€, prix glanés sur le net pour la même édition en OEM, ce qui représente tout de même entre 20 et 25% du prix total de la machine !

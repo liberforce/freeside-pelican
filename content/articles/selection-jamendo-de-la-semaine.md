@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "jamendo"
 slug: "selection-jamendo-de-la-semaine"
+lang: "fr"
 status: "published"
 ---
 J'ai décidé de vous décaper les oreilles suite à mon dernier billet musical.  

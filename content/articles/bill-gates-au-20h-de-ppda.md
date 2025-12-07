@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "microsoft, médias"
 slug: "bill-gates-au-20h-de-ppda"
+lang: "fr"
 status: "published"
 ---
 Ecoutez donc l'[interview de Bill Gates sur le 20H de TF1](http://www.youtube.com/watch?v=tNlXZwDQvfM) de la semaine dernière...  

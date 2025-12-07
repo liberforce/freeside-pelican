@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "svn-migration"
+lang: "en"
 status: "published"
 ---
 I see [lots](http://blogs.gnome.org/view/mortenw/2006/12/26/0) [of](http://blogs.gnome.org/view/ryanl/2006/12/25/0) [people](http://tw.apinc.org/weblog/2006/12/26#christmas-evening-thoughts) complaining about the GNOME servers migration from CVS to SVN. Hey guys, what's the point? That's not a big step enough for you? This has been talked about for a long time now.  

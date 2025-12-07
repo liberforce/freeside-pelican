@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Ecology  / Ecologie"
 tags: "Unclassified"
 slug: "du-bruit-sur-le-reportage-anti-ogm-de-canal"
+lang: "fr"
 status: "published"
 ---
 Apparemment le nouvelle de ce [reportage sur les OGM dans "90 minutes" sur Canal+](http://video.google.fr/videoplay?docid=-8996055986353195886) traine sur le net...  

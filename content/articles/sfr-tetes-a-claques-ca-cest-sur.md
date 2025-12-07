@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "sfr, publicité"
 slug: "sfr-tetes-a-claques-ca-cest-sur"
+lang: "fr"
 status: "published"
 ---
 Je déteste la pub non sollicitée, et c'est mon droit. Pourtant, SFR semble en avoir décidé autrement.  

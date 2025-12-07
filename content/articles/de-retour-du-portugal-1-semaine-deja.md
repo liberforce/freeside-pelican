@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "eurovision"
 slug: "de-retour-du-portugal-1-semaine-deja"
+lang: "fr"
 status: "published"
 ---
 Me voilà de retour de mes vacances au Portugal depuis une semaine déjà... La première fois que j'y allais pour les vendanges. Il semble d'ailleurs que [je ne suis pas le seul qui soit allé faire les vendanges](http://www.0d.be/2007/08/30/off/) ;-). Bon, sauf que moi je suis une petite frappe, je n'ai fait qu'un journée, dans les vignes de mon oncle, et un peu dans celles de mon père, pour le vin de table local.  

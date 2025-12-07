@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "GUADEC"
 slug: "pret-pour-le-guadec"
+lang: "fr"
 status: "published"
 ---
 Ça y est, j'ai enfin ma nouvelle carte d'identité !  Outre le fait de ne plus avoir à cacher la photo de l'ancienne (10 ans à se trainer une photo atroce , c'est pas cool), cela signifie surtout que j'ai à présent tout le nécessaire pour  mon séjour au GUADEC 2007.  

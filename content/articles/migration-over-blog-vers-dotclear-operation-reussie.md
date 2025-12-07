@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "migration-over-blog-vers-dotclear-operation-reussie"
+lang: "fr"
 status: "published"
 ---
 ...mais non sans mal. En effet, une des fonctionnalités pour laquelle j'avais choisi la plate-forme over-blog (à savoir l'export du blog au format xml) a tout simplement disparu dans la version 2, sans aucune annonce !

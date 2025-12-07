@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "windows, netbooks, médias, matériel, mandriva"
 slug: "micro-hebdo-ndeg531-sur-les-ultra-portables-netbooks"
+lang: "fr"
 status: "published"
 ---
 Ah [Micro Hebdo](http://www.01net.com/microhebdo){hreflang="fr"}. Le premier (et seul) magazine informatique auquel j'ai été abonné, quand j'étais encore sous Windows.

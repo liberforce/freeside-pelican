@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "GNOME"
 slug: "number-of-the-day-185"
+lang: "en"
 status: "published"
 ---
 This is the number of lines in the code shipped with GNOME 2.18 that use a [deprecated symbol in GLib](http://developer.gnome.org/doc/API/2.0/glib/ix02.html). The winner, by far, is *g_strcasecmp.*  

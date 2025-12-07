@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "GUADEC"
 slug: "guadec-2007-warmup-days-report"
+lang: "en"
 status: "published"
 ---
 Here is a small overview of the conferences I liked this year at GUADEC.

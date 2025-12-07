@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "Unclassified"
 slug: "week-end-au-havre"
+lang: "fr"
 status: "published"
 ---
 Vendredi soir, début du périple: départ avec ma douce et tendre, qui s'était pour l'occasion allégée de quelques kilos de cheveux. Non, elle n'avait pourtant pas une coupe afro.

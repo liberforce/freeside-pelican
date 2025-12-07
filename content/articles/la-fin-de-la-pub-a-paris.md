@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "google, wikipédia, publicité"
 slug: "la-fin-de-la-pub-a-paris"
+lang: "fr"
 status: "published"
 ---
 Il semble que les parisiens pourraient avoir droit à une amélioration de leur cadre de vie en ce qui concerne la pollution visuelle... [Paris met à jour le RLP (Règlement Local de Publicité)](http://www.lexpansion.com/economie/actualite-entreprise/le-projet-anti-affichage-de-paris-affole-les-publicitaires_136547.html){hreflang="fr"}.

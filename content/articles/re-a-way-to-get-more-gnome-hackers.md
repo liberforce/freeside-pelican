@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva, GNOME"
 slug: "re-a-way-to-get-more-gnome-hackers"
+lang: "en"
 status: "published"
 ---
 [Alberto](http://aruiz.typepad.com/siliconisland/2007/04/lets_make_it_ea.html), here are some hints if you want to improve this part of GNOME (ie, reduce the technical level needed by newcommers to just become jhbuild users).  

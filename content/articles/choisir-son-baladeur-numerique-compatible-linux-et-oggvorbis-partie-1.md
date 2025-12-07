@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "baladeur numérique, linux, ogg"
 slug: "choisir-son-baladeur-numerique-compatible-linux-et-oggvorbis-partie-1"
+lang: "fr"
 status: "published"
 ---
 ## Au départ, il y a toujours un truc qui gratte...

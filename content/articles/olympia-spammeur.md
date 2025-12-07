@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "publicité"
 slug: "olympia-spammeur"
+lang: "fr"
 status: "published"
 ---
 Il y a quelques mois j'ai acheté des billets pour aller voir [Patrick Timsit](http://fr.wikipedia.org/wiki/Patrick_Timsit){hreflang="fr"} à l'[Olympia](http://fr.wikipedia.org/wiki/Olympia_%28Paris%29){hreflang="fr"}. Depuis je reçois des "newsletters" bien particulières, donnant la liste des spectacles programmation de la salle parisienne. En fait j'ai commis l'erreur d'acheter mes places directement sur le site de l'olympia (olympiahall.com - non, pas de lien pour ne pas leur faire de pub). Depuis ils m'envoient leur newsletter, que je n'ai pourtant pas solicité (à tout les coups je me suis fait avoir par du [opt-out](http://fr.wikipedia.org/wiki/Opt_out){hreflang="fr"}). Bon, je me dis ensuite que c'est un site sérieux quand même, alors je tente le lien de désabonnement. Et là, surprise : il a une drôle de tronche.

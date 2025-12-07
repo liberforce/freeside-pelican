@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "first-desktop-summit"
+lang: "en"
 status: "published"
 ---
 ![](https://www.desktopsummit.org/sites/www.desktopsummit.org/files/DS2011banner.png)

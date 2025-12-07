@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "MTG"
 slug: "previews-magic-visions-de-lavenir"
+lang: "fr"
 status: "published"
 ---
 Eh oui, pour les afficionados du `<acronym title="Jeu de cartes à collectionner">`{=html}JCC`</acronym>`{=html} Magic The Gathering, le temps est venu d'une nouvelle Preview. Une preview, c'est en fait un tournoi inaugural pour la sortie d'une nouvelle série de cartes. Demain je serais donc avec 200 blaireaux boutonneux et associaux, bref, des linuxiens en puissance ! :-)  

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "Unclassified"
 slug: "poussee-darchimede"
+lang: "fr"
 status: "published"
 ---
 Loi empirique :

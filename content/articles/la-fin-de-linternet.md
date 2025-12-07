@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "la-fin-de-linternet"
+lang: "fr"
 status: "published"
 ---
 [Questions "Yahoo Questions/Réponses" du jour:  

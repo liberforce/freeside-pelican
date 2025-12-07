@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "netbooks, matériel, mandriva, linux"
 slug: "revue-du-netbook-acer-aspire-one"
+lang: "fr"
 status: "published"
 ---
 Voilà une [revue du Acer Aspire One](http://linuxfr.org/%7Ealouali/26925.html){hreflang="fr"} sur LinuxFr. Le point litigieux (l'écran trop brillant) évoqué par Xate dans mon dernier [billet sur les netbooks](/post/2008/06/24/Micro-Hebdo-n531-sur-les-ultra-portables-netbooks){hreflang="fr"} a été soulevé, voici ce qu'en pense *alouali*, le rédacteur de l'article :  

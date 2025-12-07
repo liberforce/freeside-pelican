@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "GNOME"
 slug: "quoi-de-neuf-docteur"
+lang: "fr"
 status: "published"
 ---
 ::: contenuArticle

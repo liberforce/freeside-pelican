@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "Unclassified"
 slug: "generation-dig-numerique"
+lang: "fr"
 status: "published"
 ---
 Une chose qui m'agace profondément, c'est d'entendre parler à longueur de temps de **"digital"** en lieu et place de **"numérique"**. Digital ça veut dire quoi ? Ça veut dire "qui a un rapport avec les doigts". Rien à voir avec des chiffres, des nombres et leur traitement en fichiers informatiques.  

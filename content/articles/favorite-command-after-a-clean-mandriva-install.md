@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva"
 slug: "favorite-command-after-a-clean-mandriva-install"
+lang: "en"
 status: "published"
 ---
 

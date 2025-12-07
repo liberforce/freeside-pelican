@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "wikipédia"
 slug: "encore-une-utilisation-detournee-de-wikipedia"
+lang: "fr"
 status: "published"
 ---
 Il semble qu'un homme politique belge, [Claude Despiegeleer](http://fr.wikipedia.org/wiki/Claude_Despiegeleer), se soit retrouvé durant deux ans fiché dans la liste des voleurs célèbre de l'encyclopédie libre. Bien qu'assigné en justice par 4 fois pour des détournements divers et variés, il n'a jamais été reconnu coupable. La page a depuis été supprimée et verrouillée pour empêcher sa création.  

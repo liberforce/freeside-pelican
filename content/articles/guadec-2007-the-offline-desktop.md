@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "bande dessinée, GUADEC"
 slug: "guadec-2007-the-offline-desktop"
+lang: "en"
 status: "published"
 ---
 ![]({static}/images/guadec/2007/offline-desktop.png)

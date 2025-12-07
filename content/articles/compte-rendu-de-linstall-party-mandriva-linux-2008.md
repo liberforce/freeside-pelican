@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva, linux"
 slug: "compte-rendu-de-linstall-party-mandriva-linux-2008"
+lang: "fr"
 status: "published"
 ---
 Comme je le disais dans mon dernier billet, j'étais à l'install party Mandriva à la Cité des Sciences de Paris. C'était malheureusement un peu trop calme à mon goût :-(

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "GUADEC"
 slug: "guadec-2007-incertain"
+lang: "fr"
 status: "published"
 ---
 Le week end dernier, je suis allé faire un petit tour à Londres. Un petit aperçu de l'Angleterre avant le GUADEC à Birmingham me disais-je... Eh bien peut être pas, car il y a un hic... Ma carte d'identitié périme le 9 juillet, et le GUADEC commence le 15 ! Ce qui veut dire que j'ai 3 mois environ pour réunir les pièces nécessaires, dont des papiers de mes parents qui sont en ce moment au Portugal, et retrouver mon foutu acte de naturalisation...  

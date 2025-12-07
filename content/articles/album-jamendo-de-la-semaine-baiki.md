@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "jamendo"
 slug: "album-jamendo-de-la-semaine-baiki"
+lang: "fr"
 status: "published"
 ---
 Bon d'accord, il a été publié il y a longtemps sur [Jamendo](http://www.jamendo.com/) (07 avril 2006), mais soyez indulgents, il me reste 4553 albums à écouter :-)  

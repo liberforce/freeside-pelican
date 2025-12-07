@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "Unclassified"
 slug: "t-ki"
+lang: "fr"
 status: "published"
 ---
 Tout à l'heure, je reçois un SMS d'un numéro inconnu. Histoire d'un dialogue surréaliste...

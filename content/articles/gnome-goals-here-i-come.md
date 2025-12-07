@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "GNOME Goals, GNOME"
 slug: "gnome-goals-here-i-come"
+lang: "en"
 status: "published"
 ---
 A few weeks ago, some new [GNOME Goals](http://live.gnome.org/GnomeGoals){hreflang="en"} were open. I've worked on the guidelines of some of them. Some of these goals are paving the road towards GNOME 3.0. My first task has been to [detect the deprecated GLib symbols](http://live.gnome.org/GnomeGoals/RemoveDeprecatedSymbols/Glib){hreflang="en"} used within the GNOME stack, to let other people submit simple patches. This is a nice way to have newcommers get into the GNOME stuff. This work included basic grep searching in C/C++ source files of each GNOME module, in order to find these symbols.

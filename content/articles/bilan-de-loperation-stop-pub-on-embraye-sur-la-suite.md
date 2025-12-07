@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Ecology  / Ecologie"
 tags: "sfr, publicité"
 slug: "bilan-de-loperation-stop-pub-on-embraye-sur-la-suite"
+lang: "fr"
 status: "published"
 ---
 Avant mes vacances, [j'avais placé un autocollant stop pub](/post/2007/08/24/Evitez-les-debordements-de-boite-aux-lettres),  afin de contribuer à protéger l'environnement (et ma tranquilité). Bilan: 2 pubs en 15 jours, contre allègrement 10 fois plus en temps normal. Je suis très satisfait du résultat pour l'instant, et je constate que c'est plutôt bien respecté (j'ai eu un doute à un moment).  

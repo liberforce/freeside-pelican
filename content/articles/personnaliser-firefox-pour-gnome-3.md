@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "firefox, GNOME"
 slug: "personnaliser-firefox-pour-gnome-3"
+lang: "fr"
 status: "published"
 ---
 Suite à discussion avec mon cher [afranke](http://www.alexandrefranke.com){hreflang="fr"} au FOSDEM, ce dernier m'a signalé qu'il était possible de personnaliser Firefox afin de mieux s'intégrer dans GNOME 3. Personnellement, utilisant le plus souvent mon netbook, qui a une résolution limitée (1024x600), gagner quelques pixels en résolution verticale m'intéresse. J'ai beau ne pas utiliser Web (epiphany), j'aime beaucoup comment ce dernier sait se faire discret en termes d'espace occupé par l'interface, afin d'en laisser le plus possible au contenu. J'avais l'habitude d'utiliser le mode plein écran via la touche F11, mais du coup on ne voit plus l'heure, et il devient impossible d'utilise rle bouton activités.

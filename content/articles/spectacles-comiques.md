@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "Unclassified"
 slug: "spectacles-comiques"
+lang: "fr"
 status: "published"
 ---
 Hier, petit tour du côté de [la Cigale](http://www.lacigale.fr/) pour voir le spectacle comique de Noëlle Perna, alias "Mado la niçoise". Le spectacle était assez réussi, ce coup ci je n'ai pas fait l'erreur de connaître un spectacle de A à Z avant d'aller le voir (ce qui m'était arrivé l'année dernière avec [Gilles Détroit](http://www.gillesdetroit.com/)).  

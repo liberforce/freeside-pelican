@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "médias, mandriva, linux"
 slug: "im-a-radio-star"
+lang: "fr"
 status: "published"
 ---
 Oui. La célébrité. Le succès. La gloire. Toutes ces choses sont à ma portée à présent. Parce que le 24 novembre, si tout va bien, je serai sur les ondes. Mais ne t'en fais pas, toi le français de la France d'en bas, je ne t'oublierai pas. Quand j'aurai besoin qu'on me descende mes poubelles, c'est à toi que je penserai.

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva"
 slug: "visite-guidee-de-mandriva-linux-20071-spring"
+lang: "fr"
 status: "published"
 ---
 Le wiki Mandriva prend le bon chemin. Il n'est pas encore à la hauteur des wiki des autres distributions mainstream (à cause du manque d'identité graphique, dû à l'emploi du thème par défaut de MédiaWiki), mais on s'en rapproche.  

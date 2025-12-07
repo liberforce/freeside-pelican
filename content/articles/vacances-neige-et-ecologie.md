@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Ecology  / Ecologie"
 tags: "Unclassified"
 slug: "vacances-neige-et-ecologie"
+lang: "fr"
 status: "published"
 ---
 Bientôt les vacances... Samedi à cette heure ci je serai au [Grand Bornand](http://www.legrandbornand.com/), pour faire mes premières descentes en snowboard. Ou alors je serai en train de jouer aux cartes, vu que les chutes de neiges cette année, c'est pas vraiment ça. A force de ne pas respecter l'environnement, il se venge...  

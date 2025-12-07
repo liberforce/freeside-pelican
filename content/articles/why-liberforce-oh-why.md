@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "Unclassified"
 slug: "why-liberforce-oh-why"
+lang: "en"
 status: "published"
 ---
 :::: contenuArticle

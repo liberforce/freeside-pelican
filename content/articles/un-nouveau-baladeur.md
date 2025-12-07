@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "gstreamer, baladeur numérique"
 slug: "un-nouveau-baladeur"
+lang: "fr"
 status: "published"
 ---
 Il y a un mois, mon fidèle Samsung YP-MT6X disparaissait mystérieusement au boulot. Vol ou perte, impossible de trancher. Paix à son âme. J'ai donc fini par commander son remplaçant, que j'avais déjà eu l'occasion de tester pour un cadeau. Mon Meizu Mini Player M6 SL est arrivé de Hong Kong ce matin, après 3 semaines d'attente. J'espère donc poster quelques astuces ici pour pouvoir tire un maximum profit de cet engin, notamment :

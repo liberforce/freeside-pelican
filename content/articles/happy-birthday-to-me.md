@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "Unclassified"
 slug: "happy-birthday-to-me"
+lang: "fr"
 status: "published"
 ---
 Rah, ça y est, je me rapproche du côté obscur... la trentaine ! J'ai 29 ans depuis environ 6 heures. Alors à quoi ai-je utilisé cette année écoulée ? En vrac :

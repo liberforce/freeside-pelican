@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "hasta-la-vista"
+lang: "en"
 status: "published"
 ---
 Today, Windows Vista has been released. There's lots of people starting to make everyone think they need it, even if they don't know why. In France, Microsoft even paid 600,000€ to the major private french TV channel (TF1) to have a presenter showing Vista for about 2 minutes. It avoids the costs of a specific local publicity.  

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "migration, mandriva, linux"
 slug: "mandriva-linux-20090-upgrade-successful"
+lang: "en"
 status: "published"
 ---
 But not without glitches.

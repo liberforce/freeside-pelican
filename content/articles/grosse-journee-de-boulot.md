@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "jamendo"
 slug: "grosse-journee-de-boulot"
+lang: "fr"
 status: "published"
 ---
 Ç'aurait pu en être une, si j'avais pu aller travailler... Je crois que j'ai chopé une gastro :-(  

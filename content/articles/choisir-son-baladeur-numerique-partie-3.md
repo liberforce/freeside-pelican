@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "ogg, matériel, linux, baladeur numérique"
 slug: "choisir-son-baladeur-numerique-partie-3"
+lang: "fr"
 status: "published"
 ---
 ## And the winner is:

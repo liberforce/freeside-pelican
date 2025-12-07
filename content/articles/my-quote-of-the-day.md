@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "my-quote-of-the-day"
+lang: "en"
 status: "published"
 ---
 ::: hitcitation

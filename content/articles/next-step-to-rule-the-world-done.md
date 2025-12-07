@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva"
 slug: "next-step-to-rule-the-world-done"
+lang: "en"
 status: "published"
 ---
 Yup, Mandriva Linux 2008.1 Spring has been released today. What is amazing is that it's been released on time, which hasn't been the case for years !

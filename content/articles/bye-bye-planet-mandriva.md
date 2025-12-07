@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mageia, mandriva"
 slug: "bye-bye-planet-mandriva"
+lang: "fr"
 status: "published"
 ---
 Je viens de constater que je suis encore sur [Planète Mandriva](http://planetmandriva.zarb.org/). Pourtant cela fait bientôt 2 ans que je suis passé à [Mageia](http://www.mageia.org), et je suis content de ce choix. Par conséquent, je viens d'envoyer un mail pour être retiré de la planète...

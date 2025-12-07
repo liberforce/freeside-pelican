@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "QR, windows, linux"
 slug: "quels-sont-les-avantages-et-inconvenients-de-linux-par-rapport-a-windows"
+lang: "fr"
 status: "published"
 ---
 C'est une question qu'on me pose souvent... Je mets ma réponse type ici pour la retrouver plus facilement. Si vous avez d'autres idées, mettez les en commentaires, je mettrai à jour le post...

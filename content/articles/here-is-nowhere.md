@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "here-is-nowhere"
+lang: "en"
 status: "published"
 ---
 Every now and then, I see someone linking to a web page using  the "here" or "click here" link style. This is quite annoying, and also unhelpful

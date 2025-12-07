@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva"
 slug: "mandriva-2008-se-rapproche"
+lang: "fr"
 status: "published"
 ---
 Plus qu'[un seul bug](http://qa.mandriva.com/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mandriva+Linux&version=Cooker&long_desc_type=substring&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&priority=release_critical&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emai){hreflang="fr"} *release_critical* à corriger avant la release, [annoncée pour aujourd'hui](http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Development){hreflang="fr"}...

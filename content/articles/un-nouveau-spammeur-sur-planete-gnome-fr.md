@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "GNOME"
 slug: "un-nouveau-spammeur-sur-planete-gnome-fr"
+lang: "fr"
 status: "published"
 ---
 Bonjour à tous les lecteurs de planète GNOME-FR !  

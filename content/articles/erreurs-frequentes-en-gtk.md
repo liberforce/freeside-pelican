@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "erreurs-frequentes-en-gtk"
+lang: "en"
 status: "published"
 ---
 ::: {.moz-text-flowed style="font-family: -moz-fixed; font-size: 12px;" lang="x-western"}

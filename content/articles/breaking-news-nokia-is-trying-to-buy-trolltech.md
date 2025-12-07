@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "breaking-news-nokia-is-trying-to-buy-trolltech"
+lang: "en"
 status: "published"
 ---
 Will it be for the best or the worst ?

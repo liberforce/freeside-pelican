@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "un-coup-de-polish-interne-sur-le-blog"
+lang: "fr"
 status: "published"
 ---
 Vendredi dernier, j'ai eu la surprise de voir apparaitre dans l'interface d'administration de mon blog un bandeau m'annonçant que j'avais été choisi pour pouvoir tester si je le souhaitais la nouvelle version d'[over-blog](http://www.over-blog.com/). Bizarrement, aucune information sur les changements apportés n'était indiquée. Curieux, j'ai néanmoins décidé de tenter l'aventure (même si je ne suis pas dupe, j'imagine qu'un bon paquet de blogueurs ont dû voir le même message).  

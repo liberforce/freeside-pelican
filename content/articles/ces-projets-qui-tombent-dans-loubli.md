@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "ces-projets-qui-tombent-dans-loubli"
+lang: "fr"
 status: "published"
 ---
 Le libre c'est bien. Malheureusement, il faut des gens motivés pour que cela avance.  

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "migration, linux, parlement, ubuntu"
 slug: "la-presse-francaise-fustige-ubuntu-au-parlement"
+lang: "fr"
 status: "published"
 ---
 Cet article de [France Matin](http://www.francematin.info/L-Assemblee-Nationale-sous-pavillon-sud-africain-la-crise_a13973.html){hreflang="fr"} de mercredi, dans la même veine que celui du [Point](http://www.lepoint.fr/content/point_semaine/article?id=192073){hreflang="fr"}, relaie la désinformation qui règne sur le passage du parlement français à [Ubuntu Linux](http://fr.wikipedia.org/wiki/Ubuntu_Linux){hreflang="fr"}. Je ne suis pourtant pas un fervent admirateur d'Ubuntu, mais je ne pouvais pas laisser passer ça.

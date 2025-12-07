@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "Unclassified"
 slug: "fed-up-with-ulimitcom"
+lang: "en"
 status: "published"
 ---
 A few years back, I was looking for a free (as in free beer) mail/web redirection service. [Ulimit.com](http://www.ulimit.com/) was a good choice back then. But they have been annoying me a lot for the last year. They became more and more intrusive with their ads. Thay started showing xxx-related ads for your web visitors (I  didn't see it, but saw someone complain about that on a website).  

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "glib, GNOME"
 slug: "lazyweb-of-the-good-usage-of-gsource"
+lang: "en"
 status: "published"
 ---
 I'm currently writing an application that has two backends.

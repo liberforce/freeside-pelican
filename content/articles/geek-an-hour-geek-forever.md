@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva, jeux"
 slug: "geek-an-hour-geek-forever"
+lang: "en"
 status: "published"
 ---
 The evening started normally. I just wanted to play a bit on the computer, which I rarely do nowadays. And [Battle for Wesnoth](http://wesnoth.org){hreflang="en"} is the game I choose in these moments. I then fired up the multiplayer game, which I had never tried before, and was greeted with a message telling me that my 1.6 version of wesnoth was outdated, and that 1.8 was the recommended version. « Ok », I thought, « so where can I find this version to try it ? ». I looked in the Mandriva Cooker repositories, but no, the only version there was the 1.6... Until I found out that Wesnoth 1.8 was only 2 days old. This new version was released on April, 1st.

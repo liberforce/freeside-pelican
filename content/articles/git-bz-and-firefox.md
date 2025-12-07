@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "git, GNOME"
 slug: "git-bz-and-firefox"
+lang: "en"
 status: "published"
 ---
 [git-bz](http://git.fishsoup.net/cgit/git-bz/) is a utility written by [Owen Taylor](http://blog.fishsoup.net){hreflang="en"} to ease the workflow between git and the patches living in a bugzilla bugtracker. It allows uploading, applying patches to/from bugzilla from the command line.

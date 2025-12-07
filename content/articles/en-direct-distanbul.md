@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "GUADEC, GNOME"
 slug: "en-direct-distanbul"
+lang: "fr"
 status: "published"
 ---
 Et ouı, c'est le premıer jour du GUADEC ici a Istanbul... Excusez l'orthographe je rısque de mettre un moment a m'habıtuer au clavıer turc... Je suıs arrive hıer: levé a 5h00, arrıvé a 15h00 heure locale, ce fut donc une rude journée. Apres une pause toılettes a l'aéroport, j'aı retrouvé par hasard Lucas Rocha, Chrıstopher Blızzard, Reınout van Shouten (je suıs sur de me gourer sur l'orthographe de son nom) et d'qutres encore.

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "matériel, baladeur numérique"
 slug: "choisir-son-baladeur-numerique-partie-2"
+lang: "fr"
 status: "published"
 ---
 ## Les constructeurs

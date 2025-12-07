@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Ecology  / Ecologie"
 tags: "matériel, consommation, écologie"
 slug: "about-e-waste"
+lang: "en"
 status: "published"
 ---
 Each time I hear about the [OLPC](http://laptop.org) project (just an example, I personnaly have nothing against it) and other widespread electronics, I wonder if the invasion of electronics in our everyday life is a [blessing or a curse](http://www.greenpeace.org/international/campaigns/toxics/electronics), especially for developping countries...

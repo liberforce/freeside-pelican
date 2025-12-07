@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "GNOME"
 slug: "tacle-en-regle"
+lang: "fr"
 status: "published"
 ---
 Si vous ne l'avez pas encore lu, lisez le [dernier billet de Murray Cumming](http://www.murrayc.com/blog/permalink/2007/11/26/gnome-board-2007-candidates-the-bad/){hreflang="en"}. J'attends. Bon, il semble qu'il y a réellement un problème entre ces deux là, et le fait que Jeff soit candidat au Foundation Board justifie un peu ce message, bien que la forme est assez "extrême". Ce qui est moins justifié c'est que Murray dit "des gens", sans qu'on sache combien ils sont à trouver que Jeff fait du mauvais boulot, et surtout, que les commentaires soient fermés (ce qui j'imagine va créer un droit de réponse par blog interposé).

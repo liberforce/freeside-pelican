@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Gossip / Blabla"
 tags: "publicité"
 slug: "deprime-publicitaire"
+lang: "fr"
 status: "published"
 ---
 Des fois, quand je lis des news de ce genre, ça me déprime:

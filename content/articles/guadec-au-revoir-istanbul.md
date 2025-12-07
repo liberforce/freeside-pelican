@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "mandriva, GUADEC, GNOME"
 slug: "guadec-au-revoir-istanbul"
+lang: "fr"
 status: "published"
 ---
 Hé bien, ces dernıers jours ont fılé comme le vent ! Moı quı voulais faıre un poınt régulıer... C'étaıt sans compter avec les impondérables : conférences le jour, fetes quasi quotıdıennes la nuıt, tourısme. La semaıne a laıssé des traces sur l'organısme ! Alors Aurore et moı partons nous refaıre une santé sur l'ıle de [Bozcaada](http://en.wikipedia.org/wiki/Bozcaada){hreflang="en"} pendant quelques jours.

@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Computers / Informatique"
 tags: "mandriva, grep"
 slug: "grep-updated-in-mandriva-20090"
+lang: "en"
 status: "published"
 ---
 Funny thing I saw today : grep version jumped from 2.5.1a in 2008.1 to 2.5.3 in 2009.0. Sounds useless, huh, grep does its stuff, so this should only be a bugfix or code cleaning release, don't you think ?

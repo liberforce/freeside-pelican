@@ -5,6 +5,7 @@ author: "liberforce"
 category: "Life / Vie quotidienne"
 tags: "appartement"
 slug: "proprietaire-enfin"
+lang: "fr"
 status: "published"
 ---
 ## L'achat de l'appartement
