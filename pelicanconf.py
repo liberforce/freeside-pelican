@@ -4,7 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = "liberforce"
 SITENAME = "Greetings From The Free Side!"
-SITEURL = "blog.freeside.fr"
+
+# If your site is available via HTTPS, make sure SITEURL begins with https://
+SITEURL = "http://www.freeside.fr"
 
 PATH = "content"
 
