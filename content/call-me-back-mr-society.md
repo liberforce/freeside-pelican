@@ -1,11 +1,12 @@
-Title: Call me back, Mr Society...
-Date: 2006-12-26 03:14
-Author: liberforce
-Category: Gossip / Blabla
-Tags: Unclassified
-Slug: call-me-back-mr-society
-Status: published
-
+---
+title: "Call me back, Mr Society..."
+date: "2006-12-26 03:14"
+author: "liberforce"
+category: "Gossip / Blabla"
+tags: "Unclassified"
+slug: "call-me-back-mr-society"
+status: "published"
+---
 I like computers. Diversity of them. But I just plainly hate cell phones. No matter how many features they have, I just hate them, because most of the phones, with that many features don't even achieve to perform well in their main task: just being a phone. I mean: calling and receiving calls. Being able to quickly access to your contacts list and call someone in a few seconds after you turn it on.  
   
 Other features are also great, and would encourage me to buy that phone:

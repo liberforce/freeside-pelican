@@ -1,11 +1,12 @@
-Title: Internet est fragile... Peut être à cause de vous !
-Date: 2007-02-08 00:35
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: internet-est-fragile-peut-etre-a-cause-de-vous
-Status: published
-
+---
+title: "Internet est fragile... Peut être à cause de vous !"
+date: "2007-02-08 00:35"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "internet-est-fragile-peut-etre-a-cause-de-vous"
+status: "published"
+---
 Il semble qu'une nouvelle fois l'Internet a tremblé, mardi dernier lors d'une [nouvelle attaque des serveurs DNS racine](http://www.generation-nt.com/actualites/24013/sophos-zombie-internet-ddos/). Cette attaque n'est pas la première, [comme je l'ai déjà expliqué](/post/2007/01/12/La-fin-de-lInternet){hreflang="fr"}.  
   
 Le problème c'est que vous y avez peut être contribué. Il faut pour cela remplir quelques conditions:

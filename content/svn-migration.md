@@ -1,11 +1,12 @@
-Title: SVN migration
-Date: 2007-01-05 02:51
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: svn-migration
-Status: published
-
+---
+title: "SVN migration"
+date: "2007-01-05 02:51"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "svn-migration"
+status: "published"
+---
 I see [lots](http://blogs.gnome.org/view/mortenw/2006/12/26/0) [of](http://blogs.gnome.org/view/ryanl/2006/12/25/0) [people](http://tw.apinc.org/weblog/2006/12/26#christmas-evening-thoughts) complaining about the GNOME servers migration from CVS to SVN. Hey guys, what's the point? That's not a big step enough for you? This has been talked about for a long time now.  
   
 I'm personnaly using SVN at work, and, even if I don't use advanced features (i'm the only developer on the project), i've been pretty happy with it. The features I liked the most:

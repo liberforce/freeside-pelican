@@ -1,11 +1,12 @@
-Title: GUADEC 2007: Warmup days report
-Date: 2007-07-27 23:38
-Author: liberforce
-Category: Computers / Informatique
-Tags: GUADEC
-Slug: guadec-2007-warmup-days-report
-Status: published
-
+---
+title: "GUADEC 2007: Warmup days report"
+date: "2007-07-27 23:38"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "GUADEC"
+slug: "guadec-2007-warmup-days-report"
+status: "published"
+---
 Here is a small overview of the conferences I liked this year at GUADEC.
 
 ::: hitencart

@@ -1,11 +1,12 @@
-Title: Du bruit sur le reportage anti-OGM de Canal+...
-Date: 2007-02-07 00:37
-Author: liberforce
-Category: Ecology  / Ecologie
-Tags: Unclassified
-Slug: du-bruit-sur-le-reportage-anti-ogm-de-canal
-Status: published
-
+---
+title: "Du bruit sur le reportage anti-OGM de Canal+..."
+date: "2007-02-07 00:37"
+author: "liberforce"
+category: "Ecology  / Ecologie"
+tags: "Unclassified"
+slug: "du-bruit-sur-le-reportage-anti-ogm-de-canal"
+status: "published"
+---
 Apparemment le nouvelle de ce [reportage sur les OGM dans "90 minutes" sur Canal+](http://video.google.fr/videoplay?docid=-8996055986353195886) traine sur le net...  
   
 Certains disent qu'il a été censuré, or il n'en est rien, c'est un reportage de 2005 diffusé dans 90 minutes sur Canal +.  

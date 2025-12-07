@@ -1,11 +1,12 @@
-Title: Vacances, neige et écologie
-Date: 2007-01-09 02:55
-Author: liberforce
-Category: Ecology  / Ecologie
-Tags: Unclassified
-Slug: vacances-neige-et-ecologie
-Status: published
-
+---
+title: "Vacances, neige et écologie"
+date: "2007-01-09 02:55"
+author: "liberforce"
+category: "Ecology  / Ecologie"
+tags: "Unclassified"
+slug: "vacances-neige-et-ecologie"
+status: "published"
+---
 Bientôt les vacances... Samedi à cette heure ci je serai au [Grand Bornand](http://www.legrandbornand.com/), pour faire mes premières descentes en snowboard. Ou alors je serai en train de jouer aux cartes, vu que les chutes de neiges cette année, c'est pas vraiment ça. A force de ne pas respecter l'environnement, il se venge...  
   
 C'est vrai que ["Une vérité qui dérange"](http://www.allocine.fr/film/fichefilm_gen_cfilm=111289.html) m'avait pas mal sensibilisé. Alors j'essaie maintenant de lutter avec ses moyens. Quelques conseils sont disponibles sur [criseclimatique.fr](http://www.criseclimatique.fr/)  

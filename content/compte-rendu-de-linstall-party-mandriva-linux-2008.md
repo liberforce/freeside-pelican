@@ -1,11 +1,12 @@
-Title: Compte rendu de l'install party Mandriva Linux 2008
-Date: 2007-11-26 01:24
-Author: liberforce
-Category: Computers / Informatique
-Tags: mandriva, linux
-Slug: compte-rendu-de-linstall-party-mandriva-linux-2008
-Status: published
-
+---
+title: "Compte rendu de l'install party Mandriva Linux 2008"
+date: "2007-11-26 01:24"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "mandriva, linux"
+slug: "compte-rendu-de-linstall-party-mandriva-linux-2008"
+status: "published"
+---
 Comme je le disais dans mon dernier billet, j'étais à l'install party Mandriva à la Cité des Sciences de Paris. C'était malheureusement un peu trop calme à mon goût :-(
 
 Bon, il y a tout de même des points positifs, notamment le fait que j'ai pu voir une bonne partie de l'équipe de Mandriva. L'équipe technique était venue en force : [Frédéric Crozat](http://twinpeaks.dyndns.org/blog/){hreflang="fr"}, [Pascal Terjan](http://fasmz.org/%7Epterjan/){hreflang="fr"} et [Olivier Blin](http://blino.org/){hreflang="fr"} ont fait le déplacement. Ce qui m'a permis d'avoir Fred pour 25 minutes de direct sur [Radio ici et Maintenant](http://icietmaintenant.info/){hreflang="fr"}. J'étais assez content que le direct que soit bien passé, et Fred a trouvé les questions assez intéressantes et bien choisies. Si quelqu'un a enregistré le passage, prévenez moi ;-)

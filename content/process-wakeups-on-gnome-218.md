@@ -1,11 +1,12 @@
-Title: Process wakeups on GNOME 2.18
-Date: 2007-12-11 02:58
-Author: liberforce
-Category: Computers / Informatique
-Tags: écologie, GNOME
-Slug: process-wakeups-on-gnome-218
-Status: published
-
+---
+title: "Process wakeups on GNOME 2.18"
+date: "2007-12-11 02:58"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "écologie, GNOME"
+slug: "process-wakeups-on-gnome-218"
+status: "published"
+---
 # Learning from the past
 
 Yesterday an old (1.5 year) blog entry of [Ryan Lortie on cpu and battery consumption](http://blogs.gnome.org/desrt/2006/07/27/burning-cpu-and-battery-on-the-gnome-desktop/){hreflang="en"} came to my mind. He tested some [GNOME](http://www.gnome.org){hreflang="en"} applications and saw that some of them caused way too many kernel wakeups, which prevents the CPU from entering in low consumption states. So, as just by curiosity (ang ecological concerns), I wanted to see if there's some improvements on this area on the GNOME desktop.

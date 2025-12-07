@@ -1,11 +1,12 @@
-Title: Windows, Linux, thoughts
-Date: 2008-06-16 03:24
-Author: liberforce
-Category: Computers / Informatique
-Tags: linux, mandriva, windows
-Slug: windows-linux-thoughts
-Status: published
-
+---
+title: "Windows, Linux, thoughts"
+date: "2008-06-16 03:24"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "linux, mandriva, windows"
+slug: "windows-linux-thoughts"
+status: "published"
+---
 Almost 5 years have passed since I erased my Microsoft Windows partitions to switch to [Mandriva Linux](http://www.mandriva.com) (Mandrakelinux 9.1 at that time). And I never regretted it. However, I try to keep myself informed of what happens in the Windows world, just to be able to help relatives when they're in trouble. So I keep an eye of all the stuff I don't use on Linux: anti-spywares, anti-adwares, anti-viruses, anti-everything.
 
 Yesterday, I had a Windows box to cure. Randomly, some Internet Explorer windows would pop up, and bring the whole machine down to its knees, eating a few hundred megabytes of memory, and causing lots of swapping. I could download Firefox, then killed all the iexplore.exe processes, and was able to browse the web to find a new antivirus and antispyware to see what was going on. Using Firefox, no ads appeared.  

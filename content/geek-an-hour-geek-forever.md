@@ -1,11 +1,12 @@
-Title: Geek an hour, geek forever
-Date: 2010-04-03 03:11
-Author: liberforce
-Category: Computers / Informatique
-Tags: mandriva, jeux
-Slug: geek-an-hour-geek-forever
-Status: published
-
+---
+title: "Geek an hour, geek forever"
+date: "2010-04-03 03:11"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "mandriva, jeux"
+slug: "geek-an-hour-geek-forever"
+status: "published"
+---
 The evening started normally. I just wanted to play a bit on the computer, which I rarely do nowadays. And [Battle for Wesnoth](http://wesnoth.org){hreflang="en"} is the game I choose in these moments. I then fired up the multiplayer game, which I had never tried before, and was greeted with a message telling me that my 1.6 version of wesnoth was outdated, and that 1.8 was the recommended version. « Ok », I thought, « so where can I find this version to try it ? ». I looked in the Mandriva Cooker repositories, but no, the only version there was the 1.6... Until I found out that Wesnoth 1.8 was only 2 days old. This new version was released on April, 1st.
 
 The rest of the evening is a bit silly : struggling to package wesnoth 1.8 for my Mandriva 2010.0. Which worked after a few hours (yep, compiling it on my AMD 3000+ takes a lot of time). I'm really not an expert packager, I only learned the minimum required to package my own apps in my previous job, but it was enough to make this actually work.

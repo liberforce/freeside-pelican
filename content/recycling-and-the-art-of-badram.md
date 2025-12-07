@@ -1,11 +1,12 @@
-Title: Recycling and the art of BadRAM...
-Date: 2007-01-10 02:56
-Author: liberforce
-Category: Computers / Informatique
-Tags: recyclage, matériel, mandriva
-Slug: recycling-and-the-art-of-badram
-Status: published
-
+---
+title: "Recycling and the art of BadRAM..."
+date: "2007-01-10 02:56"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "recyclage, matériel, mandriva"
+slug: "recycling-and-the-art-of-badram"
+status: "published"
+---
 I like to help protecting the environment. [And I just hate the overconsumption society]{.hitimportant}. You know, the one that fills your mailboxes (electronic and real) with ads, that fills the web with ads, that fills the streets with ads. The one that wants to make you believe you **REALLY** need something. The one that makes dumb people they are poor if they don't own a DVD player and 2 TVs.  
   
 One of the ways I like to help is giving a second life to computers. While helping some friends of my parents to buy a new computer, I asked them if I could get the old one, if they didn't use it anymore. They immediately agreed, who's gonna need a Pentium II 400 Mhz with 64MB of RAM ? A friend of mine wanted a computer, but didn't have money to buy one. So I just did the following:  

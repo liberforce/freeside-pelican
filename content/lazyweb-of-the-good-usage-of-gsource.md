@@ -1,11 +1,12 @@
-Title: Lazyweb: of the good usage of GSource...
-Date: 2008-02-21 19:19
-Author: liberforce
-Category: Computers / Informatique
-Tags: glib, GNOME
-Slug: lazyweb-of-the-good-usage-of-gsource
-Status: published
-
+---
+title: "Lazyweb: of the good usage of GSource..."
+date: "2008-02-21 19:19"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "glib, GNOME"
+slug: "lazyweb-of-the-good-usage-of-gsource"
+status: "published"
+---
 I'm currently writing an application that has two backends.
 
 - In *live* mode, I acquire images from several cameras.

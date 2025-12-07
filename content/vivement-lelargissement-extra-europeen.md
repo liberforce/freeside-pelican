@@ -1,11 +1,12 @@
-Title: Vivement l'élargissement extra-européen !
-Date: 2007-05-16 23:57
-Author: liberforce
-Category: Gossip / Blabla
-Tags: eurovision
-Slug: vivement-lelargissement-extra-europeen
-Status: published
-
+---
+title: "Vivement l'élargissement extra-européen !"
+date: "2007-05-16 23:57"
+author: "liberforce"
+category: "Gossip / Blabla"
+tags: "eurovision"
+slug: "vivement-lelargissement-extra-europeen"
+status: "published"
+---
 On va y gagner au change, musicalement. Il suffit pour s'en convaincre de voir le groupe proposé par l'[Ukraine à l'Eurovision 2007](http://info.rsr.ch/xobix_media/images/tsr/2007/swisstxt20070512_7813405_3.jpg), et [leur prestation](http://www.dailymotion.com/relevance/search/eurovision%2B2007%2Bukraine/video/x1ysgr_eurovision-2007-ukraine/1). Franchement, par rapport aux daubes que nous sortent les maisons de disque en France, c'en devient presque écoutable.  
   
 PS: Ils sont arrivés 2èmes sur 24.  

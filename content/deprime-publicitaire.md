@@ -1,11 +1,12 @@
-Title: Déprime publicitaire
-Date: 2007-11-30 00:38
-Author: liberforce
-Category: Gossip / Blabla
-Tags: publicité
-Slug: deprime-publicitaire
-Status: published
-
+---
+title: "Déprime publicitaire"
+date: "2007-11-30 00:38"
+author: "liberforce"
+category: "Gossip / Blabla"
+tags: "publicité"
+slug: "deprime-publicitaire"
+status: "published"
+---
 Des fois, quand je lis des news de ce genre, ça me déprime:
 
 - [La publicité à l'essai dans les documents PDF](http://www.generation-nt.com/yahoo-adobe-pdf-publicite-actualite-50039.html){hreflang="fr"}

@@ -1,11 +1,12 @@
-Title: FOSDEM: J - 1
-Date: 2007-02-22 00:21
-Author: liberforce
-Category: Computers / Informatique
-Tags: FOSDEM
-Slug: fosdem-j-1
-Status: published
-
+---
+title: "FOSDEM: J - 1"
+date: "2007-02-22 00:21"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "FOSDEM"
+slug: "fosdem-j-1"
+status: "published"
+---
 Voilà, demain soir je pars pour mon premier [FOSDEM](http://www.fosdem.org/2007/). J'espère y voir des choses intéressantes, et ne pas être trop perdu dans les présentations qui sont parait-il plus techniques qu'au [GUADEC](http://guadec.org/). J'y verrai sans doute du côté GNOME:
 
 - [Damien](http://blog.ekiga.net/) pour discuter un peu d'Ekiga, et des quelques bugs dont je m'occupe en ce moment, notemment la migration vers GTK 2.10. Et puis peut être d'une ou deux idées pour améliorer Ekiga et qui feraient que je pourrais peut être commencer à l'utiliser :-)

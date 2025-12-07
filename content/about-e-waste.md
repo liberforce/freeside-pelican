@@ -1,11 +1,12 @@
-Title: About E-waste
-Date: 2007-11-27 18:09
-Author: liberforce
-Category: Ecology  / Ecologie
-Tags: matériel, consommation, écologie
-Slug: about-e-waste
-Status: published
-
+---
+title: "About E-waste"
+date: "2007-11-27 18:09"
+author: "liberforce"
+category: "Ecology  / Ecologie"
+tags: "matériel, consommation, écologie"
+slug: "about-e-waste"
+status: "published"
+---
 Each time I hear about the [OLPC](http://laptop.org) project (just an example, I personnaly have nothing against it) and other widespread electronics, I wonder if the invasion of electronics in our everyday life is a [blessing or a curse](http://www.greenpeace.org/international/campaigns/toxics/electronics), especially for developping countries...
 
 There are plenty of examples of these poisonous devices. For example, the [iPhone contains hazardous chemicals](http://www.greenpeace.org/international/news/iPhone-test-hazardous-toxic-chemicals151007), according to greenpeace. They also give an [ecologic ranking of world electronics leaders](http://www.greenpeace.org/international/campaigns/toxics/electronics/how-the-companies-line-up){hreflang="en"}, based on their lack of hazardous substances and takeback and recycle of their products.

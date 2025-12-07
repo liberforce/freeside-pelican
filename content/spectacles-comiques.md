@@ -1,11 +1,12 @@
-Title: Spectacles comiques
-Date: 2006-12-23 03:13
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: Unclassified
-Slug: spectacles-comiques
-Status: published
-
+---
+title: "Spectacles comiques"
+date: "2006-12-23 03:13"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "Unclassified"
+slug: "spectacles-comiques"
+status: "published"
+---
 Hier, petit tour du côté de [la Cigale](http://www.lacigale.fr/) pour voir le spectacle comique de Noëlle Perna, alias "Mado la niçoise". Le spectacle était assez réussi, ce coup ci je n'ai pas fait l'erreur de connaître un spectacle de A à Z avant d'aller le voir (ce qui m'était arrivé l'année dernière avec [Gilles Détroit](http://www.gillesdetroit.com/)).  
   
 Le seul hic: la salle n'est pas top. Je n'étais jamais allé à la Cigale avant, mais il y a certaines places où on ne voit tout bonnement rien (places payantes juste derrières des poteaux, angles de vue impossibles sans se pencher, etc.). Résultant, dès la fin de la première partie, le jeu des chaises musicales a commencé. Il y avait tellement de gens mal assis que ça a pas mal défilé ! On a quand même réussi à trouver quelque chose d'acceptable.  

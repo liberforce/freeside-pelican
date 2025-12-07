@@ -1,11 +1,12 @@
-Title: En dırect d'Istanbul
-Date: 2008-07-07 11:07
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: GUADEC, GNOME
-Slug: en-direct-distanbul
-Status: published
-
+---
+title: "En dırect d'Istanbul"
+date: "2008-07-07 11:07"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "GUADEC, GNOME"
+slug: "en-direct-distanbul"
+status: "published"
+---
 Et ouı, c'est le premıer jour du GUADEC ici a Istanbul... Excusez l'orthographe je rısque de mettre un moment a m'habıtuer au clavıer turc... Je suıs arrive hıer: levé a 5h00, arrıvé a 15h00 heure locale, ce fut donc une rude journée. Apres une pause toılettes a l'aéroport, j'aı retrouvé par hasard Lucas Rocha, Chrıstopher Blızzard, Reınout van Shouten (je suıs sur de me gourer sur l'orthographe de son nom) et d'qutres encore.
 
 Hıer, premıere balade nocturne avec Aurore. Istanbul est une vılle magnıfıque sur le plan hıstorıque et les mosquées sont nombreuses et assez ımpressıonnantes. La balade s'est fınıe par un retour en taxı apres 6km de marche: le pont que l'on voulaıt emprunter pour rentrer n'emmenaıt pas la ou on le pensaıt !

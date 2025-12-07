@@ -1,11 +1,12 @@
-Title: Retour vers le passé
-Date: 2008-10-23 03:54
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: appartement
-Slug: retour-vers-le-passe
-Status: published
-
+---
+title: "Retour vers le passé"
+date: "2008-10-23 03:54"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "appartement"
+slug: "retour-vers-le-passe"
+status: "published"
+---
 Les travaux dans mon nouvel appartement ont débuté lundi. Armé de mon fidèle pied de biche (emprunté au beau frère) ainsi que de ses compagnons, le marteau, le burin, le vaporetto et l'huile de coude, ma première mission a été de déposer le plancher (en jargon de geek maçon-carreleur, ça veut dire virer à coup de pompes pour que ça parte à la benne). Cela devrait me faire économiser les 1200€ qu'un des artisans m'a estimé pour ce travail, avant de poser le nouveau parquet. C'est cher me dites vous. Oui et non. Oui parce que je n'ai pas un salaire de ministre (dans la moyenne dirons nous), mais surtout après avoir acheté un appartement, mes économies ont été réduites à peau de chagrin. Et non, parce que vu le boulot qu'il y a à faire, je comprends le prix.
 
 ## Le vif du sujet

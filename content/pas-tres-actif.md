@@ -1,11 +1,12 @@
-Title: Pas très actif
-Date: 2008-01-19 03:13
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: politique, mandriva, jeux
-Slug: pas-tres-actif
-Status: published
-
+---
+title: "Pas très actif"
+date: "2008-01-19 03:13"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "politique, mandriva, jeux"
+slug: "pas-tres-actif"
+status: "published"
+---
 Bin oui, je n'ai pas été très actif ces derniers temps, et pour plusieurs ~~mauvaises~~ raisons...
 
 ## Et Dieu créa la guitare...

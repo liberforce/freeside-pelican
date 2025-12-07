@@ -1,11 +1,12 @@
-Title: Feuilles de personnages Star Wars D6
-Date: 2012-01-17 13:59
-Author: liberforce
-Category: Gossip / Blabla
-Tags: star wars
-Slug: feuilles-de-personnages-star-wars-d6
-Status: published
-
+---
+title: "Feuilles de personnages Star Wars D6"
+date: "2012-01-17 13:59"
+author: "liberforce"
+category: "Gossip / Blabla"
+tags: "star wars"
+slug: "feuilles-de-personnages-star-wars-d6"
+status: "published"
+---
 Cela fait un peu plus de deux ans que je me suis mis au [jeu de rôle Star Wars](http://fr.wikipedia.org/wiki/Star_Wars_D6), un peu par hasard. En cherchant des idées de sorties sur le net, je me suis rendu compte qu'un maître de jeu (celui qui anime les parties de jeu de rôle) habitait à une rue de chez moi. Et bon, il fallait bien que je complète la panoplie du Geek :-p. Depuis le virus m'a contaminé...  
   
 Dans un jeu de rôle, pour représenter les différentes caractéristiques de son personnage, on utilise une feuille de personnage. Sur cette fiche sont regroupés ses attributs (dans Star Wars: dextérité, savoir, mécanique, perception, vigueur, technique) et les compétences qui découlent de ces attributs. Par exemple, la compétence "Sabre Laser" qui permet de manier un sabre laser est une compétence de dextérité.  

@@ -1,11 +1,12 @@
-Title: T ki ?
-Date: 2006-12-22 03:10
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: Unclassified
-Slug: t-ki
-Status: published
-
+---
+title: "T ki ?"
+date: "2006-12-22 03:10"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "Unclassified"
+slug: "t-ki"
+status: "published"
+---
 Tout à l'heure, je reçois un SMS d'un numéro inconnu. Histoire d'un dialogue surréaliste...
 
 > ::: hitcitation

@@ -1,11 +1,12 @@
-Title: Communiquer avec un baladeur MTP sous Linux
-Date: 2007-10-21 23:03
-Author: liberforce
-Category: Computers / Informatique
-Tags: baladeur numérique, matériel, linux
-Slug: communiquer-avec-un-baladeur-mtp-sous-linux
-Status: published
-
+---
+title: "Communiquer avec un baladeur MTP sous Linux"
+date: "2007-10-21 23:03"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "baladeur numérique, matériel, linux"
+slug: "communiquer-avec-un-baladeur-mtp-sous-linux"
+status: "published"
+---
 [Hub](http://www.figuiere.net/){hreflang="en"} m'a fait remarquer que le [MTP](http://en.wikipedia.org/wiki/Media_Transfer_Protocol){hreflang="en"} était mieux géré [que je ne le pensais](/post/2007/10/12/Choisir-son-baladeur-numerique-compatible-Linux-et-Ogg/Vorbis){hreflang="fr"} sous Linux. J'en conclus par conséquent que si l'on ne souhaite pas vraiment faire une utilisation "clé USB", un baladeur MTP est une solution acceptable.
 
 Il semble qu'il y a principalement deux bibliothèques qui permettent le dialogue avec des périphériques MTP: [libgphoto2](http://www.gphoto.org/proj/libgphoto2/){hreflang="en"} et [libmtp](http://libmtp.sourceforge.net/){hreflang="en"}. ~~Ces deux projets sont des forks~~ libmtp est un fork d'un autre projet, toujours actif, [libptp2](http://libptp.sourceforge.net/){hreflang="en"}.

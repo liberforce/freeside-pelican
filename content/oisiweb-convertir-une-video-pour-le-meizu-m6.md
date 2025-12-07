@@ -1,11 +1,12 @@
-Title: Oisiweb : Convertir une vidéo pour le Meizu M6
-Date: 2007-11-11 03:04
-Author: liberforce
-Category: Computers / Informatique
-Tags: gstreamer, baladeur numérique
-Slug: oisiweb-convertir-une-video-pour-le-meizu-m6
-Status: published
-
+---
+title: "Oisiweb : Convertir une vidéo pour le Meizu M6"
+date: "2007-11-11 03:04"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "gstreamer, baladeur numérique"
+slug: "oisiweb-convertir-une-video-pour-le-meizu-m6"
+status: "published"
+---
 Cher oisiweb, J'ai cherché (et trouvé) des solutions pour convertir des fichiers vidéo au format du [Meizu M6](http://en.meizu.com/product_m6sl.asp){hreflang="en"}, qui a les caractéristique suivantes:
 
 - vidéo au format Xvid avec un bitrate maximum de 512 kbps

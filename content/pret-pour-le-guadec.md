@@ -1,11 +1,12 @@
-Title: Prêt pour le GUADEC !
-Date: 2007-06-30 23:47
-Author: liberforce
-Category: Computers / Informatique
-Tags: GUADEC
-Slug: pret-pour-le-guadec
-Status: published
-
+---
+title: "Prêt pour le GUADEC !"
+date: "2007-06-30 23:47"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "GUADEC"
+slug: "pret-pour-le-guadec"
+status: "published"
+---
 Ça y est, j'ai enfin ma nouvelle carte d'identité !  Outre le fait de ne plus avoir à cacher la photo de l'ancienne (10 ans à se trainer une photo atroce , c'est pas cool), cela signifie surtout que j'ai à présent tout le nécessaire pour  mon séjour au GUADEC 2007.  
   
 J'ai le billet d'avion. A priori je prendrai le même que [Pascal Terjan](http://fasmz.org/%7Epterjan/) et [Frederic Crozat](http://twinpeaks.dyndns.org/blog/) ([Mandriva](http://www.mandriva.com/)). J'ai déjà eu l'occasion de discuter avec Frédéric au GUADEC 2006 et au FOSDEM 2007 (il est très sympa, au passage), mais jamais avec Pascal Terjan, ce sera peut être l'occasion.  

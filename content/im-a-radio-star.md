@@ -1,11 +1,12 @@
-Title: I'm a Radio Star
-Date: 2007-11-13 03:05
-Author: liberforce
-Category: Computers / Informatique
-Tags: médias, mandriva, linux
-Slug: im-a-radio-star
-Status: published
-
+---
+title: "I'm a Radio Star"
+date: "2007-11-13 03:05"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "médias, mandriva, linux"
+slug: "im-a-radio-star"
+status: "published"
+---
 Oui. La célébrité. Le succès. La gloire. Toutes ces choses sont à ma portée à présent. Parce que le 24 novembre, si tout va bien, je serai sur les ondes. Mais ne t'en fais pas, toi le français de la France d'en bas, je ne t'oublierai pas. Quand j'aurai besoin qu'on me descende mes poubelles, c'est à toi que je penserai.
 
 En effet, le 24 novembre, quand je serai à la [Cité des Sciences et de l'industrie](http://fr.wikipedia.org/wiki/Cit%C3%A9_des_sciences_et_de_l%27industrie){hreflang="fr"} pour l'[install party Mandriva Linux 2008](http://wiki.mandriva.com/fr/Install_Party_2008){hreflang="fr"}, je pourrais bien passer sur [radio ici et maintenant](http://icietmaintenant.com/){hreflang="fr"} dans l'émission [*Hot-line*](http://icietmaintenant.info/emissions.php?idNouvelle=8){hreflang="fr"}. Cette émission, diffusée chaque dimanche de 14H à 16H permet aux utilisateurs d'appeler pour avoir un coup de main dans la résolution de leurs problèmes liés à l'informatique. Je suis tombé par hasard dessus dimanche dernier, et voyant que l'on y parlait aussi logiciel libre, le présentateur conseillant Linux à tout va, j'ai pris un peu de temps pour écouter l'émission. Et rigoler un coup aussi.

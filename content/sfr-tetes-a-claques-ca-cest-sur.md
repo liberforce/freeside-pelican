@@ -1,11 +1,12 @@
-Title: SFR: Têtes à claques, ça c'est sûr...
-Date: 2007-08-21 03:20
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: sfr, publicité
-Slug: sfr-tetes-a-claques-ca-cest-sur
-Status: published
-
+---
+title: "SFR: Têtes à claques, ça c'est sûr..."
+date: "2007-08-21 03:20"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "sfr, publicité"
+slug: "sfr-tetes-a-claques-ca-cest-sur"
+status: "published"
+---
 Je déteste la pub non sollicitée, et c'est mon droit. Pourtant, SFR semble en avoir décidé autrement.  
   
 J'ai encore reçu une de leurs pubs pourries sur mon téléphone mobile, la deuxième pour les "têtes à claques" (oui, pas de lien, c'est normal) et dont je me contrefous, et on me demande d'appeler le 4275 pour ne plus recevoir de publicité. C'est bien. Sauf que ce numéro est toujours occupé !  

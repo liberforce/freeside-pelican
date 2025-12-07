@@ -1,11 +1,12 @@
-Title: Number of the day: 185 !
-Date: 2007-04-07 19:39
-Author: liberforce
-Category: Computers / Informatique
-Tags: GNOME
-Slug: number-of-the-day-185
-Status: published
-
+---
+title: "Number of the day: 185 !"
+date: "2007-04-07 19:39"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "GNOME"
+slug: "number-of-the-day-185"
+status: "published"
+---
 This is the number of lines in the code shipped with GNOME 2.18 that use a [deprecated symbol in GLib](http://developer.gnome.org/doc/API/2.0/glib/ix02.html). The winner, by far, is *g_strcasecmp.*  
   
 at-spi/test/test-simple.c:766:        if (!g_strcasecmp (argv \[i\], "--poke"))  

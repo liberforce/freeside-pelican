@@ -1,11 +1,12 @@
-Title: Question Yahoo du jour
-Date: 2007-02-09 00:34
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: question-yahoo-du-jour
-Status: published
-
+---
+title: "Question Yahoo du jour"
+date: "2007-02-09 00:34"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "question-yahoo-du-jour"
+status: "published"
+---
 [**Question:**]{.underline}  
 
 ::: hitcitation

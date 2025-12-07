@@ -1,11 +1,12 @@
-Title: Why I don't use Beryl/Compiz
-Date: 2006-12-19 03:08
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: why-i-dont-use-berylcompiz
-Status: published
-
+---
+title: "Why I don't use Beryl/Compiz"
+date: "2006-12-19 03:08"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "why-i-dont-use-berylcompiz"
+status: "published"
+---
 Although I'm a Mandriva user, [this post of Lucas Nussbaum's](http://www.lucas-nussbaum.net/blog/?p=223) from planet Ubuntu retained my attention. Using the fact that Linux needs 3D effects and proprietary drivers to face Windows is just a bad idea. Sure it adds some nice visual, is nice to show to friend so they can say "God, this guy is good at the computers thingy".  
   
 But in fact, rotating cubes don't make me feel better when I use my computer, and I just miss the "always on top" function of Metacity when I use compiz. That's why I keep my 2D desktop.  

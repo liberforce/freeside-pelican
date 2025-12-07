@@ -1,11 +1,12 @@
-Title: Mandriva Linux 2009.0 is released !
-Date: 2008-10-09 14:44
-Author: liberforce
-Category: Computers / Informatique
-Tags: mandriva
-Slug: mandriva-linux-20090-is-released
-Status: published
-
+---
+title: "Mandriva Linux 2009.0 is released !"
+date: "2008-10-09 14:44"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "mandriva"
+slug: "mandriva-linux-20090-is-released"
+status: "published"
+---
 Here we are, Mandriva Linux 2009.0 has been released today ! Congratulations to everyone involved !
 
 [Download Mandriva Linux 2009.0 (bittorrent download)](http://torrent.mandriva.com/public){hreflang="en"} *(make sure you choose 2009.0 and not 2008.1)*.

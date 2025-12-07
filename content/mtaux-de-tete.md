@@ -1,11 +1,12 @@
-Title: (M|T)aux de tête
-Date: 2006-12-20 03:09
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: Unclassified
-Slug: mtaux-de-tete
-Status: published
-
+---
+title: "(M|T)aux de tête"
+date: "2006-12-20 03:09"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "Unclassified"
+slug: "mtaux-de-tete"
+status: "published"
+---
 J'ai passé (avec mon père, et *surtout*: pour mon père) la soirée de ce soir à disséquer les différentes offres en termes de compte bancaires, aasurances vies, mutuelles. Seigneur-Jésus-Marie-Joseph ! Il y en a pour tous les goûts, entre les CODEVI, les livrets A, les PEL, CEL, LEP, assurances vie en tout genre où il faut prendre en compte les droits de succession mais aussi les prélèvement de l'état (11%)...  
   
 Bref: de quoi favoriser une ouverture innopinée des artères à coup de machette.  

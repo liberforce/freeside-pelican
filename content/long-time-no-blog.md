@@ -1,11 +1,12 @@
-Title: Long time no blog...
-Date: 2008-01-19 02:49
-Author: liberforce
-Category: Gossip / Blabla
-Tags: GNOME, jamendo
-Slug: long-time-no-blog
-Status: published
-
+---
+title: "Long time no blog..."
+date: "2008-01-19 02:49"
+author: "liberforce"
+category: "Gossip / Blabla"
+tags: "GNOME, jamendo"
+slug: "long-time-no-blog"
+status: "published"
+---
 ...comme disent nos amis anglo-saxons. Alors tout d'abord, laissez moi vous souhaiter une **excellente année 2008 !  
 \**
 

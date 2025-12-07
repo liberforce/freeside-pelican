@@ -1,11 +1,12 @@
-Title: Happy Birthday to me !
-Date: 2008-11-02 01:26
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: Unclassified
-Slug: happy-birthday-to-me
-Status: published
-
+---
+title: "Happy Birthday to me !"
+date: "2008-11-02 01:26"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "Unclassified"
+slug: "happy-birthday-to-me"
+status: "published"
+---
 Rah, ça y est, je me rapproche du côté obscur... la trentaine ! J'ai 29 ans depuis environ 6 heures. Alors à quoi ai-je utilisé cette année écoulée ? En vrac :
 
 - Essayer d'avoir les cheveux longs comme j'avais voulu le faire à 17 ans, et au passage, essayer d'avoir l'air le plus repoussant possible. Pas de bol, belle maman (je l'appelle comme ça parce que la mère d'Aurore est est belle, je ne suis pas marié :-p ) trouve toujours que ça me va bien et que je suis beau. J'ai essayé plusieurs combinaisons jusqu'au duo cheveu long/barbe, ni elle ni la grand mère d'Aurore ne m'on dit que ça ne m'allait pas et que j'avais une tête de dessous de bras. J'ai donc fini par abdiquer.

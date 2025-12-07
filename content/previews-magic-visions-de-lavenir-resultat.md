@@ -1,11 +1,12 @@
-Title: Previews Magic: Visions de l'avenir - résultat
-Date: 2007-04-23 19:31
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: MTG
-Slug: previews-magic-visions-de-lavenir-resultat
-Status: published
-
+---
+title: "Previews Magic: Visions de l'avenir - résultat"
+date: "2007-04-23 19:31"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "MTG"
+slug: "previews-magic-visions-de-lavenir-resultat"
+status: "published"
+---
 Bizarrement, il semble qu'il y un un nouveau mode d'organisation, avec uniquement 5 match, et plusieurs tournois en parallèle. Ayant eu du mal à me lever, je suis arrivé un peu tard pour les deux premiers tournois, et avec mon pote Alex, on a dû attendre jusqu'à 11H35 avant de pouvoir ouvrir nos paquets de cartes (pas assez de terrains, que des boosters et pas de starters disponibles) ! On était quand même arrivés, lui à 9H00, moi à 9H25...  
 Bon, il y avait plus de temps entre les rondes, et pour une fois j'ai pu manger à une heure convenable. J'ai fait un résultat assez moyen:
 

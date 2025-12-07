@@ -1,11 +1,12 @@
-Title: La fin de l'Internet ?
-Date: 2007-01-12 03:00
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: la-fin-de-linternet
-Status: published
-
+---
+title: "La fin de l'Internet ?"
+date: "2007-01-12 03:00"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "la-fin-de-linternet"
+status: "published"
+---
 [Questions "Yahoo Questions/Réponses" du jour:  
   
 ]{.hitimportant}**La surprenante:**

@@ -1,11 +1,12 @@
-Title: Compte rendu du FOSDEM
-Date: 2007-02-26 00:18
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: FOSDEM, bande dessinée
-Slug: compte-rendu-du-fosdem
-Status: published
-
+---
+title: "Compte rendu du FOSDEM"
+date: "2007-02-26 00:18"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "FOSDEM, bande dessinée"
+slug: "compte-rendu-du-fosdem"
+status: "published"
+---
 # Bruxelles, la ville
 
 Le trajet s'est bien passé, j'ai même pris le temps de visiter un peu Bruxelles, malgré la pluie et le vent... J'en profite pour vous conseiller le très excellent musée de la BD. En tant que français, je me dois admettre que presque tous les auteurs qui ont bercé mon enfance sont belges... De Hergé à Peyo, en passant par Franquin... Ils m'ont donné le goût de la lecture, sans lequel on ne peut acquérir de connaissances par soi même. Un très bon moment, bien qu'un peu court (on a payé une entrée enfant, il restait 30 minutes avant la fermeture).

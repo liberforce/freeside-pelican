@@ -1,11 +1,12 @@
-Title: 5 mn de répit pour la planète ? Pas sûr...
-Date: 2007-01-23 03:02
-Author: liberforce
-Category: Ecology  / Ecologie
-Tags: Unclassified
-Slug: 5-mn-de-repit-pour-la-planete-pas-sur
-Status: published
-
+---
+title: "5 mn de répit pour la planète ? Pas sûr..."
+date: "2007-01-23 03:02"
+author: "liberforce"
+category: "Ecology  / Ecologie"
+tags: "Unclassified"
+slug: "5-mn-de-repit-pour-la-planete-pas-sur"
+status: "published"
+---
 J'ai récemment entendu parler comme vous aussi sans doute de l'initiative "[5 mn de répit pour la planète](http://www.lalliance.fr/50-5-Minutes-De-Repit-Pour-La-Planete)", organisée par l'Alliance pour la Planète. Le but: couper la lumière le 1er février durant 5 minutes, afin de montrer que l'on attache de l'importance à l'écologie. Eh bien il semble que ce soit une fausse bonne idée.  
   
 Explications sur cette page...  

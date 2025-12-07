@@ -1,11 +1,12 @@
-Title: J'aimerais être une petite souris...
-Date: 2007-04-23 19:30
-Author: liberforce
-Category: Politics / Politique
-Tags: Unclassified
-Slug: jaimerais-etre-une-petite-souris
-Status: published
-
+---
+title: "J'aimerais être une petite souris..."
+date: "2007-04-23 19:30"
+author: "liberforce"
+category: "Politics / Politique"
+tags: "Unclassified"
+slug: "jaimerais-etre-une-petite-souris"
+status: "published"
+---
 ...Pour savoir pour qui Jacques Chirac a voté hier...  
 Au lendemain de ce premier tour des élections présidentielles, je me demande s'il a réelleent voté pour son ennemi de toujours, [Nicolas Sarkozy](http://fr.wikipedia.org/wiki/Darth_Sidious) ? Difficile à croire, même s'il le soutient publiquement, afin sans doute d'être [absout de ses pêchés](http://www.liberation.fr/actualite/politiques/elections2007/246826.FR.php).  
   

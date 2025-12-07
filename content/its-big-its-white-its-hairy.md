@@ -1,11 +1,12 @@
-Title: It's big, it's white, it's hairy
-Date: 2008-06-01 20:32
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: its-big-its-white-its-hairy
-Status: published
-
+---
+title: "It's big, it's white, it's hairy"
+date: "2008-06-01 20:32"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "its-big-its-white-its-hairy"
+status: "published"
+---
 It's [Big Buck Bunny](http://www.bigbuckbunny.org/index.php/download/) !
 
 Enjoy !

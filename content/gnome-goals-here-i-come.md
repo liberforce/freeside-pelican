@@ -1,11 +1,12 @@
-Title: GNOME Goals, here I come !
-Date: 2008-12-04 03:02
-Author: liberforce
-Category: Computers / Informatique
-Tags: GNOME Goals, GNOME
-Slug: gnome-goals-here-i-come
-Status: published
-
+---
+title: "GNOME Goals, here I come !"
+date: "2008-12-04 03:02"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "GNOME Goals, GNOME"
+slug: "gnome-goals-here-i-come"
+status: "published"
+---
 A few weeks ago, some new [GNOME Goals](http://live.gnome.org/GnomeGoals){hreflang="en"} were open. I've worked on the guidelines of some of them. Some of these goals are paving the road towards GNOME 3.0. My first task has been to [detect the deprecated GLib symbols](http://live.gnome.org/GnomeGoals/RemoveDeprecatedSymbols/Glib){hreflang="en"} used within the GNOME stack, to let other people submit simple patches. This is a nice way to have newcommers get into the GNOME stuff. This work included basic grep searching in C/C++ source files of each GNOME module, in order to find these symbols.
 
 Tonight, I've been working on using [jhbuild](http://live.gnome.org/Jhbuild){hreflang="en"} and compiling the whole stuff disabling deprecated Glib symbols, and [forbiding gtk/gdk/gdk-pixbuf sub-headers direct inclusion](http://live.gnome.org/GnomeGoals/CleanupGTKIncludes){hreflang="en"}. This is easy, but lenghty work. Especialy compiling the whole GNOME stack. gnome-vfs in particular was a pain in the ass to migrate, because it heavily relied on sub-headers inclusion.

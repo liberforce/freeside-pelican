@@ -1,11 +1,12 @@
-Title: Mandriva : thumbs up, GNOME : thumbs down
-Date: 2009-05-05 04:25
-Author: liberforce
-Category: Computers / Informatique
-Tags: mandriva, GNOME
-Slug: mandriva-thumbs-up-gnome-thumbs-down
-Status: published
-
+---
+title: "Mandriva : thumbs up, GNOME : thumbs down"
+date: "2009-05-05 04:25"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "mandriva, GNOME"
+slug: "mandriva-thumbs-up-gnome-thumbs-down"
+status: "published"
+---
 Mandriva 2009 Spring has been out for a few days now. Congratulations to everyone involved ! I did my upgrade this week end, all in graphical mode with `mdkapplet`. I had [some bad luck](https://qa.mandriva.com/show_bug.cgi?id=50557){hreflang="en"}, which was fortunately quickly repaired. What you need to know is that using a 23MB /boot partition is a bad idea, it's way too small if you keep a few kernels around. Once things were sorted out, I could enjoy the gorgeous design (Yay for that [tribal-penguin wallpaper](http://linuxbidouille.com/2009/03/07/theme-mandriva-20091/){hreflang="fr"} !), and everything went fine.
 
 The new GNOME mixer replaced the old one automagically, and It works great. The only problem I have with it is that it's a notification icon and not an applet anymore. I hope this will change : [**notification area is not made for permanent things**](http://library.gnome.org/devel/hig-book/stable/desktop-notification-area.html.en){hreflang="en"}. And I now am unable to have the mixer react to a scroll button action if I put it in the corner of the screen and move my mouse at it. Fitt's law failure. Being able to change the volume without the need to power on my screen was a feature I liked.

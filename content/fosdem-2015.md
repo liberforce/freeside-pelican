@@ -1,11 +1,12 @@
-Title: FOSDEM 2015
-Date: 2015-02-01 13:03
-Author: liberforce
-Category: Computers / Informatique
-Tags: GNOME, FOSDEM
-Slug: fosdem-2015
-Status: published
-
+---
+title: "FOSDEM 2015"
+date: "2015-02-01 13:03"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "GNOME, FOSDEM"
+slug: "fosdem-2015"
+status: "published"
+---
 Deuxième et dernier jour du FOSDEM au stand GNOME.
 
 La journée d'hier a été assez remplie, toujours beaucoup de présentations en parallèle, dont quelques unes intéressantes pour mon nouveau travail chez [Anevia](http://www.anevia-group.com), comme celles sur Postgres, SPDX, et la gestion de licences open source en général.

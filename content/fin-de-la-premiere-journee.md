@@ -1,11 +1,12 @@
-Title: Fin de la premiere journée
-Date: 2008-07-08 00:50
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: mandriva, GUADEC, GNOME
-Slug: fin-de-la-premiere-journee
-Status: published
-
+---
+title: "Fin de la premiere journée"
+date: "2008-07-08 00:50"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "mandriva, GUADEC, GNOME"
+slug: "fin-de-la-premiere-journee"
+status: "published"
+---
 Finalement tout s'est bien passé aujourd'hui. Nous sommes un peu plus familiarisés avec le réseau de tranports et l'Akbil. C'est une sorte de toute petite cuillere en plastique qui sert de carte de transports rechargeable ici. Arrivés au GUADEC Pascal Terjan nous a présentés a Tuçe et Elvin, deux charmantes stambouliotes avec quı nous avons dıscuté tout l'apres midi (ainsi qu'avec Christian, un allemand de chez Imendıo).
 
 En effet cette année, le GUADEC c'est assez léger coté conférences... Il y a pas mal de "free slots", c'est a dıre de cases vides dans le plannıng. Alors on en a profıté pour refaıre le monde entre européens, et ça a été ma foi tres enrichissant.

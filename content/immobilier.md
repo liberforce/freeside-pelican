@@ -1,11 +1,12 @@
-Title: Immobilier...
-Date: 2008-05-20 00:57
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: Unclassified
-Slug: immobilier
-Status: published
-
+---
+title: "Immobilier..."
+date: "2008-05-20 00:57"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "Unclassified"
+slug: "immobilier"
+status: "published"
+---
 Et oui, j'ai un compromis de vente à récupérer chez un agent immobilier. Vous voyez un peu les commerciaux ? Bin les agents immobiliers, c'est la même race, mais en pire... Celui qui a décroché le ponpon m'a sorti les superbes [fortunes](http://fr.wikipedia.org/wiki/Fortune_%28programme%29){hreflang="fr"} suivantes:
 
 > Je dors 4 heures et demi par nuit, le reste c'est mon travail.

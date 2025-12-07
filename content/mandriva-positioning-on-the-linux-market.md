@@ -1,11 +1,12 @@
-Title: Mandriva positioning on the Linux market
-Date: 2008-04-22 00:44
-Author: liberforce
-Category: Computers / Informatique
-Tags: GNOME, mandriva
-Slug: mandriva-positioning-on-the-linux-market
-Status: published
-
+---
+title: "Mandriva positioning on the Linux market"
+date: "2008-04-22 00:44"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "GNOME, mandriva"
+slug: "mandriva-positioning-on-the-linux-market"
+status: "published"
+---
 Here's an insightful [vision of the current Linux distro's market](http://blogs.gnome.org/bolsh/2008/04/21/red-hat-novell-canonical-and-the-free-software-desktop){hreflang="en"}, from [Dave Neary](http://blogs.gnome.org/bolsh){hreflang="en"}, former member of the [GNOME foundation board](http://foundation.gnome.org/about/){hreflang="en"}.
 
 > I don’t want to pick on Mandriva, but it’s true that right now they’re aiming for the general consumer, the enterprise desktop **and** the enterprise server, and are not competing particularly well with the front-runners in any of those markets.

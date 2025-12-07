@@ -1,11 +1,12 @@
-Title: Album Jamendo de la semaine: Baïki
-Date: 2007-09-28 19:43
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: jamendo
-Slug: album-jamendo-de-la-semaine-baiki
-Status: published
-
+---
+title: "Album Jamendo de la semaine: Baïki"
+date: "2007-09-28 19:43"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "jamendo"
+slug: "album-jamendo-de-la-semaine-baiki"
+status: "published"
+---
 Bon d'accord, il a été publié il y a longtemps sur [Jamendo](http://www.jamendo.com/) (07 avril 2006), mais soyez indulgents, il me reste 4553 albums à écouter :-)  
 [Baïki](http://www.baiki.be/) n'a qu'un seul album sur Jamendo: [Do it Yourself](http://www.jamendo.com/fr/album/1604/). Une voix masculine très limpide, des rythmes rock/world music très entrainants. Ils chantent en polonais, en espagnol, en français, en anglais (les textes sont même traduits sur leur site)... Notez que sur leur site ils ne se réclament d'aucun mouvement musical:
 

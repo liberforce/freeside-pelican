@@ -1,11 +1,12 @@
-Title: Nicolas Sarkozy est au deuxième tour...
-Date: 2007-04-23 19:32
-Author: liberforce
-Category: Politics / Politique
-Tags: Unclassified
-Slug: nicolas-sarkozy-est-au-deuxieme-tour
-Status: published
-
+---
+title: "Nicolas Sarkozy est au deuxième tour..."
+date: "2007-04-23 19:32"
+author: "liberforce"
+category: "Politics / Politique"
+tags: "Unclassified"
+slug: "nicolas-sarkozy-est-au-deuxieme-tour"
+status: "published"
+---
 Alors quand vous irez voter, rappelez vous bien que:
 
 - [Nicolas Sarkozy ne s'intéresse pas au SIDA](http://www.aides.org/presse/communiques/sarkozy-2-actu.php).

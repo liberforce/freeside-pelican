@@ -1,11 +1,12 @@
-Title: Best wishes of an happy new year!
-Date: 2007-01-05 02:45
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: Unclassified
-Slug: best-wishes-of-an-happy-new-year
-Status: published
-
+---
+title: "Best wishes of an happy new year!"
+date: "2007-01-05 02:45"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "Unclassified"
+slug: "best-wishes-of-an-happy-new-year"
+status: "published"
+---
 I wish you a good health, because everyone needs it. Then love, money, an new shiny GNOME version, nice Mandriva backports, no DRM in your music, a good bandwith and freedom, freedom, freedom...  
   
 2006 was shitty ? Well...  

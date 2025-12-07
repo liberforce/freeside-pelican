@@ -1,11 +1,12 @@
-Title: Yahoo answers and the infinite dumbness....
-Date: 2006-12-12 02:39
-Author: liberforce
-Category: Gossip / Blabla
-Tags: Unclassified
-Slug: yahoo-answers-and-the-infinite-dumbness
-Status: published
-
+---
+title: "Yahoo answers and the infinite dumbness...."
+date: "2006-12-12 02:39"
+author: "liberforce"
+category: "Gossip / Blabla"
+tags: "Unclassified"
+slug: "yahoo-answers-and-the-infinite-dumbness"
+status: "published"
+---
 The more I go on the [french Yahoo Questions/Answers](http://fr.answers.yahoo.com/question/), the more I' m amazed about human stupidity. People that want us to do their homework. Others that don't even try to understand what the source of the problems can be (your computer crashes ? (Buy more RAM\|Reinstall Windows\|Buy another computer)). Lots of "Windows-is-a-piece-of-shit-but-I-still-use-it", and some linux zealots...  
   
 Browsing aimlessly on the "Computers & Internet " section if pretty instructive about the average Windows user and it difficulties. Most seen questions are:

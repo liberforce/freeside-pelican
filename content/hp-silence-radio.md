@@ -1,11 +1,12 @@
-Title: HP: silence radio
-Date: 2008-11-04 11:47
-Author: liberforce
-Category: Computers / Informatique
-Tags: hp, racketiciel
-Slug: hp-silence-radio
-Status: published
-
+---
+title: "HP: silence radio"
+date: "2008-11-04 11:47"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "hp, racketiciel"
+slug: "hp-silence-radio"
+status: "published"
+---
 Plus d'une semaine que j'ai envoyé ma demande de remboursement, et je n'ai pas reçu l'accusé de réception de mon recommandé envoyé à HP. J'ai donc tenté de les joindre par téléphone au 0826 10 49 49. Dans mon cas, c'est un produit professionnel, et d'après leur site, cela me coûte un appel local. Les particuliers en seront pur leurs frais avec un numéro à 0,34€ la minute.
 
 J'ai pu avoir après 3 coups de fils quelqu'un d'un peu plus compréhensif. Et à qui j'ai sorti la botte secrète du "vous pouvez vous renseigner auprès de votre supérieur s'il vous plaît". En général ça marche pas mal sur les hotlines (au passage, le plus ferme "passez moi votre supérieur", d'expérience, marche plutôt bien sur les hotlines de fournisseurs d'accès). Il m'a donc créé le dossier n°1602863558 pour tracer mon appel, me disant qu'on me contacterait sous 48 heures. Notre conversation s'achève à 9H53, et je regarde mes mails : je reçois un mail (automatique) horodaté de 9H50 indiquant que mon dossier a été fermé !

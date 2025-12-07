@@ -1,11 +1,12 @@
-Title: Culture Geek
-Date: 2007-03-08 01:11
-Author: liberforce
-Category: Gossip / Blabla
-Tags: tv
-Slug: culture-geek
-Status: published
-
+---
+title: "Culture Geek"
+date: "2007-03-08 01:11"
+author: "liberforce"
+category: "Gossip / Blabla"
+tags: "tv"
+slug: "culture-geek"
+status: "published"
+---
 Un [geek](http://fr.wikipedia.org/wiki/Geek), c'est aussi un humain, et parfois, sous une masse de poils, se cache parfois un gars bien.  
 Derrière des gros nichons et une bonne couche de fond de teint, peut se cacher une teigne.  
   

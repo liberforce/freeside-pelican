@@ -1,10 +1,11 @@
-Title: Favorite command after a clean Mandriva Install...
-Date: 2008-03-26 00:48
-Author: liberforce
-Category: Computers / Informatique
-Tags: mandriva
-Slug: favorite-command-after-a-clean-mandriva-install
-Status: published
-
+---
+title: "Favorite command after a clean Mandriva Install..."
+date: "2008-03-26 00:48"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "mandriva"
+slug: "favorite-command-after-a-clean-mandriva-install"
+status: "published"
+---
 
     urpme -a mono

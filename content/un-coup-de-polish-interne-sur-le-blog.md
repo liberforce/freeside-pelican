@@ -1,11 +1,12 @@
-Title: Un coup de polish (interne) sur le blog
-Date: 2007-02-06 00:42
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: un-coup-de-polish-interne-sur-le-blog
-Status: published
-
+---
+title: "Un coup de polish (interne) sur le blog"
+date: "2007-02-06 00:42"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "un-coup-de-polish-interne-sur-le-blog"
+status: "published"
+---
 Vendredi dernier, j'ai eu la surprise de voir apparaitre dans l'interface d'administration de mon blog un bandeau m'annonçant que j'avais été choisi pour pouvoir tester si je le souhaitais la nouvelle version d'[over-blog](http://www.over-blog.com/). Bizarrement, aucune information sur les changements apportés n'était indiquée. Curieux, j'ai néanmoins décidé de tenter l'aventure (même si je ne suis pas dupe, j'imagine qu'un bon paquet de blogueurs ont dû voir le même message).  
   
 Quelques heures plus tard, voici l'interface d'administration que j'ai découverte:  

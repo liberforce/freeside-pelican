@@ -1,11 +1,12 @@
-Title: Re: a way to get more GNOME hackers
-Date: 2007-04-16 19:38
-Author: liberforce
-Category: Computers / Informatique
-Tags: mandriva, GNOME
-Slug: re-a-way-to-get-more-gnome-hackers
-Status: published
-
+---
+title: "Re: a way to get more GNOME hackers"
+date: "2007-04-16 19:38"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "mandriva, GNOME"
+slug: "re-a-way-to-get-more-gnome-hackers"
+status: "published"
+---
 [Alberto](http://aruiz.typepad.com/siliconisland/2007/04/lets_make_it_ea.html), here are some hints if you want to improve this part of GNOME (ie, reduce the technical level needed by newcommers to just become jhbuild users).  
   
 ***- Create a standard .jhbuildrc for newbies.**\*

@@ -1,11 +1,12 @@
-Title: Quoi de neuf docteur ?
-Date: 2007-05-30 23:51
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: GNOME
-Slug: quoi-de-neuf-docteur
-Status: published
-
+---
+title: "Quoi de neuf docteur ?"
+date: "2007-05-30 23:51"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "GNOME"
+slug: "quoi-de-neuf-docteur"
+status: "published"
+---
 ::: contenuArticle
 Pfff...  Ça fait un moment que je n'ai pas des masses avancé sur [GNOME](http://www.gnome.org/)...  J'ai bien essayé de relancer les [GNOME Goals](http://live.gnome.org/GnomeGoals), mais c'est un peu dur de créer une synergie, et j'ai eu pas mal de pépins au moment où je l'ai fait. Par ailleurs, [ce bug](http://bugzilla.gnome.org/show_bug.cgi?id=336225) m'empêche d'ouvrir un [nouveau GNOME Goal](http://live.gnome.org/GnomeGoals/AboutDialog). Alors la situation est pour ainsi dire bloquée, et dans la liste des prétendants, il n'y en a pas vraiment qui soient aussi plaisant ni aboutis (ni simples, d'ailleurs).  
   

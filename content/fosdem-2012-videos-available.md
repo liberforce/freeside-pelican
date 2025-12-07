@@ -1,9 +1,10 @@
-Title: FOSDEM 2012 videos available !
-Date: 2012-02-14 10:35
-Author: liberforce
-Category: Computers / Informatique
-Tags: FOSDEM
-Slug: fosdem-2012-videos-available
-Status: published
-
+---
+title: "FOSDEM 2012 videos available !"
+date: "2012-02-14 10:35"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "FOSDEM"
+slug: "fosdem-2012-videos-available"
+status: "published"
+---
 Santa Claus uploaded them during the night :-). Among the one of the previous years, you will find the [videos of FOSDEM 2012](http://video.fosdem.org/2012/). Many thanks to the GNOME and Mageia guys I met there, I really enjoyed that week-end in a snowy Brussels :-)  

@@ -1,11 +1,12 @@
-Title: Il y a un début à tout...
-Date: 2006-12-06 02:38
-Author: liberforce
-Category: Gossip / Blabla
-Tags: Unclassified
-Slug: il-y-a-un-debut-a-tout
-Status: published
-
+---
+title: "Il y a un début à tout..."
+date: "2006-12-06 02:38"
+author: "liberforce"
+category: "Gossip / Blabla"
+tags: "Unclassified"
+slug: "il-y-a-un-debut-a-tout"
+status: "published"
+---
 Here I am... I wanted a blog to have some visibility in the GNOME world, and communicate in an easier way than in mailing lists. You surely don't know me, so here is some background info:
 
 - I'm a 27 years old french guy

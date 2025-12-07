@@ -1,11 +1,12 @@
-Title: Choisir son baladeur numérique - partie 3
-Date: 2007-11-10 19:26
-Author: liberforce
-Category: Computers / Informatique
-Tags: ogg, matériel, linux, baladeur numérique
-Slug: choisir-son-baladeur-numerique-partie-3
-Status: published
-
+---
+title: "Choisir son baladeur numérique - partie 3"
+date: "2007-11-10 19:26"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "ogg, matériel, linux, baladeur numérique"
+slug: "choisir-son-baladeur-numerique-partie-3"
+status: "published"
+---
 ## And the winner is:
 
 Le *Meizu M6 SL 8Go*.

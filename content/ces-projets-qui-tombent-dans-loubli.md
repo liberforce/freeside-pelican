@@ -1,11 +1,12 @@
-Title: Ces projets qui tombent dans l'oubli...
-Date: 2007-06-06 23:45
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: ces-projets-qui-tombent-dans-loubli
-Status: published
-
+---
+title: "Ces projets qui tombent dans l'oubli..."
+date: "2007-06-06 23:45"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "ces-projets-qui-tombent-dans-loubli"
+status: "published"
+---
 Le libre c'est bien. Malheureusement, il faut des gens motivés pour que cela avance.  
 Alors voilà ma sélection de project que j'aimerais bien revoir prendre un coup de boost.
 

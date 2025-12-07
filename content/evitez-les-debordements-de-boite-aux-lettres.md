@@ -1,11 +1,12 @@
-Title: Evitez les débordements de boite aux lettres...
-Date: 2007-08-24 03:23
-Author: liberforce
-Category: Ecology  / Ecologie
-Tags: publicité
-Slug: evitez-les-debordements-de-boite-aux-lettres
-Status: published
-
+---
+title: "Evitez les débordements de boite aux lettres..."
+date: "2007-08-24 03:23"
+author: "liberforce"
+category: "Ecology  / Ecologie"
+tags: "publicité"
+slug: "evitez-les-debordements-de-boite-aux-lettres"
+status: "published"
+---
 Birmingham au mois de juillet, Narbonne au mois d'aout... Le temps des vacances revient avec le Portugal début septembre. Mais comme je pars pour deux semaines cette fois ci, je vais enfin me décider à utiliser les [planches à imprimer "stop pub"](http://www.environnement.gouv.fr/rubrique.php3?id_rubrique=1165), éditées par le ministère de l'écologie. Ce sera un bonne durée de test pour voir si ce type de consigne sur boite aux lettres est réellement suivi ou pas.  
   
 J'espère en tout cas profiter d'un peu de répit publicitaire... Sauf si [SFR trouble à nouveau ma tranquilité](/post/2007/08/21/SFR%3A-Tete-a-claques-ca-cest-sur).  

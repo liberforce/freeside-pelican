@@ -1,11 +1,12 @@
-Title: First Desktop Summit !
-Date: 2011-08-04 11:15
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: first-desktop-summit
-Status: published
-
+---
+title: "First Desktop Summit !"
+date: "2011-08-04 11:15"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "first-desktop-summit"
+status: "published"
+---
 ![](https://www.desktopsummit.org/sites/www.desktopsummit.org/files/DS2011banner.png)
 
 I'll be on holidays Friday night, and ready for Berlin on Saturday morning, where I'll stay at the [H2 Hotel Berlin - Alexanderplatz](http://maps.google.fr/maps?q=H2+alexanderplatz+hotel+berlin&hl=fr&ll=52.541911,13.423233&spn=0.097302,0.264187&fb=1&gl=fr&cid=0,0,1377265534286529175&z=13). I'm really happy to meet again with good friends of the GNOME French Conspiracy :-p. I attended several GUADECs, but this is my first Desktop Summit, so I hope to meet other desktops' users and developers. This time I'll bring some hardware with me as I bought a netbook 2 months ago (running [Mageia](http://www.mageia.org/)).

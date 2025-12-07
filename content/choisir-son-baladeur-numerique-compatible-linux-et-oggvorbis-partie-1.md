@@ -1,11 +1,12 @@
-Title: Choisir son baladeur numérique compatible Linux et Ogg/Vorbis - partie 1
-Date: 2007-10-12 01:51
-Author: liberforce
-Category: Computers / Informatique
-Tags: baladeur numérique, linux, ogg
-Slug: choisir-son-baladeur-numerique-compatible-linux-et-oggvorbis-partie-1
-Status: published
-
+---
+title: "Choisir son baladeur numérique compatible Linux et Ogg/Vorbis - partie 1"
+date: "2007-10-12 01:51"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "baladeur numérique, linux, ogg"
+slug: "choisir-son-baladeur-numerique-compatible-linux-et-oggvorbis-partie-1"
+status: "published"
+---
 ## Au départ, il y a toujours un truc qui gratte...
 
 Je suis actuellement à la recherche actuellement d'un cadeau d'anniversaire pour ma chérie (faudrait que je me grouille quand même, c'était il y a 2 semaines :-( ). Et je sais ce que je veux lui offrir: un [baladeur numérique](http://fr.wikipedia.org/wiki/Baladeur_num%C3%A9rique){hreflang="fr"}, plus communément appelé "baladeur MP3", bien que cela soit fort réducteur (quel baladeur lit uniquement du MP3 de nos jours) ? Comme référence pour mon choix, j'ai le mien: je possède actullement un baladeur [Samsung YP-MT6X](http://www.samsung.com/ca/products/digitalaudioproducts/digitalmediaplayer/yp_mt6xxac.asp){hreflang="en"}.

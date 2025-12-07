@@ -1,11 +1,12 @@
-Title: Les années 90 en musique...
-Date: 2009-03-25 00:37
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: nostalgie, musique
-Slug: les-annees-90-en-musique
-Status: published
-
+---
+title: "Les années 90 en musique..."
+date: "2009-03-25 00:37"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "nostalgie, musique"
+slug: "les-annees-90-en-musique"
+status: "published"
+---
 Ça fait longtemps que je n'ai pas posté, occupé à rendre mon appartement habitable (entre 2 épisodes de southpark).
 
 Ce soir, j'ai retrouvé mon vieux baladeur et mes vieilles cassettes du début des années 90... Collector. Alors pour les plus nostalgiques d'entre vous, voici ce qu'il y avait dessus :

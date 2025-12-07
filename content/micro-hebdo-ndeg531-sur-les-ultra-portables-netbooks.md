@@ -1,11 +1,12 @@
-Title: Micro Hebdo n°531 sur les ultra-portables (netbooks)
-Date: 2008-06-24 03:20
-Author: liberforce
-Category: Computers / Informatique
-Tags: windows, netbooks, médias, matériel, mandriva
-Slug: micro-hebdo-ndeg531-sur-les-ultra-portables-netbooks
-Status: published
-
+---
+title: "Micro Hebdo n°531 sur les ultra-portables (netbooks)"
+date: "2008-06-24 03:20"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "windows, netbooks, médias, matériel, mandriva"
+slug: "micro-hebdo-ndeg531-sur-les-ultra-portables-netbooks"
+status: "published"
+---
 Ah [Micro Hebdo](http://www.01net.com/microhebdo){hreflang="fr"}. Le premier (et seul) magazine informatique auquel j'ai été abonné, quand j'étais encore sous Windows.
 
 J'ai fini par acheter [Micro Hedo n°531](http://www.01net.com/Pdf_MH/som_MH.pdf){hreflang="fr"} (encore en kioske demain), en vu d'un voyage en train où j'avais du temps à tuer. Bon, le public de ce magazine est clair : le Windowsien débutant ou moyen qu iveut avoir des trucs pratiques. En général ils sont assez objectifs. [Ils ont même essayé Linux](http://www.01net.com/editorial/382537/et-si-l-on-en-finissait-avec-windows-pour-passer-a-linux-./){hreflang="fr"} de temps en temps, (si, si, et même [Mandriva Linux, avec quelques bêtises](http://www.01net.com/editorial/382542/mandriva-spring-one-2008.1-le-challenger/){hreflang="fr"} en prime). Bon, c'est clair par contre qu'on y parle plus de logiciels gratuits que de logiciels libres.

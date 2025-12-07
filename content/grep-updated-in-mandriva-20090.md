@@ -1,11 +1,12 @@
-Title: Grep updated in Mandriva 2009.0
-Date: 2008-10-22 18:16
-Author: liberforce
-Category: Computers / Informatique
-Tags: mandriva, grep
-Slug: grep-updated-in-mandriva-20090
-Status: published
-
+---
+title: "Grep updated in Mandriva 2009.0"
+date: "2008-10-22 18:16"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "mandriva, grep"
+slug: "grep-updated-in-mandriva-20090"
+status: "published"
+---
 Funny thing I saw today : grep version jumped from 2.5.1a in 2008.1 to 2.5.3 in 2009.0. Sounds useless, huh, grep does its stuff, so this should only be a bugfix or code cleaning release, don't you think ?
 
 Well in fact, its not. Grep 2.5.3 introduces the long awaited option `--exclude-dir`. You can now just grep your version control tree for some stuff and easily exclude your .cvs/.svn/whatever directory, without having to resort to a big fat `find` command with `xargs`.

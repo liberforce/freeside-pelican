@@ -1,11 +1,12 @@
-Title: Week end au Havre
-Date: 2007-02-07 00:38
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: Unclassified
-Slug: week-end-au-havre
-Status: published
-
+---
+title: "Week end au Havre"
+date: "2007-02-07 00:38"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "Unclassified"
+slug: "week-end-au-havre"
+status: "published"
+---
 Vendredi soir, début du périple: départ avec ma douce et tendre, qui s'était pour l'occasion allégée de quelques kilos de cheveux. Non, elle n'avait pourtant pas une coupe afro.
 
 ::: {.hitencart style="margin-left: 2em"}

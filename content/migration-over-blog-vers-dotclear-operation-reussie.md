@@ -1,11 +1,12 @@
-Title: Migration over-blog vers Dotclear: opération réussie...
-Date: 2007-10-03 10:40
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: migration-over-blog-vers-dotclear-operation-reussie
-Status: published
-
+---
+title: "Migration over-blog vers Dotclear: opération réussie..."
+date: "2007-10-03 10:40"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "migration-over-blog-vers-dotclear-operation-reussie"
+status: "published"
+---
 ...mais non sans mal. En effet, une des fonctionnalités pour laquelle j'avais choisi la plate-forme over-blog (à savoir l'export du blog au format xml) a tout simplement disparu dans la version 2, sans aucune annonce !
 
 A la question posée au mois de mai sur les forums, de savoir où se trouve la fonction d'export qui existait auparavant, voici [la réponse de l'admin](http://forum.over-blog.com/thread-2584898.html){hreflang="fr"}:

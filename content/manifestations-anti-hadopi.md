@@ -1,11 +1,12 @@
-Title: Manifestations anti-HADOPI
-Date: 2009-05-04 00:11
-Author: liberforce
-Category: Politics / Politique
-Tags: HADOPI
-Slug: manifestations-anti-hadopi
-Status: published
-
+---
+title: "Manifestations anti-HADOPI"
+date: "2009-05-04 00:11"
+author: "liberforce"
+category: "Politics / Politique"
+tags: "HADOPI"
+slug: "manifestations-anti-hadopi"
+status: "published"
+---
 ## Impressions
 
 [Christine is watching you !](http://jaffiche.fr/manifestation-anti-hadopi-le-25-avril-2009-306){hreflang="fr"}

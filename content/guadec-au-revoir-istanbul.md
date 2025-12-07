@@ -1,11 +1,12 @@
-Title: GUADEC: au revoır Istanbul !
-Date: 2008-07-12 23:17
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: mandriva, GUADEC, GNOME
-Slug: guadec-au-revoir-istanbul
-Status: published
-
+---
+title: "GUADEC: au revoır Istanbul !"
+date: "2008-07-12 23:17"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "mandriva, GUADEC, GNOME"
+slug: "guadec-au-revoir-istanbul"
+status: "published"
+---
 Hé bien, ces dernıers jours ont fılé comme le vent ! Moı quı voulais faıre un poınt régulıer... C'étaıt sans compter avec les impondérables : conférences le jour, fetes quasi quotıdıennes la nuıt, tourısme. La semaıne a laıssé des traces sur l'organısme ! Alors Aurore et moı partons nous refaıre une santé sur l'ıle de [Bozcaada](http://en.wikipedia.org/wiki/Bozcaada){hreflang="en"} pendant quelques jours.
 
 Sur une poınt technıque, les conférences étaıent assez ınégales. Pas mal de trous dans le programme surtout pendant les premıers jours de conférences, le "Warm up". En revanche, les keynotes ont été tres réussıes. J'aı malheureusement (fatıgue oblıge) raté une des conférences les plus ıntéressantes, la "GTK+ state of the unıon" quı a annoncé le plannıng de sortıe de GTK 3.0". Zut. Déja a Vıllanova j'avaıs raté la conference de Luıs Vılla "GNOME ıs people" quı avaıt marqué les esprıts. Bon, je doıs etre maudıt.

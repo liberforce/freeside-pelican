@@ -1,11 +1,12 @@
-Title: Réponse de HP à la demande de remboursement
-Date: 2008-11-06 01:58
-Author: liberforce
-Category: Computers / Informatique
-Tags: racketiciel, hp
-Slug: reponse-de-hp-a-la-demande-de-remboursement
-Status: published
-
+---
+title: "Réponse de HP à la demande de remboursement"
+date: "2008-11-06 01:58"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "racketiciel, hp"
+slug: "reponse-de-hp-a-la-demande-de-remboursement"
+status: "published"
+---
 Hier matin (bah oui, on est déjà le 6), Aurore est allée chercher pour moi un recommandé... Mystère, je n'attendais rien pourtant. Bonne nouvelles, mauvaises nouvelles ? En fait plutôt mauvaises, mais je ne vais pas me laisser abattre. C'était la réponse d'HP à ma demande de remboursement (bon, au moins, pas besoin de se prendre la tête pour l'accusé de réception : ils avaient bien reçu ma lettre).
 
 Comme je m'y attendais, ils refusent, invoquant plusieurs excuses classiques :

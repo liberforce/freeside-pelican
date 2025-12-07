@@ -1,11 +1,12 @@
-Title: La famille s'agrandit...
-Date: 2007-12-08 21:29
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: Unclassified
-Slug: la-famille-sagrandit
-Status: published
-
+---
+title: "La famille s'agrandit..."
+date: "2007-12-08 21:29"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "Unclassified"
+slug: "la-famille-sagrandit"
+status: "published"
+---
 ...avec l'arrivée d'Hikaru (prononcer hikarou):
 
 ![Hikaru ébloui](/public/hikaru/hikaru1.jpg)![Hikaru qui se demande ce que je fous avec mon appareil photo](/public/hikaru/hikaru2.jpg)

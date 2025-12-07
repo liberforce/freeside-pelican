@@ -1,11 +1,12 @@
-Title: GNOME Goal: Install theme-friendly icons
-Date: 2007-04-24 19:34
-Author: liberforce
-Category: Computers / Informatique
-Tags: GNOME Goals, GNOME
-Slug: gnome-goal-install-theme-friendly-icons
-Status: published
-
+---
+title: "GNOME Goal: Install theme-friendly icons"
+date: "2007-04-24 19:34"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "GNOME Goals, GNOME"
+slug: "gnome-goal-install-theme-friendly-icons"
+status: "published"
+---
 The ["Install theme-friendly icons" GNOME goal](http://live.gnome.org/GnomeGoals/AppIcon) is currently going on. This one had previously been announced, and partially completed, but the guidelines were [buggy](http://bugzilla.gnome.org/show_bug.cgi?id=362604). So if you are a brave hacker-wanabe, and you are interested in helping the GNOME Desktop to improve its consistency, then here's a task for you !  
   
 ***Spread the word about this goal !***  

@@ -1,11 +1,12 @@
-Title: GNOME tip of the day
-Date: 2007-01-24 03:04
-Author: liberforce
-Category: Computers / Informatique
-Tags: GNOME
-Slug: gnome-tip-of-the-day
-Status: published
-
+---
+title: "GNOME tip of the day"
+date: "2007-01-24 03:04"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "GNOME"
+slug: "gnome-tip-of-the-day"
+status: "published"
+---
 [**Avoiding turning your screen on to raise/lower sound on your computer.  
 \**]{.underline}
 I have a CRT screen at home. When I listen to some music without being in front of the computer, I turn the screen off, to avoid useless power consumption. However, I don't like using my speakers' buttons to regulate the sound level. I prefer to do it by software, but i'd need to turn the screen on again to do that.  

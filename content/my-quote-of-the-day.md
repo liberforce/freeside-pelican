@@ -1,11 +1,12 @@
-Title: My quote of the day
-Date: 2007-01-05 02:50
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: my-quote-of-the-day
-Status: published
-
+---
+title: "My quote of the day"
+date: "2007-01-05 02:50"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "my-quote-of-the-day"
+status: "published"
+---
 ::: hitcitation
 > Windows is to computers what fast food is to gastronomy.
 :::

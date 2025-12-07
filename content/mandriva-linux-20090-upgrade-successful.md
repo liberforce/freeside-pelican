@@ -1,11 +1,12 @@
-Title: Mandriva Linux 2009.0 : upgrade successful
-Date: 2008-10-14 02:50
-Author: liberforce
-Category: Computers / Informatique
-Tags: migration, mandriva, linux
-Slug: mandriva-linux-20090-upgrade-successful
-Status: published
-
+---
+title: "Mandriva Linux 2009.0 : upgrade successful"
+date: "2008-10-14 02:50"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "migration, mandriva, linux"
+slug: "mandriva-linux-20090-upgrade-successful"
+status: "published"
+---
 But not without glitches.
 
 Here's how it went. I tried to remain in the position of a newcomer that has no clue about what a command line interface is, so even if I used a terminal a couple of times, it was just to check some stuff, not to fix it. I launched the mdkonline applet for the purpose of the upgrade (I always disable it because of it wastes too much memory to my taste).

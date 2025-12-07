@@ -1,11 +1,12 @@
-Title: 24 seconds !
-Date: 2008-10-17 00:40
-Author: liberforce
-Category: Computers / Informatique
-Tags: linux, boot time, mandriva
-Slug: 24-seconds
-Status: published
-
+---
+title: "24 seconds !"
+date: "2008-10-17 00:40"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "linux, boot time, mandriva"
+slug: "24-seconds"
+status: "published"
+---
 This is my new boot time, thanks to the instructions of Mandriva's kernel star, [pterjan](http://fasmz.org/%7Epterjan/blog/) :-p. Thanks for having been so reactive.
 
 [![](/public/mandriva/.bootchart-2009.0-no-usb-storage_m.jpg "Bootchart 2009.0 without usb-storage preloading, oct 2008"){style="margin: 0 1em 1em 0; float: left;"}](/public/mandriva/bootchart-2009.0-no-usb-storage.png)If you didn't, you should read my [previous entry about boot time](/post/2008/10/14/What-happened-to-my-boot-time-dude){hreflang="en"}. So, how did these 9 seconds (compared to 2009.0 without the fix, and 7 compared to 2008.1) disapeared ? Well, first, I'd tell you I'm not sure they're completely gone, because I felt that loging in was sensibly slower (more time until I have a wallpaper) but I have no numbers for this, as I only measured the boot time until gdm for 2008.1 and 2009.0. So maybe the "[graphical desktop startup time](http://blog.crozat.net/2008/09/improving-boot-time-on-general-linux.html){hreflang="en"}" is a bit longer, but not 7 seconds longer, so I'm sure I won some time...

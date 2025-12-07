@@ -1,11 +1,12 @@
-Title: Hasta la Vista...
-Date: 2007-01-31 03:06
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: hasta-la-vista
-Status: published
-
+---
+title: "Hasta la Vista..."
+date: "2007-01-31 03:06"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "hasta-la-vista"
+status: "published"
+---
 Today, Windows Vista has been released. There's lots of people starting to make everyone think they need it, even if they don't know why. In France, Microsoft even paid 600,000€ to the major private french TV channel (TF1) to have a presenter showing Vista for about 2 minutes. It avoids the costs of a specific local publicity.  
   
 Thay also paid to have some giant Vista stuff displayed on the CNIT of La Défense (big technology center near Paris) the same day that the [Solutions Linux](http://www.solutionslinux.fr/fr/) event a few blocks from there!  

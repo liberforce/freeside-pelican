@@ -1,11 +1,12 @@
-Title: Crac boum hue !
-Date: 2008-10-17 02:17
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: appartement
-Slug: crac-boum-hue
-Status: published
-
+---
+title: "Crac boum hue !"
+date: "2008-10-17 02:17"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "appartement"
+slug: "crac-boum-hue"
+status: "published"
+---
 Aujourd'hui, j'ai pris mon après midi pour aller dans mon nouvel appartement rencontrer des artisans pour qu'ils me fassent des devis pour la rénovation de mon parquet. Je remercie au passage monsieur Coelho de m'avoir posé un lapin (les lusophones comprendront) pour 3 minutes de retard (et parce qu'il n'y avait pas mon nom sur la boite à lettres). Pratique, j'avais pris mon après midi pour lui, vu qu'il voulait passer à 15H00. Heureusement, j'en avais un deuxième qui a pu passer plus tôt. Notez au passage que sur 4 artisans contactés, 3 sont portugais. Si, si, ils ne finissent pas tous dans l'informatique :-) .
 
 J'ai profité du trou entre les deux rendez vous pour décoller un peu de papier ~~pain~~ peint à la main. J'ai ainsi pu découvrir les belles traces d'humidité sur le mur côté rue... Dommage qu'on ne puisse pas arracher le papier peint de chaque appartement qu'on visite, pour éviter les surprises :-). Bon, apparemment, on va devoir traiter le mur, mais je m'y attendais déjà un peu.

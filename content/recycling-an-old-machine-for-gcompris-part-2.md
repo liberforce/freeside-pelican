@@ -1,11 +1,12 @@
-Title: Recycling an old machine for gcompris - part 2
-Date: 2007-02-19 00:26
-Author: liberforce
-Category: Computers / Informatique
-Tags: recyclage, matériel
-Slug: recycling-an-old-machine-for-gcompris-part-2
-Status: published
-
+---
+title: "Recycling an old machine for gcompris - part 2"
+date: "2007-02-19 00:26"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "recyclage, matériel"
+slug: "recycling-an-old-machine-for-gcompris-part-2"
+status: "published"
+---
 For those who don't know what I'm talking about, here is [part 1](/post/2007/01/09/Recycling-an-old-machine-for-gcompris-part-1){hreflang="en"}.  
   
 Well, after numerous badblocks attempts, I've seem that badblocks was tricking me. I first thought that some block of the hard disk were dead. But in fact, it was only parts on the previous display that weren't deleted. The disk was ok after all.  

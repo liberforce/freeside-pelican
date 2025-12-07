@@ -1,11 +1,12 @@
-Title: Bill Gates au 20H de PPDA
-Date: 2007-02-07 00:39
-Author: liberforce
-Category: Computers / Informatique
-Tags: microsoft, médias
-Slug: bill-gates-au-20h-de-ppda
-Status: published
-
+---
+title: "Bill Gates au 20H de PPDA"
+date: "2007-02-07 00:39"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "microsoft, médias"
+slug: "bill-gates-au-20h-de-ppda"
+status: "published"
+---
 Ecoutez donc l'[interview de Bill Gates sur le 20H de TF1](http://www.youtube.com/watch?v=tNlXZwDQvfM) de la semaine dernière...  
   
 On peut difficilement concentrer autant de désinformation en si peu de temps. A se demander si PPDA et le journaliste qui a fait le reportage se sont documentés avant l'interview de l'homme le plus riche du monde.  

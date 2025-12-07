@@ -1,11 +1,12 @@
-Title: Choisir son baladeur numérique - partie 2
-Date: 2007-10-22 00:16
-Author: liberforce
-Category: Computers / Informatique
-Tags: matériel, baladeur numérique
-Slug: choisir-son-baladeur-numerique-partie-2
-Status: published
-
+---
+title: "Choisir son baladeur numérique - partie 2"
+date: "2007-10-22 00:16"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "matériel, baladeur numérique"
+slug: "choisir-son-baladeur-numerique-partie-2"
+status: "published"
+---
 ## Les constructeurs
 
 La première étape de ma recherche a été de trouver les noms de quelques constructeurs qui ont des modèles compatibles Ogg/Vorbis. Travaillant à proximité d'un centre commercial où se trouve une FNAC, c'est là bas que je me suis rendu pour une première observation. L'avantage de cette enseigne étant que j'ai 15 jours pour échanger le baladeur si celui ci ne me convient pas. Quand on voit à quel point il peut être difficile de connaître exactement les capacités d'un appareil, cela peut être intéressant.

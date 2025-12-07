@@ -1,11 +1,12 @@
-Title: \"Here\" is nowhere...
-Date: 2007-02-27 00:15
-Author: liberforce
-Category: Computers / Informatique
-Tags: Unclassified
-Slug: here-is-nowhere
-Status: published
-
+---
+title: "\"Here\" is nowhere..."
+date: "2007-02-27 00:15"
+author: "liberforce"
+category: "Computers / Informatique"
+tags: "Unclassified"
+slug: "here-is-nowhere"
+status: "published"
+---
 Every now and then, I see someone linking to a web page using  the "here" or "click here" link style. This is quite annoying, and also unhelpful
 
 - for indexation robots used by the web search engines

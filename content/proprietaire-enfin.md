@@ -1,11 +1,12 @@
-Title: Propriétaire... Enfin !
-Date: 2008-10-11 03:28
-Author: liberforce
-Category: Life / Vie quotidienne
-Tags: appartement
-Slug: proprietaire-enfin
-Status: published
-
+---
+title: "Propriétaire... Enfin !"
+date: "2008-10-11 03:28"
+author: "liberforce"
+category: "Life / Vie quotidienne"
+tags: "appartement"
+slug: "proprietaire-enfin"
+status: "published"
+---
 ## L'achat de l'appartement
 
 Fin des péripéties (en tout cas celles de l'achat). Dans la conjoncture morose actuelle, difficile de dire si j'ai fait une bonne affaire. Je ne pense pas, vu le prix au mètre carré, mais le bien est un peu spécial aussi (1 étage + chambre sous les toits), En tout cas je sais que je n'achèterai plus de bien immobilier par une agence, vu qu'ils sont juste là pour jouer les commerciaux, et passer à la caisse au final. Parce que la première fois que j'ai acheté un appartement, je me suis dit au final que c'était des brigands. Cette fois ci, je me méfiais, mais je me suis fait avoir quand même (forcément, on se fait toujours avoir sur un détail, mais jamais le même, donc difficile de prévoir...). Seul point positif de l'affaire : la notaire qui a bien fait son boulot (pour mon premier achat, le notaire avait bâclé le truc et n'a apparemment pas fait des masses de vérifications).
