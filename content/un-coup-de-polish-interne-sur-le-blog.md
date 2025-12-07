@@ -24,8 +24,8 @@ En fait j'imaginais que je ne pourrais jamais avoir ce type d'informations sans 
 - Le fait que les graphiques soient faits en Flash :-( (kipuképalibre)
 
   
-**Ce que j'aurais aimé avoir:  **
-Le moyen de pouvoir attribuer plusieurs tags à un article bon sang! C'est ce qui manque clairement sur over-blog. J'écris souvent des articles à la frontière de deux sujets, et j'avoue que c'est la fonctionnalité manquante la plus frustrante. Impossible sur un article comme "<a href="/post/2007/01/10/Recycling-and-the-art-of-BadRAM" hreflang="en">Recycling and the art of BadRAM</a>" de taguer l'article sous la forme "informatique + écologie", alors que le recyclage d'un ordinateur concerne les deux domaines.  
+**Ce que j'aurais aimé avoir:\**
+Le moyen de pouvoir attribuer plusieurs tags à un article bon sang! C'est ce qui manque clairement sur over-blog. J'écris souvent des articles à la frontière de deux sujets, et j'avoue que c'est la fonctionnalité manquante la plus frustrante. Impossible sur un article comme "[Recycling and the art of BadRAM](/post/2007/01/10/Recycling-and-the-art-of-BadRAM){hreflang="en"}" de taguer l'article sous la forme "informatique + écologie", alors que le recyclage d'un ordinateur concerne les deux domaines.  
   
 Espéront que ce sera pour la V3 :-)  
 En attendant je suis assez satisfait du service, alors longue vie à over-blog, tant qu'ils continuent à faire du bon boulot !  

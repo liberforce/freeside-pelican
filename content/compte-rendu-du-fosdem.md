@@ -32,82 +32,64 @@ Je reste pourtant avec un avis mitigé, car c'est bien plus impersonnel que le G
 
 ## Le projet OLPC
 
-<img src="/public/fosdem/2007/fosdem-019.jpg" style="margin: 0 auto; display: block;" />  
+![](/public/fosdem/2007/fosdem-019.jpg){style="margin: 0 auto; display: block;"}  
 
 ## Les effets graphiques par MacSlow
 
-<img src="/public/fosdem/2007/fosdem-023.jpg" style="margin: 0 auto; display: block;" />  
+![](/public/fosdem/2007/fosdem-023.jpg){style="margin: 0 auto; display: block;"}  
 
 ## Le Musée de la Bande Dessinée
 
-<img src="/public/fosdem/2007/fosdem-037.jpg" style="margin: 0 auto; display: block;" />  
+![](/public/fosdem/2007/fosdem-037.jpg){style="margin: 0 auto; display: block;"}  
 
-<div class="hitencart" style="text-align: left">
-
+::: {.hitencart style="text-align: left"}
 *"On a marché sur le FOSDEM"*
+:::
 
-</div>
+![](/public/fosdem/2007/fosdem-048.jpg){style="margin: 0 auto; display: block;"}  
 
-<img src="/public/fosdem/2007/fosdem-048.jpg" style="margin: 0 auto; display: block;" />  
-
-<div class="hitencart">
-
+::: hitencart
 *"Bang ! Bang !"*
+:::
 
-</div>
+![](/public/fosdem/2007/fosdem-056.jpg){style="margin: 0 auto; display: block;"}  
 
-<img src="/public/fosdem/2007/fosdem-056.jpg" style="margin: 0 auto; display: block;" />  
-
-<div class="hitencart">
-
+::: hitencart
 *"M'enfin, c'est pas encore l'heure de partir ?"*
+:::
 
-</div>
+![](/public/fosdem/2007/fosdem-059.jpg){style="margin: 0 auto; display: block;"}  
 
-<img src="/public/fosdem/2007/fosdem-059.jpg" style="margin: 0 auto; display: block;" />  
-
-<div class="hitencart">
-
+::: hitencart
 *"Tiens, voilà M'oiselle Jeanne..."*
+:::
 
-</div>
+![](/public/fosdem/2007/fosdem-084.jpg){style="margin: 0 auto; display: block;"}  
 
-<img src="/public/fosdem/2007/fosdem-084.jpg" style="margin: 0 auto; display: block;" />  
-
-<div class="hitencart">
-
+::: hitencart
 *"Spirou a dû aller au hamam"*
+:::
 
-</div>
+![](/public/fosdem/2007/fosdem-094.jpg){style="margin: 0 auto; display: block;"}  
 
-<img src="/public/fosdem/2007/fosdem-094.jpg" style="margin: 0 auto; display: block;" />  
-
-<div class="hitencart">
-
+::: hitencart
 *"Moi et mes amis de toujours marchant vers Moulinsart"*
+:::
 
-</div>
+![](/public/fosdem/2007/fosdem-102.jpg){style="margin: 0 auto; display: block;"}  
 
-<img src="/public/fosdem/2007/fosdem-102.jpg" style="margin: 0 auto; display: block;" />  
-
-<div class="hitencart">
-
+::: hitencart
 *"Le sceptre du tocard"*
+:::
 
-</div>
+![](/public/fosdem/2007/fosdem-106.jpg){style="margin: 0 auto; display: block;"}  
 
-<img src="/public/fosdem/2007/fosdem-106.jpg" style="margin: 0 auto; display: block;" />  
-
-<div class="hitencart">
-
+::: hitencart
 *"Je savais que j'avais bien fait de ne pas me raser..."*
+:::
 
-</div>
+![](/public/fosdem/2007/fosdem-118.jpg){style="margin: 0 auto; display: block;"}
 
-<img src="/public/fosdem/2007/fosdem-118.jpg" style="margin: 0 auto; display: block;" />
-
-<div class="hitencart">
-
+::: hitencart
 *"Allons chercher la mouette, bubulle et le gaffophone..."*
-
-</div>
+:::

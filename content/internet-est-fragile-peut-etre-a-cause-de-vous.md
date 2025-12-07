@@ -6,7 +6,7 @@ Tags: Unclassified
 Slug: internet-est-fragile-peut-etre-a-cause-de-vous
 Status: published
 
-Il semble qu'une nouvelle fois l'Internet a tremblé, mardi dernier lors d'une [nouvelle attaque des serveurs DNS racine](http://www.generation-nt.com/actualites/24013/sophos-zombie-internet-ddos/). Cette attaque n'est pas la première, <a href="/post/2007/01/12/La-fin-de-lInternet" hreflang="fr">comme je l'ai déjà expliqué</a>.  
+Il semble qu'une nouvelle fois l'Internet a tremblé, mardi dernier lors d'une [nouvelle attaque des serveurs DNS racine](http://www.generation-nt.com/actualites/24013/sophos-zombie-internet-ddos/). Cette attaque n'est pas la première, [comme je l'ai déjà expliqué](/post/2007/01/12/La-fin-de-lInternet){hreflang="fr"}.  
   
 Le problème c'est que vous y avez peut être contribué. Il faut pour cela remplir quelques conditions:
 

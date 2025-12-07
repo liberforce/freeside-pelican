@@ -6,8 +6,7 @@ Tags: Unclassified
 Slug: why-liberforce-oh-why
 Status: published
 
-<div class="contenuArticle">
-
+:::: contenuArticle
 Liberforce is my nick on the web. You may ask yourself where this stupid nick comes from. Or not.  
 
 - a\) This is how my friends call me
@@ -17,10 +16,7 @@ Liberforce is my nick on the web. You may ask yourself where this stupid nick co
 Select the invible text below to know the answer...  
   
 
-<div class="hitencart">
-
+::: hitencart
 It's response c, it's all Populous fault's if I still use this stupid name :-)
-
-</div>
-
-</div>
+:::
+::::

@@ -8,7 +8,7 @@ Status: published
 
 [Alberto](http://aruiz.typepad.com/siliconisland/2007/04/lets_make_it_ea.html), here are some hints if you want to improve this part of GNOME (ie, reduce the technical level needed by newcommers to just become jhbuild users).  
   
-***- Create a standard .jhbuildrc for newbies.**  *
+***- Create a standard .jhbuildrc for newbies.**\*
 Look at <http://live.gnome.org/JhbuildDependencies>  
 But a jhbuildrc is a bit distro dependant... For example, I maintain the Mandriva subsection:  
 <http://live.gnome.org/JhbuildDependencies/MandrivaLinux>  

@@ -8,7 +8,7 @@ Status: published
 
 # Learning from the past
 
-Yesterday an old (1.5 year) blog entry of <a href="http://blogs.gnome.org/desrt/2006/07/27/burning-cpu-and-battery-on-the-gnome-desktop/" hreflang="en">Ryan Lortie on cpu and battery consumption</a> came to my mind. He tested some <a href="http://www.gnome.org" hreflang="en">GNOME</a> applications and saw that some of them caused way too many kernel wakeups, which prevents the CPU from entering in low consumption states. So, as just by curiosity (ang ecological concerns), I wanted to see if there's some improvements on this area on the GNOME desktop.
+Yesterday an old (1.5 year) blog entry of [Ryan Lortie on cpu and battery consumption](http://blogs.gnome.org/desrt/2006/07/27/burning-cpu-and-battery-on-the-gnome-desktop/){hreflang="en"} came to my mind. He tested some [GNOME](http://www.gnome.org){hreflang="en"} applications and saw that some of them caused way too many kernel wakeups, which prevents the CPU from entering in low consumption states. So, as just by curiosity (ang ecological concerns), I wanted to see if there's some improvements on this area on the GNOME desktop.
 
 As Ryan talks about Ubuntu Dapper Drake in his post, I suppose he was testing ye old GNOME 2.14. As a comparison, I ran my tests on GNOME 2.18 under Mandriva 2007.1. I then will be able to compare the figures to GNOME 2.20 when I'll install Mandriva 2008.0 (I'm lacking some time for this at the moment).
 
@@ -46,7 +46,7 @@ Strace is attached to the spied process in the background. We then wait for 10 s
 
 </del>
 
-**Update:** The previous numbers were wrong it seems (weird, I had tested it twice, but the numbers I get now are completely different). The problems reported by Ryan have already been <a href="http://bugzilla.gnome.org/show_bug.cgi?id=363436" hreflang="en">corrected</a>.
+**Update:** The previous numbers were wrong it seems (weird, I had tested it twice, but the numbers I get now are completely different). The problems reported by Ryan have already been [corrected](http://bugzilla.gnome.org/show_bug.cgi?id=363436){hreflang="en"}.
 
 ## gnome-panel
 
@@ -104,7 +104,7 @@ It was in the background, but there's still too many calls for an application th
 
 <del>
 
-~~Waaaay too many calls. We here have 4 poll calls/second. The blinking cursor may be a cause (I'm aware a patch for this was made for <a href="http://laptop.org" hreflang="en">OLPC</a>). I also know <a href="http://mces.blogspot.com/" hreflang="en">Behdad</a> once committed a patch adding a timer to prevent gnome-terminal from trying to refresh too many times the screen. The goal was to accelerate the display of information. Don't know if the extra calls are related to this, however.~~
+~~Waaaay too many calls. We here have 4 poll calls/second. The blinking cursor may be a cause (I'm aware a patch for this was made for [OLPC](http://laptop.org){hreflang="en"}). I also know [Behdad](http://mces.blogspot.com/){hreflang="en"} once committed a patch adding a timer to prevent gnome-terminal from trying to refresh too many times the screen. The goal was to accelerate the display of information. Don't know if the extra calls are related to this, however.~~
 
 </del>
 
@@ -119,7 +119,7 @@ I tested the gnome-terminal that was running strace, so I was getting the calls 
 
 ## mixer_applet2
 
-The mixer applet is one of the worst offenders! This is a <a href="http://bugzilla.gnome.org/show_bug.cgi?id=370937" hreflang="en">known bug</a> which is being worked on. Hope to see this included in GNOME 2.22.
+The mixer applet is one of the worst offenders! This is a [known bug](http://bugzilla.gnome.org/show_bug.cgi?id=370937){hreflang="en"} which is being worked on. Hope to see this included in GNOME 2.22.
 
 `% time     seconds  usecs/call     calls    errors syscall`  
 `------ ----------- ----------- --------- --------- ----------------`  
@@ -181,4 +181,4 @@ Ryan saw gnome-power-manager wake up twice per second in GNOME 2.14. It seems th
 
 # Conclusion
 
-Well, there's quite nothing to conclude. These numbers are just here so that people can easily test and compare with their GNOME version, and eventually find more culprits. I think I'll update them on each GNOME Release, so we can see if the plan to conquer the world with power-friendly software works out. Just as a remark, developers who use timers at the second scale should consider using the <a href="http://library.gnome.org/devel/glib/stable/glib-The-Main-Event-Loop.html#g-timeout-add-seconds" hreflang="en">g_timeout_add_seconds</a> call that was added in glib 2.14, as it allows to group processing of wakeup requests. So if your application can depend on glib 2.14, go for it.
+Well, there's quite nothing to conclude. These numbers are just here so that people can easily test and compare with their GNOME version, and eventually find more culprits. I think I'll update them on each GNOME Release, so we can see if the plan to conquer the world with power-friendly software works out. Just as a remark, developers who use timers at the second scale should consider using the [g_timeout_add_seconds](http://library.gnome.org/devel/glib/stable/glib-The-Main-Event-Loop.html#g-timeout-add-seconds){hreflang="en"} call that was added in glib 2.14, as it allows to group processing of wakeup requests. So if your application can depend on glib 2.14, go for it.

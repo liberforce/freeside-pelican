@@ -8,15 +8,13 @@ Status: published
 
 Here is a small overview of the conferences I liked this year at GUADEC.
 
-<div class="hitencart">
-
+::: hitencart
 *Disclaimer:* If yours is not there, either
 
 - I was busy elsewhere
 - I have nothing to say about it
 - I found it bad :-) 
-
-</div>
+:::
 
 ## Warmup (15-16 of July):
 

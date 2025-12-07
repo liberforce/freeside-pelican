@@ -6,17 +6,15 @@ Tags: Unclassified
 Slug: question-yahoo-du-jour
 Status: published
 
-<u>**Question:**</u>  
+[**Question:**]{.underline}  
 
-<div class="hitcitation">
-
+::: hitcitation
 Combien d'heures de musique peut-on enregistrer (approximativement) sur un lecteur mp3 de 128 Mo ?  
-
-</div>
+:::
 
   
-<u>**Réponse:  **
-</u>Tout  dépend de ce qu'on appelle le "[bitrate](http://fr.wikipedia.org/wiki/Bitrate)". Le bitrate (litéralement "taux de bits"), ça correspond à un nombre de bits par seconde, c'est à dire à la place que prend ta chanson pour chaque seconde de musique. Pour du MP3, en général les chansons sont encodées en 128kbps = 128 kilo bits par seconde = 128 000 bits par seconde.  
+[**Réponse:\**]{.underline}
+Tout  dépend de ce qu'on appelle le "[bitrate](http://fr.wikipedia.org/wiki/Bitrate)". Le bitrate (litéralement "taux de bits"), ça correspond à un nombre de bits par seconde, c'est à dire à la place que prend ta chanson pour chaque seconde de musique. Pour du MP3, en général les chansons sont encodées en 128kbps = 128 kilo bits par seconde = 128 000 bits par seconde.  
   
 Comme 1 octet = 8 bits on a:  
 

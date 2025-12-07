@@ -10,7 +10,7 @@ Status: published
 
 Le *Meizu M6 SL 8Go*.
 
-Consultez le <a href="http://www.generationmp3.com/labotestgmp3/index.php/2006/09/12/73-test-et-video-du-meizu-miniplayer-m6" hreflang="fr">test du Meizu M6 SP</a> sur GénérationMP3 pour connaitre ses spécifications exactes. Le M6 SL est le successeur du M6 SP, mais <a href="http://fr.meizublog.com/specifications-prix-et-dates-du-meizu-m6-sl/" hreflang="fr">les deux modèles sont très similaires</a>.
+Consultez le [test du Meizu M6 SP](http://www.generationmp3.com/labotestgmp3/index.php/2006/09/12/73-test-et-video-du-meizu-miniplayer-m6){hreflang="fr"} sur GénérationMP3 pour connaitre ses spécifications exactes. Le M6 SL est le successeur du M6 SP, mais [les deux modèles sont très similaires](http://fr.meizublog.com/specifications-prix-et-dates-du-meizu-m6-sl/){hreflang="fr"}.
 
 Prix: 133 € TTC, transport Chine-France inclus. Commandé sur ebay à [ygsd_cn1](http://myworld.ebay.fr/ygsd_cn1).
 
@@ -23,7 +23,7 @@ Et pourquoi pas :-) ? Bon, voici les principaux avantages que je lui trouvais, p
 Avantages:
 
 - Gestion native du [Ogg](http://fr.wikipedia.org/wiki/Ogg)/[Vorbis](http://fr.wikipedia.org/wiki/Vorbis), avec le [FLAC](http://fr.wikipedia.org/wiki/FLAC) en bonus
-- Connexion <a href="http://en.wikipedia.org/wiki/USB_mass_storage_device_class" hreflang="en">UMS</a>, donc compatible avec tous les systèmes d'exploitation actuels sans pilote spécifique
+- Connexion [UMS](http://en.wikipedia.org/wiki/USB_mass_storage_device_class){hreflang="en"}, donc compatible avec tous les systèmes d'exploitation actuels sans pilote spécifique
 - Connectique USB standard
 - Radio FM avec RDS
 - Dictaphone
@@ -39,7 +39,7 @@ Inconvénients:
 
 Je l'ai choisi pour toutes ces raisons, et surtout le fait qu'il utilise des formats ouverts et une connectique standard, avec un très bon rapport qualité prix.
 
-Vous pouvez consulter les <a href="http://en.meizu.com/product_m6sl.asp" hreflang="en">spécifications complètes du Meizu M6 SL</a> pour plus d'informations.
+Vous pouvez consulter les [spécifications complètes du Meizu M6 SL](http://en.meizu.com/product_m6sl.asp){hreflang="en"} pour plus d'informations.
 
 ## Pourquoi l'importer ?
 
@@ -63,8 +63,8 @@ Merci beaucoup à Bob pour m'avoir parlé dans les commentaire de ce blog de ce 
 
 ## Ressources externes
 
-- <a href="http://www.meizume.com" hreflang="en">Le forum Meizu</a>
-- <a href="http://meizu-miniplayer.blogspot.com" hreflang="fr">Le blog consacré au Meizu</a>
-- <a href="http://www.llaumgui.com/tag/Meizu%20M3" hreflang="fr">Le blog sur le Meizu M3, orienté linux</a>
-- <a href="http://fr.meizublog.com/faq/" hreflang="fr">La FAQ Meizu</a>
-- <a href="http://en.meizu.com/downfile/M6manual_T1.009.pdf" hreflang="en">Le manuel en anglais au format PDF</a>
+- [Le forum Meizu](http://www.meizume.com){hreflang="en"}
+- [Le blog consacré au Meizu](http://meizu-miniplayer.blogspot.com){hreflang="fr"}
+- [Le blog sur le Meizu M3, orienté linux](http://www.llaumgui.com/tag/Meizu%20M3){hreflang="fr"}
+- [La FAQ Meizu](http://fr.meizublog.com/faq/){hreflang="fr"}
+- [Le manuel en anglais au format PDF](http://en.meizu.com/downfile/M6manual_T1.009.pdf){hreflang="en"}

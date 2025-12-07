@@ -6,7 +6,7 @@ Tags: recyclage, matériel, mandriva
 Slug: recycling-and-the-art-of-badram
 Status: published
 
-I like to help protecting the environment. <span class="hitimportant">And I just hate the overconsumption society</span>. You know, the one that fills your mailboxes (electronic and real) with ads, that fills the web with ads, that fills the streets with ads. The one that wants to make you believe you **REALLY** need something. The one that makes dumb people they are poor if they don't own a DVD player and 2 TVs.  
+I like to help protecting the environment. [And I just hate the overconsumption society]{.hitimportant}. You know, the one that fills your mailboxes (electronic and real) with ads, that fills the web with ads, that fills the streets with ads. The one that wants to make you believe you **REALLY** need something. The one that makes dumb people they are poor if they don't own a DVD player and 2 TVs.  
   
 One of the ways I like to help is giving a second life to computers. While helping some friends of my parents to buy a new computer, I asked them if I could get the old one, if they didn't use it anymore. They immediately agreed, who's gonna need a Pentium II 400 Mhz with 64MB of RAM ? A friend of mine wanted a computer, but didn't have money to buy one. So I just did the following:  
   
@@ -23,8 +23,8 @@ One of the ways I like to help is giving a second life to computers. While helpi
   
 **Total cost: 5€  
   
-Seeing a Pentium II 400MHz running GNOME on 128MB of RAM, with a defective RAM module: <span class="hitimportant">priceless  
+Seeing a Pentium II 400MHz running GNOME on 128MB of RAM, with a defective RAM module: [priceless  
   
-</span>**Edit:  
+]{.hitimportant}**Edit:  
 I found a picture of my memcheck experiments on 128MB module. There was so many errors that I wanted to make sure I had copied them all :-) . Memcheck has an option to give error in the form of BadRAM patterns. This is the one shown here. That's a comma separated list of *address,mask* couples. In this example, there was so many errors, that I couldn't use this module, as the kernel would not accept that many arguments at boot time. But I could underclock this 100MHz SDRAM, using it in a slower machine (one that was running 66MHz SDRAM). Memtest confirmed that it would work.  
 ![](/public/vrac/memcheck.jpg)  

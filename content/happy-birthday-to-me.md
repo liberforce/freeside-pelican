@@ -12,7 +12,7 @@ Rah, ça y est, je me rapproche du côté obscur... la trentaine ! J'ai 29 ans d
 - Les couper à mi-longueur parce que j'en ai marre que mes nièces m'appellent Jésus (et parce qu'apparemment, j'ai pas une texture de cheveu adéquate pour les avoir longs). Désolé Daniel ;-) . Ah, j'avais aussi revu la mère et la soeur d'un pote pour ses 30 ans, et là je me suis pris en pleine face le combo de remarques sur la barbe et les cheveux longs.
 - Les achever en revenant à la coupe courte/barbe mal rasée (bien obligé, avec les cheveux courts, dès que je me rase, je perds 10 ans).
 
-Joignons donc la preuve par l'image, avec une année d'échecs capillaires, occasion d'un petit pot pourri d'une année de photos de moi. Et oui, je n'en ai pas des masses (logique, c'est moi le photographe d'habitude) mais bon, un anniversaire, ce n'est qu'une fois l'an (merci <a href="http://fr.wikipedia.org/wiki/Lapalissade" hreflang="fr">La Palice</a>) alors je me permets un petit défilé. Fut une époque, je n'aimais pas me voir en photo, ou me laisser prendre en photo, et puis je me suis rendu compte qu'à ce train là, le grand album de la vie resterait vide.  
+Joignons donc la preuve par l'image, avec une année d'échecs capillaires, occasion d'un petit pot pourri d'une année de photos de moi. Et oui, je n'en ai pas des masses (logique, c'est moi le photographe d'habitude) mais bon, un anniversaire, ce n'est qu'une fois l'an (merci [La Palice](http://fr.wikipedia.org/wiki/Lapalissade){hreflang="fr"}) alors je me permets un petit défilé. Fut une époque, je n'aimais pas me voir en photo, ou me laisser prendre en photo, et puis je me suis rendu compte qu'à ce train là, le grand album de la vie resterait vide.  
   
 [![](/public/people/luis/.200708_m.jpg "200708.jpg, nov 2008")](/public/people/luis/200708.jpg)  
 
@@ -48,8 +48,8 @@ Joignons donc la preuve par l'image, avec une année d'échecs capillaires, occa
 
 [![](/public/people/luis/.200807_m.jpg "200807.jpg, nov 2008")](/public/people/luis/200807.jpg)  
 
-*Juillet 2008 : vacances en Turquie (oui [Fred](http://blog.crozat.net/), je vais finir par les lâcher, les photos du <a href="http://www.guadec.org" hreflang="en">GUADEC</a>, promis ;-) ). Notez que des cheveux sont tombés au passage...  *
+*Juillet 2008 : vacances en Turquie (oui [Fred](http://blog.crozat.net/), je vais finir par les lâcher, les photos du [GUADEC](http://www.guadec.org){hreflang="en"}, promis ;-) ). Notez que des cheveux sont tombés au passage...\*
 
 [![](/public/people/luis/.200811_m.jpg "200811.jpg, nov 2008")](/public/people/luis/200811.jpg)  
 
-*Novembre 2008 : Votre serviteur, ce soir, dans son futur ex-bureau plein de cartons... Le ratiboisage n'est plus tout frais, et ma coiffeuse portugaise devrait me revoir bientôt.  *
+*Novembre 2008 : Votre serviteur, ce soir, dans son futur ex-bureau plein de cartons... Le ratiboisage n'est plus tout frais, et ma coiffeuse portugaise devrait me revoir bientôt.\*

@@ -6,15 +6,15 @@ Tags: gstreamer, baladeur numérique
 Slug: oisiweb-convertir-une-video-pour-le-meizu-m6
 Status: published
 
-Cher oisiweb, J'ai cherché (et trouvé) des solutions pour convertir des fichiers vidéo au format du <a href="http://en.meizu.com/product_m6sl.asp" hreflang="en">Meizu M6</a>, qui a les caractéristique suivantes:
+Cher oisiweb, J'ai cherché (et trouvé) des solutions pour convertir des fichiers vidéo au format du [Meizu M6](http://en.meizu.com/product_m6sl.asp){hreflang="en"}, qui a les caractéristique suivantes:
 
 - vidéo au format Xvid avec un bitrate maximum de 512 kbps
 - 20 images par seconde maximum
 - son au format MP3, de 56 à 256 kbps, stereo
 
-Malheureusement, elles utilisent toutes <a href="http://www.mplayerhq.hu/" hreflang="en">mencoder</a> ou <a href="http://ffmpeg.mplayerhq.hu/" hreflang="en">ffmpeg</a> pour effectuer la conversion. Il semble bien qu'en ces jours sombres de l'humanité, personne ne s'intéresse à <a href="http://gstreamer.freedesktop.org/" hreflang="en">gstreamer</a>... Saurais tu quelle formidable ligne de commande utiliser avec gstreamer pour effectuer cette conversion ?
+Malheureusement, elles utilisent toutes [mencoder](http://www.mplayerhq.hu/){hreflang="en"} ou [ffmpeg](http://ffmpeg.mplayerhq.hu/){hreflang="en"} pour effectuer la conversion. Il semble bien qu'en ces jours sombres de l'humanité, personne ne s'intéresse à [gstreamer](http://gstreamer.freedesktop.org/){hreflang="en"}... Saurais tu quelle formidable ligne de commande utiliser avec gstreamer pour effectuer cette conversion ?
 
 Pour ceux que cela intéresse:
 
-- <a href="http://www.taiabati.com/linux/video-for-meizu.html" hreflang="en">Méthode avec mencoder</a>
-- <a href="http://www.meizume.com/showthread.php?t=1936" hreflang="fr">Méthode avec ffmpeg</a>
+- [Méthode avec mencoder](http://www.taiabati.com/linux/video-for-meizu.html){hreflang="en"}
+- [Méthode avec ffmpeg](http://www.meizume.com/showthread.php?t=1936){hreflang="fr"}

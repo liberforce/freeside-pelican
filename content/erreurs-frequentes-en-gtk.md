@@ -6,8 +6,7 @@ Tags: Unclassified
 Slug: erreurs-frequentes-en-gtk
 Status: published
 
-<div class="moz-text-flowed" style="font-family: -moz-fixed; font-size: 12px;" lang="x-western">
-
+::: {.moz-text-flowed style="font-family: -moz-fixed; font-size: 12px;" lang="x-western"}
 I give a hand in several computing forums (mainly nowadays developpez.com in french, and stackoverflow.com in english), mostly about GNOME, GTK, or C programming.  
   
 Let's focus on GTK. People asking some advice on these sites are often starting to learn GTK. From my experience, the root causes of most of their problems are often the same:  
@@ -16,5 +15,4 @@ Let's focus on GTK. People asking some advice on these sites are often starting 
   
 2. Failing to understand how a message pump works  
 (shovel)
-
-</div>
+:::

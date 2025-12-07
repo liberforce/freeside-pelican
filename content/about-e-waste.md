@@ -8,7 +8,7 @@ Status: published
 
 Each time I hear about the [OLPC](http://laptop.org) project (just an example, I personnaly have nothing against it) and other widespread electronics, I wonder if the invasion of electronics in our everyday life is a [blessing or a curse](http://www.greenpeace.org/international/campaigns/toxics/electronics), especially for developping countries...
 
-There are plenty of examples of these poisonous devices. For example, the [iPhone contains hazardous chemicals](http://www.greenpeace.org/international/news/iPhone-test-hazardous-toxic-chemicals151007), according to greenpeace. They also give an <a href="http://www.greenpeace.org/international/campaigns/toxics/electronics/how-the-companies-line-up" hreflang="en">ecologic ranking of world electronics leaders</a>, based on their lack of hazardous substances and takeback and recycle of their products.
+There are plenty of examples of these poisonous devices. For example, the [iPhone contains hazardous chemicals](http://www.greenpeace.org/international/news/iPhone-test-hazardous-toxic-chemicals151007), according to greenpeace. They also give an [ecologic ranking of world electronics leaders](http://www.greenpeace.org/international/campaigns/toxics/electronics/how-the-companies-line-up){hreflang="en"}, based on their lack of hazardous substances and takeback and recycle of their products.
 
 Guess what ? [Nintendo, Philips and Microsoft are the worse](http://www.greenpeace.org/international/news/greener-electronics-ranking-6-291107) on this aspect.
 
@@ -23,4 +23,4 @@ Yes, of course, ti makes sense. Especially here in France, where the biggest par
 Plenty of [these children](http://en.wikipedia.org/wiki/Guiyu) will thank you.
 
 **Update:**  
-<a href="http://arstechnica.com/news.ars/post/20071127-greenpeaces-green-electronics-guide-undermined-by-minimal-research-effort.html" hreflang="en">Arstechnica has doubts on this study</a>.
+[Arstechnica has doubts on this study](http://arstechnica.com/news.ars/post/20071127-greenpeaces-green-electronics-guide-undermined-by-minimal-research-effort.html){hreflang="en"}.

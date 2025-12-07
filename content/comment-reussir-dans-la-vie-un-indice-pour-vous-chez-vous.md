@@ -6,4 +6,4 @@ Tags: sarko
 Slug: comment-reussir-dans-la-vie-un-indice-pour-vous-chez-vous
 Status: published
 
-<a href="http://www.arretsurimages.net/vite.php?id=864" hreflang="fr">Le petit Jean S. est attendu par son papa.</a>
+[Le petit Jean S. est attendu par son papa.](http://www.arretsurimages.net/vite.php?id=864){hreflang="fr"}

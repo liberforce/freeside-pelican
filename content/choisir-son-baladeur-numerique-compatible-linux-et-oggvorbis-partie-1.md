@@ -8,25 +8,25 @@ Status: published
 
 ## Au départ, il y a toujours un truc qui gratte...
 
-Je suis actuellement à la recherche actuellement d'un cadeau d'anniversaire pour ma chérie (faudrait que je me grouille quand même, c'était il y a 2 semaines :-( ). Et je sais ce que je veux lui offrir: un <a href="http://fr.wikipedia.org/wiki/Baladeur_num%C3%A9rique" hreflang="fr">baladeur numérique</a>, plus communément appelé "baladeur MP3", bien que cela soit fort réducteur (quel baladeur lit uniquement du MP3 de nos jours) ? Comme référence pour mon choix, j'ai le mien: je possède actullement un baladeur <a href="http://www.samsung.com/ca/products/digitalaudioproducts/digitalmediaplayer/yp_mt6xxac.asp" hreflang="en">Samsung YP-MT6X</a>.
+Je suis actuellement à la recherche actuellement d'un cadeau d'anniversaire pour ma chérie (faudrait que je me grouille quand même, c'était il y a 2 semaines :-( ). Et je sais ce que je veux lui offrir: un [baladeur numérique](http://fr.wikipedia.org/wiki/Baladeur_num%C3%A9rique){hreflang="fr"}, plus communément appelé "baladeur MP3", bien que cela soit fort réducteur (quel baladeur lit uniquement du MP3 de nos jours) ? Comme référence pour mon choix, j'ai le mien: je possède actullement un baladeur [Samsung YP-MT6X](http://www.samsung.com/ca/products/digitalaudioproducts/digitalmediaplayer/yp_mt6xxac.asp){hreflang="en"}.
 
 Je recherche donc la perle rare, un baladeur à base de mémoire flash, et qui remplirait pour un budget raisonnable (200€ max) les fonctions suivantes, de la plus prioritaire à la moins prioritaire:
 
 1.  Compatible Linux
-2.  Compatible <a href="http://fr.wikipedia.org/wiki/Ogg" hreflang="fr">Ogg</a>/<a href="http://fr.wikipedia.org/wiki/Vorbis" hreflang="fr">Vorbis</a>
+2.  Compatible [Ogg](http://fr.wikipedia.org/wiki/Ogg){hreflang="fr"}/[Vorbis](http://fr.wikipedia.org/wiki/Vorbis){hreflang="fr"}
 3.  A base de mémoire flash
 4.  Reconnu comme une clé USB
 5.  Bonne autonomie (si possible + de 15 h)
 6.  Capacité de 2 Go ou plus
-7.  Gère les <a href="http://fr.wikipedia.org/wiki/ID3" hreflang="fr">métadonnées</a> MP3 et OGG/Vorbis
-8.  Gère l'encodage <a href="http://fr.wikipedia.org/wiki/UTF-8" hreflang="fr">UTF-8</a>
+7.  Gère les [métadonnées](http://fr.wikipedia.org/wiki/ID3){hreflang="fr"} MP3 et OGG/Vorbis
+8.  Gère l'encodage [UTF-8](http://fr.wikipedia.org/wiki/UTF-8){hreflang="fr"}
 9.  Utilise des piles plutôt qu'une batterie interne
 
 ## Quelques justifications de ces besoins: ****
 
-**Compatible Linux:** indispensable, ma copine a migré sous <a href="http://www.mandriva.com" hreflang="en">Mandriva Linux</a>/<a href="http://www.gnome.org" hreflang="en">GNOME</a> depuis plus d'un an.
+**Compatible Linux:** indispensable, ma copine a migré sous [Mandriva Linux](http://www.mandriva.com){hreflang="en"}/[GNOME](http://www.gnome.org){hreflang="en"} depuis plus d'un an.
 
-**Compatible OGG/Vorbis:** c'est une solution de confort, car toute la musique que j'ai téléchargé sur <a href="http://www.jamendo.com" hreflang="fr">Jamendo</a> utilise ce format libre.
+**Compatible OGG/Vorbis:** c'est une solution de confort, car toute la musique que j'ai téléchargé sur [Jamendo](http://www.jamendo.com){hreflang="fr"} utilise ce format libre.
 
 **A base de mémoire flash:** ce sont les plus compacts, même s'ils offrent moins de capacité de stockage que les modèles à disque dur. Ils sont moins sensibles au chocs aussi (pas de mécanique, que de l'électronique).
 
@@ -34,13 +34,13 @@ Je recherche donc la perle rare, un baladeur à base de mémoire flash, et qui r
 
 Il existe actuellement 2 manières de transférer des fichiers sur un baladeur:
 
-- via le protocole <a href="http://en.wikipedia.org/wiki/Media_Transfer_Protocol" hreflang="en">MTP</a>
-- via l'<a href="http://en.wikipedia.org/wiki/USB_mass_storage_device_class" hreflang="en">UMS</a> (USB Mass Storage)
+- via le protocole [MTP](http://en.wikipedia.org/wiki/Media_Transfer_Protocol){hreflang="en"}
+- via l'[UMS](http://en.wikipedia.org/wiki/USB_mass_storage_device_class){hreflang="en"} (USB Mass Storage)
 
 Le protocole MTP pose plusieurs problèmes:
 
 - Il requiert l'utilisation de Microsoft Windows (XP au minimum) et Windows Media Player 10
-- Il utilise le monopole Windows pour imposer MTP et Janus, le système de <a href="http://fr.wikipedia.org/wiki/Gestion_num%C3%A9rique_des_droits" hreflang="fr">DRM</a> made in Microsoft
+- Il utilise le monopole Windows pour imposer MTP et Janus, le système de [DRM](http://fr.wikipedia.org/wiki/Gestion_num%C3%A9rique_des_droits){hreflang="fr"} made in Microsoft
 - Il empêche d'autres systèmes d'exploitation comme Linux ou Mac OS de pouvoir communiquer simplement avec le baladeur
 - La bibliothèque libmtp sous Linux permet la communication avec les périphériques MTP, mais elle est en cours de développement et ne gèrera donc pas forcément votre modèle de baladeur
 - Il est presque obligatoire de passer par un logiciel externe pour transférer des fichiers sur le baladeur. Si vous êtes en déplacement, vous n'aurez pas forcément la configuration adéquate sous la main.

@@ -12,13 +12,13 @@ Well in fact, its not. Grep 2.5.3 introduces the long awaited option `--exclude-
 
 Before :
 
-<span id="hidsubpartcontentdiscussion">`find .`</span> <span id="hidsubpartcontentdiscussion">`-type f`</span> <span id="hidsubpartcontentdiscussion">`! -path '*/.svn/*' -print0 | xargs -0 grep foo`</span>
+[`find .`]{#hidsubpartcontentdiscussion} [`-type f`]{#hidsubpartcontentdiscussion} [`! -path '*/.svn/*' -print0 | xargs -0 grep foo`]{#hidsubpartcontentdiscussion}
 
-<span id="hidsubpartcontentdiscussion">After :</span>
+[After :]{#hidsubpartcontentdiscussion}
 
-<span id="hidsubpartcontentdiscussion">`grep -R --exclude-dir=.svn foo *`</span>
+[`grep -R --exclude-dir=.svn foo *`]{#hidsubpartcontentdiscussion}
 
-<span id="hidsubpartcontentdiscussion">It's sad that this option took several years to enter the code base (at least 2.5 years) and was first refused (this bug report is an <a href="http://savannah.gnu.org/patch/?3521" hreflang="en">example of how not to reply to users</a>). Also, this new version of grep landed in 2009.0, but grep 2.5.3 was released</span> <span id="hidsubpartcontentdiscussion">in august 2007...</span>
+[It's sad that this option took several years to enter the code base (at least 2.5 years) and was first refused (this bug report is an [example of how not to reply to users](http://savannah.gnu.org/patch/?3521){hreflang="en"}). Also, this new version of grep landed in 2009.0, but grep 2.5.3 was released]{#hidsubpartcontentdiscussion} [in august 2007...]{#hidsubpartcontentdiscussion}
 
 Mandriva Linux 2008.1 users interested by this feature can install the 2009.0 version of grep from their closest miror :
 

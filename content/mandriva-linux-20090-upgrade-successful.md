@@ -16,7 +16,7 @@ Once launched, a notification popup appeared telling me there was a new distro a
 
 !['New stable distribution available](/public/mandriva/migration_2009.0/Capture-Une_nouvelle_distribution_stable_est_disponible.png "Une nouvelle distribution stable est disponible, oct 2008")
 
-Note : I really hate Yes/No dialogs. Pretty please, Mr. Developer, <a href="http://library.gnome.org/devel/hig-book/stable/controls-buttons.html.en" hreflang="en">use actions verbs on your buttons instead of Yes/No</a> (with button icons would be even better) ! I the accepted the upgrade, and the new media sources were downloaded and updated. Using the Aria IP geolocation, the Free (french provider) mirrors were selected, and the upgrade process started downloading and installing the packages.
+Note : I really hate Yes/No dialogs. Pretty please, Mr. Developer, [use actions verbs on your buttons instead of Yes/No](http://library.gnome.org/devel/hig-book/stable/controls-buttons.html.en){hreflang="en"} (with button icons would be even better) ! I the accepted the upgrade, and the new media sources were downloaded and updated. Using the Aria IP geolocation, the Free (french provider) mirrors were selected, and the upgrade process started downloading and installing the packages.
 
 ![](/public/mandriva/migration_2009.0/Capture-Mise_a_jour_de_la_distribution2.png "Mise à jour de la distribution, oct 2008")
 
@@ -42,7 +42,7 @@ The "upgrade completed" dialog appeared once again, but this time, the icon show
 
 ![](/public/mandriva/migration_2009.0/Capture-Felicitations-1.png "Félicitations ok, oct 2008")
 
-Following the given advice, I rebooted, and started thinking that a "Close" button would have been better than the "Ok" one (yep. I find that even if a bit outdated, the <a href="http://library.gnome.org/devel/hig-book/stable/" hreflang="en">HIG</a> are still great).
+Following the given advice, I rebooted, and started thinking that a "Close" button would have been better than the "Ok" one (yep. I find that even if a bit outdated, the [HIG](http://library.gnome.org/devel/hig-book/stable/){hreflang="en"} are still great).
 
 Once my session opened, the update applet still tells that I can migrate to 2009.0 ! However, fixing my "Main updates" media problem (the main miror set by Aria had an MD5SUM error on the synthesis file for this media), was as easy as setting by hand a new mirror, and looking for updates. The only broken thing was my firefox panel icon, which had disappeared, since the icon had been renamed from firefox.png (2008.1) to firefox3.png (2009.0).
 
@@ -64,7 +64,7 @@ After :
 ## The bad:
 
 - The upgrade didn't happen flawlessly.
-- Mandriva really needs to take into account the basics of the <a href="http://library.gnome.org/devel/hig-book/stable/" hreflang="en">HIG</a> for every new dialog they create.
+- Mandriva really needs to take into account the basics of the [HIG](http://library.gnome.org/devel/hig-book/stable/){hreflang="en"} for every new dialog they create.
 - When there's a md5sum error on an hdlist file on a mirror, aria doesn't automatically try to use another mirror.
 - The whole process was painfully slow, despite my AMD 3000+ CPU and a 20Mb/s connection.
 - It seems that KDE users have much more trouble with the migration, which was to be expected with the huge changes from KDE3 to KDE4. Sorry for them :-(.

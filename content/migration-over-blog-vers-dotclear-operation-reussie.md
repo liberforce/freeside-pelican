@@ -8,7 +8,7 @@ Status: published
 
 ...mais non sans mal. En effet, une des fonctionnalités pour laquelle j'avais choisi la plate-forme over-blog (à savoir l'export du blog au format xml) a tout simplement disparu dans la version 2, sans aucune annonce !
 
-A la question posée au mois de mai sur les forums, de savoir où se trouve la fonction d'export qui existait auparavant, voici <a href="http://forum.over-blog.com/thread-2584898.html" hreflang="fr">la réponse de l'admin</a>:
+A la question posée au mois de mai sur les forums, de savoir où se trouve la fonction d'export qui existait auparavant, voici [la réponse de l'admin](http://forum.over-blog.com/thread-2584898.html){hreflang="fr"}:
 
 > en v2, n'existe pas. Il y aura prochainement (je ne sais pas quand) une nouvelle fonction pour sauvegarder ses infos
 
@@ -27,4 +27,4 @@ Mais il y a aussi quelques désavantages (liés à la version de dotclear utilis
 
 Cela m'a aussi permis de passer en revue presque un an de billets. C'est pas mal de pouvoir voir si une opinion a évolué, ce quon a pu faire... Bref, c'est reparti !
 
-**EDIT:** et pour mes (rares :-p) fidèles lecteurs, ça se passe maintenant sur <a href="" hreflang="fr">http://blog.freeside.fr</a>.  
+**EDIT:** et pour mes (rares :-p) fidèles lecteurs, ça se passe maintenant sur [http://blog.freeside.fr](){hreflang="fr"}.  

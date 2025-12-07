@@ -18,8 +18,8 @@ De mon côté, j'aimerais faire avancer la traduction de la documentation dével
 
 Cette année, pas de T-shirts à vendre, ceux ci sont restés en Suède pour une autre conférence. Mais il nous avons quelques posters, sacs (épuisés), et nos stickers argentés, les bénéfices de ces derniers étant pour GNOME-FR. Nous en sommes à un peu plus de 200 stickers vendus ce week end.
 
-<img src="/public/fosdem/2015/.2015-02-01-120543_m.jpg" title="Nos silver stickers, fév. 2015" style="margin: 0 auto; display: block;" />
+![](/public/fosdem/2015/.2015-02-01-120543_m.jpg "Nos silver stickers, fév. 2015"){style="margin: 0 auto; display: block;"}
 
 (photo réalisée grâce à ma webcam moisie :-p)
 
-N'hésitez pas à venir nous voir sur notre stand, jusqu'à ce soir, ou bien aux prochains événements de l'année, sans doute <a href="http://www.solutionslinux.fr/" hreflang="fr">Solution Linux</a> les 19 et 20 mai à Paris-La Défense !
+N'hésitez pas à venir nous voir sur notre stand, jusqu'à ce soir, ou bien aux prochains événements de l'année, sans doute [Solution Linux](http://www.solutionslinux.fr/){hreflang="fr"} les 19 et 20 mai à Paris-La Défense !

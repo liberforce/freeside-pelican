@@ -15,4 +15,4 @@ Alors quand vous irez voter, rappelez vous bien que:
 
 Bref, comme disait Act'Up: [Votez Le Pen](http://www.indigenes37.org/IMG/arton141.jpg) !  
   
-Toi aussi, français, vote <acronym title="Tout Sauf Sarkozy">TSS</acronym> !
+Toi aussi, français, vote `<acronym title="Tout Sauf Sarkozy">`{=html}TSS`</acronym>`{=html} !

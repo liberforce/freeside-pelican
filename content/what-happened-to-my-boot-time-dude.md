@@ -8,7 +8,7 @@ Status: published
 
 Hum... Why did I lose 2 seconds in boot time ? 2008.1 booted in 31s, and 2009.0 boots in 33s.
 
-**Update** : As asked by pterjan, here is the result of the <a href="http://pastebin.com/m195c69bf" hreflang="en">lsinitrd</a> command.
+**Update** : As asked by pterjan, here is the result of the [lsinitrd](http://pastebin.com/m195c69bf){hreflang="en"} command.
 
 **Update** : running depmod didn't fix the problem.
 

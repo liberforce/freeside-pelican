@@ -6,9 +6,9 @@ Tags: Unclassified
 Slug: la-fin-de-linternet
 Status: published
 
-<span class="hitimportant">Questions "Yahoo Questions/Réponses" du jour:  
+[Questions "Yahoo Questions/Réponses" du jour:  
   
-</span>**La surprenante:**
+]{.hitimportant}**La surprenante:**
 
 - Etes vous [exobiophiles](http://fr.wikipedia.org/wiki/Exobiophilie) ?
 

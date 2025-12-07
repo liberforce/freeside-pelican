@@ -10,13 +10,11 @@ Ecoutez donc l'[interview de Bill Gates sur le 20H de TF1](http://www.youtube.co
   
 On peut difficilement concentrer autant de désinformation en si peu de temps. A se demander si PPDA et le journaliste qui a fait le reportage se sont documentés avant l'interview de l'homme le plus riche du monde.  
   
-<u>La plus belle perle du reportage:</u>
+[La plus belle perle du reportage:]{.underline}
 
-<div class="hitcitation">
-
+::: hitcitation
 *"Son nouveau produit, Vista, a été lancé cette semaine. Une nouvelle version de Windows plus conviviale, **et qui permet de regarder des programmes de télévision dans l'ordinateur**. De quoi selon Bill Gates, entre de plein pied dans l'ère du numérique"*.
-
-</div>
+:::
 
   
 Alors il faudra m'expliquer ce qu'il y a de nouveau dans le fait que Vista récupère des chaines de télé. C'est pas comme si j'avais déjà la télé en 1998 sur mon PC sous Windows 95 (oui, j'étais jeune) avec une carte tuner... Vista sans carte tuner ou racordement ADSL ne sait pas plus ni moins capter la télé. Encore un journaliste qui n'a même pas pris le temps d'aller discuter avec un vendeur de la FNAC (il aurait pu dire des conneries, mais moins grosses que celle là) !  
@@ -28,11 +26,9 @@ Pourtant un article du 7 janvier 2007 du [Los Angeles Times sur les placements d
   
 PPDA nous montre ensuite qu'il s'y connait dans l'histoire de l'informatique:  
 
-<div class="hitcitation">
-
+::: hitcitation
 On dit de vous que vous êtes plus businessman que visionnaire, en tout cas vous vous êtes rarement trompé dans les grands choix...
-
-</div>
+:::
 
   
 Quand on sait qu'il parle à l'homme qui n'a pas cru à Internet, et qui n'a intégré un navigateur web dans son système d'exploitation de l'époque (Windows 95) qu'en catastrophe quand il s'est rendu compte de son erreur, ça a de quoi faire sourire.  
@@ -40,18 +36,16 @@ Quand on sait qu'il parle à l'homme qui n'a pas cru à Internet, et qui n'a int
 Par contre, pour ce qui est du businessman, je confirme. Mais Microsoft n'a pratiquement jamais innové, juste "emprunté" les technologies développés par les autres, comme souvent en informatique.  
   
 Si vous avez du temps, je vous conseille à ce sujet cette excellente série de reportages sur l'histoire de l'informatique (3 x 45mn):  
-<a href="http://www.dailymotion.com/relevance/search/informatique/video/xwx6o_les-cingles-de-linformatique-part1_tech" hreflang="fr">Les cinglés de l'informatique (partie 1)</a>  
-<a href="http://www.dailymotion.com/relevance/search/informatique/video/xx27w_les-cingles-de-linformatique-part2_tech" hreflang="fr">Les cinglés de l'informatique (partie 2)</a>  
-<a href="http://www.dailymotion.com/relevance/search/informatique/video/xwxwk_les-cingles-de-linformatique-part3_tech" hreflang="fr">Les cinglés de l'informatique (partie 3)</a>  
+[Les cinglés de l'informatique (partie 1)](http://www.dailymotion.com/relevance/search/informatique/video/xwx6o_les-cingles-de-linformatique-part1_tech){hreflang="fr"}  
+[Les cinglés de l'informatique (partie 2)](http://www.dailymotion.com/relevance/search/informatique/video/xx27w_les-cingles-de-linformatique-part2_tech){hreflang="fr"}  
+[Les cinglés de l'informatique (partie 3)](http://www.dailymotion.com/relevance/search/informatique/video/xwxwk_les-cingles-de-linformatique-part3_tech){hreflang="fr"}  
   
 Je vous laisse méditer sur cette pensée de Joseph Stiglitz, prix Nobel d'économie, dans une entrevue de Liberation:
 
-<div class="hitcitation">
-
+::: hitcitation
 L'un des apôtres de la PI (ndm: Propriété intellectuelle), Bill Gates, peut-il et défendre les brevets pour Microsoft et sa fondation pour l'accès à la santé ?  
   
 Gates, comme Rockfeller, utilise l'argent de son monopole illégal pour de bonnes causes, mais cela ne justifie pas la culture du monopole. On peut voler l'argent et le rendre aux pauvres, cela rend-il le délit moins mauvais ? Et, avec sa fondation, faire l'impasse sur la solution cruciale : toucher aux droits de propriété intellectuelle.
-
-</div>
+:::
 
 [« *Le libre accès au savoir tient du bien public mondial* »](http://www.liberation.fr/actualite/economie/204050.FR.php)
