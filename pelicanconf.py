@@ -7,7 +7,6 @@ SITENAME = "Greetings From The Free Side!"
 SITEURL = "blog.freeside.fr"
 
 PATH = "content"
-STATIC_PATHS = ["media"]
 
 TIMEZONE = "Europe/Paris"
 
