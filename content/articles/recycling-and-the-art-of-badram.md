@@ -28,4 +28,4 @@ Seeing a Pentium II 400MHz running GNOME on 128MB of RAM, with a defective RAM m
   
 ]{.hitimportant}**Edit:  
 I found a picture of my memcheck experiments on 128MB module. There was so many errors that I wanted to make sure I had copied them all :-) . Memcheck has an option to give error in the form of BadRAM patterns. This is the one shown here. That's a comma separated list of *address,mask* couples. In this example, there was so many errors, that I couldn't use this module, as the kernel would not accept that many arguments at boot time. But I could underclock this 100MHz SDRAM, using it in a slower machine (one that was running 66MHz SDRAM). Memtest confirmed that it would work.  
-![](/public/vrac/memcheck.jpg)  
+![]({static}/images/vrac/memcheck.jpg)  

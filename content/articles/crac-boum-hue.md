@@ -17,4 +17,4 @@ Bref. On a découvert le parquet, et on l'a fait sauter, et ça a l'air sain (ou
 
 Au passage, j'ai découvert l'excellent [SweetHome3d](http://sweethome3d.sourceforge.net/fr/){hreflang="fr"} il y a quelques mois, pour pouvoir prévoir un peu l'aménagement futur. J'étais assez content de trouver ce genre de logiciels sous Linux. Cela me permet donc de vous offrir cette vue approximative (tout n'est pas en place dans la cuisine) de ce à quoi cela devrait ressembler une fois terminé.
 
-[![](/public/appartement/.appartement_m.jpg "Modélisation avec SweetHome3d, oct 2008")](/public/appartement/appartement.png)
+[![]({static}/images/appartement/.appartement_m.jpg "Modélisation avec SweetHome3d, oct 2008")]({static}/images/appartement/appartement.png)

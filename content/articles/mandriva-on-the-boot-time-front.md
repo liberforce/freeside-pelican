@@ -11,4 +11,4 @@ It's nice to see that [Mandriva is working on shortening the boot time](http://b
 
 Here it is:
 
- [![](/public/mandriva/.bootchart_m.jpg "Bootchart 2008-09-30, sep 2008")](/public/mandriva/bootchart.png)
+ [![]({static}/images/mandriva/.bootchart_m.jpg "Bootchart 2008-09-30, sep 2008")]({static}/images/mandriva/bootchart.png)

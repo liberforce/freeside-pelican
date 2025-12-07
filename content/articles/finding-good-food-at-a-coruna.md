@@ -13,4 +13,4 @@ On the eleven people of our group, seems everyone was satisfied with the food qu
 
 Here's the [Culuca on Google Maps](http://goo.gl/maps/X9Y85){hreflang="en"}, and here's our former polpo friend :-)
 
-[![](/public/guadec/2012/.P1080329_m.jpg "polpo a la plancha, juil. 2012"){style="margin: 0 auto; display: block;"}](/public/guadec/2012/P1080329.JPG)
+[![]({static}/images/guadec/2012/.P1080329_m.jpg "polpo a la plancha, juil. 2012"){style="margin: 0 auto; display: block;"}]({static}/images/guadec/2012/P1080329.JPG)

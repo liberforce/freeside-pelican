@@ -11,6 +11,6 @@ Suite à discussion avec mon cher [afranke](http://www.alexandrefranke.com){href
 
 Du coup, après une petite recherche sur le net je suit tombé sur cet excellent billet d'antistress: "[Toi aussi GNOME3-ise ton Firefox !](http://libre-ouvert.toile-libre.org/index.php?article117/toi-aussi-gnome3-firefox-adwaita-htitle-movable-firefox-button-tab-bar-omnibar){hreflang="fr"}". Et effectivement, le résultat est radical !
 
-[![](/public/gnome/.GNOME_3_d_Firefox_m.jpg "Firefox personnalisé pour GNOME 3, fév. 2013"){style="margin: 0 auto; display: block;"}](/public/gnome/GNOME_3_d_Firefox.png)
+[![]({static}/images/gnome/.GNOME_3_d_Firefox_m.jpg "Firefox personnalisé pour GNOME 3, fév. 2013"){style="margin: 0 auto; display: block;"}]({static}/images/gnome/GNOME_3_d_Firefox.png)
 
 Je profite de mes tout récents super-pouvoirs de co-mainteneur de [Planet GNOME-FR](http://planete.gnomefr.org/){hreflang="fr"} conférés par [vuntz](http://www.vuntz.net){hreflang="en"} pour rappeler que si vous souhaitez être intégrés à Planet GNOME-FR, il vous suffit de lire les [conditions d'inscription](http://live.gnome.org/PlanetGnome){hreflang="en"} et voir si vous êtes éligibles. Et si vous ne faites pas partie de la fondation GNOME, vous devriez peut être [postuler](http://www.gnome.org/foundation/membership/){hreflang="en"} ;-)

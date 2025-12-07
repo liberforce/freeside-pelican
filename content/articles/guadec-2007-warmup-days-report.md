@@ -41,10 +41,10 @@ First time I could hold an [electronic paper](http://en.wikipedia.org/wiki/Elect
 
   
 Here are some pictures:  
-![](/public/guadec/2007/e-paper-slide.jpg)
+![]({static}/images/guadec/2007/e-paper-slide.jpg)
 
 *A slide explaining how an e-paper works*
 
-![](/public/guadec/2007/irex-device.jpg)
+![]({static}/images/guadec/2007/irex-device.jpg)
 
 *The device by itself (that's the picture which is blurry, not the screen)*

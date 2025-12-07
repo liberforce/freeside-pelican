@@ -11,7 +11,7 @@ Vendredi dernier, j'ai eu la surprise de voir apparaitre dans l'interface d'admi
   
 Quelques heures plus tard, voici l'interface d'administration que j'ai découverte:  
   
-![](/public/vrac/screenshot-over-blog-v2.png)  
+![]({static}/images/vrac/screenshot-over-blog-v2.png)  
 **Ce que j'ai aimé:**
 
 - La possibilité de connaitre la provenance des gens qui visitent mon site

@@ -52,34 +52,34 @@ D'un coup les 1200€ sont un peu plus justifiés... Surtout qu'il y a l'escalie
 
 ## Les travaux en images...
 
-[![](/public/appartement/jour1/.salon_avant_m.jpg "Salon avant, oct 2008")](/public/appartement/jour1/salon_avant.jpg)
+[![]({static}/images/appartement/jour1/.salon_avant_m.jpg "Salon avant, oct 2008")]({static}/images/appartement/jour1/salon_avant.jpg)
 
 *Le salon avant les travaux*
 
-[![](/public/appartement/jour1/.salon_apres_m.jpg "Salon après, oct 2008")](/public/appartement/jour1/salon_apres.jpg)
+[![]({static}/images/appartement/jour1/.salon_apres_m.jpg "Salon après, oct 2008")]({static}/images/appartement/jour1/salon_apres.jpg)
 
 *Et le même après une journée de boulot*
 
-[![](/public/appartement/jour1/.strates_m.jpg "Strates, oct 2008")](/public/appartement/jour1/strates.jpg)
+[![]({static}/images/appartement/jour1/.strates_m.jpg "Strates, oct 2008")]({static}/images/appartement/jour1/strates.jpg)
 
 *Les différentes strates avec le Novopan pris en sandwich entre deux linos*
 
-*[![](/public/appartement/jour1/.escalier_m.jpg "Escalier, oct 2008")](/public/appartement/jour1/escalier.jpg)*
+*[![]({static}/images/appartement/jour1/.escalier_m.jpg "Escalier, oct 2008")]({static}/images/appartement/jour1/escalier.jpg)*
 
 *L'escalier du salon, reposant lui aussi dur une dalle de Novopan, et celles arrachées posées contre le mur*
 
-[![](/public/appartement/jour1/.lino1954_m.jpg "Lino 1954, oct 2008")](/public/appartement/jour1/lino1954.jpg)
+[![]({static}/images/appartement/jour1/.lino1954_m.jpg "Lino 1954, oct 2008")]({static}/images/appartement/jour1/lino1954.jpg)
 
 *Le beau lino 1954*
 
-[![](/public/appartement/jour1/.cuisine_sans_carrelage_m.jpg "Cuisine sans carrelage, oct 2008")](/public/appartement/jour1/cuisine_sans_carrelage.jpg)
+[![]({static}/images/appartement/jour1/.cuisine_sans_carrelage_m.jpg "Cuisine sans carrelage, oct 2008")]({static}/images/appartement/jour1/cuisine_sans_carrelage.jpg)
 
 *La cuisine sans carrelage...*
 
-[![](/public/appartement/jour1/.carrelage_m.jpg "Carrelage, oct 2008")](/public/appartement/jour1/carrelage.jpg)
+[![]({static}/images/appartement/jour1/.carrelage_m.jpg "Carrelage, oct 2008")]({static}/images/appartement/jour1/carrelage.jpg)
 
 *Le carrelage à part*
 
-[![](/public/appartement/jour1/.queen_m.jpg "La reine du burin, oct 2008")](/public/appartement/jour1/queen.jpg)
+[![]({static}/images/appartement/jour1/.queen_m.jpg "La reine du burin, oct 2008")]({static}/images/appartement/jour1/queen.jpg)
 
 *La reine du burin. Tel Attila, là où elle passe, le carrelage ne repousse pas.*

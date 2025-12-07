@@ -15,7 +15,7 @@ Consultez le [test du Meizu M6 SP](http://www.generationmp3.com/labotestgmp3/ind
 
 Prix: 133 € TTC, transport Chine-France inclus. Commandé sur ebay à [ygsd_cn1](http://myworld.ebay.fr/ygsd_cn1).
 
-![Meizu M6 SL](/public/vrac/meizu_sl.jpg)
+![Meizu M6 SL]({static}/images/vrac/meizu_sl.jpg)
 
 ## Pourquoi lui ?
 

@@ -13,4 +13,4 @@ Hum... Why did I lose 2 seconds in boot time ? 2008.1 booted in 31s, and 2009.0 
 
 **Update** : running depmod didn't fix the problem.
 
-[![](/public/mandriva/.bootchart_m.jpg "Bootchart 2008-09-30, sep 2008")](/public/mandriva/bootchart.png)[![](/public/mandriva/.bootchart-2009.0_m.jpg "2009.0 boot time, oct 2008")](/public/mandriva/bootchart-2009.0.png)
+[![]({static}/images/mandriva/.bootchart_m.jpg "Bootchart 2008-09-30, sep 2008")]({static}/images/mandriva/bootchart.png)[![]({static}/images/mandriva/.bootchart-2009.0_m.jpg "2009.0 boot time, oct 2008")]({static}/images/mandriva/bootchart-2009.0.png)

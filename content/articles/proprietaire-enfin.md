@@ -58,6 +58,6 @@ La rue de devant donne sur une rue en sens unique peu passante. L'arrière donne
 
 *La vue de la cuisine sur les jardins :\*
 
-![Vue de la cuisine sur le jardin](/public/vrac/jardin.jpg "Jardin, oct 2008"){style="margin: 0 auto; display: block;"}
+![Vue de la cuisine sur le jardin]({static}/images/vrac/jardin.jpg "Jardin, oct 2008"){style="margin: 0 auto; display: block;"}
 
 *\[1\] Juste au cas où ce n'était pas clair : je suis allé dans les mêmes écoles qu'eux, je suis fils d'immigré, et j'habitais (et j'habite encore pour au moins un mois) la même cage à poule. Sauf que moi à l'école, j'écoutais. Et pis pour les incultes pourris du slip, le sage, c'est [Titeuf](http://fr.wikipedia.org/wiki/Titeuf){hreflang="fr"} ;-)*

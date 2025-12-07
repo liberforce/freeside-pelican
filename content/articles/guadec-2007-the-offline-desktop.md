@@ -7,4 +7,4 @@ tags: "bande dessinée, GUADEC"
 slug: "guadec-2007-the-offline-desktop"
 status: "published"
 ---
-![](/public/guadec/2007/offline-desktop.png)
+![]({static}/images/guadec/2007/offline-desktop.png)

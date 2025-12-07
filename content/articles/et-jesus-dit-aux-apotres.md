@@ -13,4 +13,4 @@ Deux personnalités ont fait une déclaration importante aujourd'hui.
   
 Jésus non plus.  
   
-![](/public/vrac/churchsign.jpg)
+![]({static}/images/vrac/churchsign.jpg)
