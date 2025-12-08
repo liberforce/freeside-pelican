@@ -58,6 +58,15 @@ ARTICLE_LANG_SAVE_AS = ARTICLE_URL
 THEME = "themes/Flex"
 
 #########
+# Menubar
+#########
+MENUITEMS = (
+    ("Archives", "/archives.html"),
+    ("Categories", "/categories.html"),
+    ("Tags", "/tags.html"),
+)
+
+#########
 # License
 #########
 COPYRIGHT_YEAR = datetime.now().year
