@@ -38,6 +38,13 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
+###############
 # File location
-ARTICLE_URL = "post/{date:%Y}/{date:%m}/{date:%d}/{slug}/"
-ARTICLE_SAVE_AS = ARTICLE_URL + "index.html"
+###############
+# Articles
+ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.{lang}.html"
+ARTICLE_SAVE_AS = ARTICLE_URL
+
+# Translated articles
+ARTICLE_LANG_URL = ARTICLE_URL
+ARTICLE_LANG_SAVE_AS = ARTICLE_URL
