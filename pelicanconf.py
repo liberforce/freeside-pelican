@@ -48,3 +48,9 @@ ARTICLE_SAVE_AS = ARTICLE_URL
 # Translated articles
 ARTICLE_LANG_URL = ARTICLE_URL
 ARTICLE_LANG_SAVE_AS = ARTICLE_URL
+
+########
+# Themes
+########
+# Theme to use
+THEME = "themes/Flex"
