@@ -29,7 +29,7 @@ foo`]{#hidsubpartcontentdiscussion}
 
 [It's sad that this option took several years to enter the code base (at least
 2.5 years) and was first refused (this bug report is an [example of how not to
-reply to users](http://savannah.gnu.org/patch/?3521){hreflang="en"}). Also,
+reply to users](http://savannah.gnu.org/patch/?3521)). Also,
 this new version of grep landed in 2009.0, but grep 2.5.3 was
 released]{#hidsubpartcontentdiscussion} [in august
 2007...]{#hidsubpartcontentdiscussion}

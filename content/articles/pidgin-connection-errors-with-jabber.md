@@ -14,7 +14,7 @@ Mandriva 2008.0. The problem is that I had an SSL certificate error each time I
 would try to connect to jabber.org. The solution from the french Ubuntu forums
 I found was overkill: recompile and install pidgin 2.4.0. Fortunately, I found
 on the [Arch Linux
-forums](http://bbs.archlinux.org/viewtopic.php?pid=319192){hreflang="en"} a
+forums](http://bbs.archlinux.org/viewtopic.php?pid=319192) a
 much better solution, which might be helpful for people having the same problem
 :
 

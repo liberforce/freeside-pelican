@@ -14,11 +14,11 @@ Bin oui, je n'ai pas été très actif ces derniers temps, et pour plusieurs
 ## Et Dieu créa la guitare...
 
 Les femmelettes jouent à [Guitar Hero
-III](http://fr.wikipedia.org/wiki/Guitar_Hero_III){hreflang="fr"}. Les vrais
+III](http://fr.wikipedia.org/wiki/Guitar_Hero_III). Les vrais
 hommes jouent à [Frets On
-Fire](http://fretsonfire.sourceforge.net/){hreflang="en"} avec leur clavier, et
+Fire](http://fretsonfire.sourceforge.net/) avec leur clavier, et
 [enchainent 2 millions de notes à la
-seconde](http://www.prison.net/worldcharts/charts/players/liberforce/){hreflang="en"}
+seconde](http://www.prison.net/worldcharts/charts/players/liberforce/)
 comme Jurgen (moui, on ne se moque pas, j'ai fait bien plus de parties, mais
 pas avec des chansons qui apparaissent sur le site). J'en ai profité pour
 découvrir que les claviers ont parfois des caractéristiques différentes (du
@@ -35,13 +35,13 @@ trouve pas "mais comment ça peut marcher ?".
 
 La dernière raison est sans doute la plus valable: les élections municipales
 approchent, et faisant partie de la liste "[La Passion de
-Champigny](http://www.champigny2008.fr){hreflang="fr"}", forcément ça donne un
+Champigny](http://www.champigny2008.fr)", forcément ça donne un
 peu de boulot. Youpi pour distribuer des tracts demain matin, je me sens déjà
 comme un témoin de Jéhovah... Les présidentielles et leur lot de déceptions
 étaient passées par là, alors j'avais décidé de m'engager. C'est chose faite.
 Le local de campagne profite même d'une machine en libre accès Internet
 installée par mes soins sous [Mandriva Linux
-2008](http://www.mandriva.com/fr){hreflang="fr"}. Bah oui, si je me suis
+2008](http://www.mandriva.com/fr). Bah oui, si je me suis
 engagé, c'est pour une bonne raison, non ? Défendre le point de vue des
 libristes sur le plan municipal, ce serait déjà pas mal dans une ville de 75
 000 habitants...

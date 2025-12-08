@@ -62,11 +62,11 @@ les autres, comme souvent en informatique.
 Si vous avez du temps, je vous conseille à ce sujet cette excellente série de
 reportages sur l'histoire de l'informatique (3 x 45mn): [Les cinglés de
 l'informatique (partie
-1)](http://www.dailymotion.com/relevance/search/informatique/video/xwx6o_les-cingles-de-linformatique-part1_tech){hreflang="fr"}
+1)](http://www.dailymotion.com/relevance/search/informatique/video/xwx6o_les-cingles-de-linformatique-part1_tech)
 [Les cinglés de l'informatique (partie
-2)](http://www.dailymotion.com/relevance/search/informatique/video/xx27w_les-cingles-de-linformatique-part2_tech){hreflang="fr"}
+2)](http://www.dailymotion.com/relevance/search/informatique/video/xx27w_les-cingles-de-linformatique-part2_tech)
 [Les cinglés de l'informatique (partie
-3)](http://www.dailymotion.com/relevance/search/informatique/video/xwxwk_les-cingles-de-linformatique-part3_tech){hreflang="fr"}
+3)](http://www.dailymotion.com/relevance/search/informatique/video/xwxwk_les-cingles-de-linformatique-part3_tech)
 
 Je vous laisse méditer sur cette pensée de Joseph Stiglitz, prix Nobel
 d'économie, dans une entrevue de Liberation:

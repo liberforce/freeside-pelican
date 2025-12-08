@@ -11,23 +11,23 @@ status: "published"
 ## Impressions
 
 [Christine is watching you
-!](http://jaffiche.fr/manifestation-anti-hadopi-le-25-avril-2009-306){hreflang="fr"}
+!](http://jaffiche.fr/manifestation-anti-hadopi-le-25-avril-2009-306)
 
 J'ai fait partie du cortège anti HADOPI les 25 avril et 1er mai derniers. J'ai
 pu y voir, écouter, et parfois discuter, avec certains acteurs du débat comme
-[Patrick Bloche](http://fr.wikipedia.org/wiki/Patrick_Bloche){hreflang="fr"}
+[Patrick Bloche](http://fr.wikipedia.org/wiki/Patrick_Bloche)
 (député PS), [Nicolas
-Dupont-Aignan](http://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan){hreflang="fr"}
+Dupont-Aignan](http://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan)
 (député divers droite) et [Alain
-Lipietz](http://fr.wikipedia.org/wiki/Alain_Lipietz){hreflang="fr"} (député
+Lipietz](http://fr.wikipedia.org/wiki/Alain_Lipietz) (député
 européen vert). [Il
-semble](http://jour-pour-jour.hautetfort.com/archive/2009/05/01/hadopi-manif-dans-la-manif-aujourd-hui.html){hreflang="fr"}
+semble](http://jour-pour-jour.hautetfort.com/archive/2009/05/01/hadopi-manif-dans-la-manif-aujourd-hui.html)
 que [Corinne
-Lepage](http://fr.wikipedia.org/wiki/Corinne_Lepage){hreflang="fr"} ait fait
+Lepage](http://fr.wikipedia.org/wiki/Corinne_Lepage) ait fait
 partie un moment du cortège, dommage, j'ai cru qu'elle n'y était pas ne l'ayant
 pas croisée. J'aurais eu quelques questions à lui poser. J'ai aussi pu livrer
 mon opinion au blogueur du site
-[geekmaispastrop.com](http://www.geekmaispastrop.com/2009/05/1er-mai-deputes-et-geeks-menent-le-cortege-contre-hadopi/){hreflang="fr"}
+[geekmaispastrop.com](http://www.geekmaispastrop.com/2009/05/1er-mai-deputes-et-geeks-menent-le-cortege-contre-hadopi/)
 (j'adore ce nom, il me correspond bien :-) - je suis le dernier geek
 interrogé).
 
@@ -78,7 +78,7 @@ du manque à gagner dû au téléchargement illégal (il est interdit de tirer u
 revenu d'une activité illégale). Alors que le but de départ était d'inciter sa
 baisse, il avait pourtant été [difficile de stabiliser le montant de la taxe
 pour copie
-privée](http://www.numerama.com/magazine/12113-La-taxe-pour-copie-privee-de-nouveau-attaquee-au-Conseil-d-Etat.html){hreflang="fr"},
+privée](http://www.numerama.com/magazine/12113-La-taxe-pour-copie-privee-de-nouveau-attaquee-au-Conseil-d-Etat.html),
 et elle pourrait repartir à la hausse, ce qui est tout de même un comble ! La
 licence globale ne serait qu'une vache à lait pour les majors.
 
@@ -132,10 +132,10 @@ Le public tout d'abord. Il devrait respecter la loi, et ne pas télécharger
 illégalement. Et si le besoin culturel se fait sentir, alors puiser dans le
 vivier d'artistes qui proposent leurs oeuvres sous licence libre ou en libre
 diffusion. Un petit tour sur
-[jamendo.com](http://www.jamendo.com){hreflang="fr"} et
-[dogmazic.net](http://www.dogmazic.net){hreflang="fr"} permettent déjà de
+[jamendo.com](http://www.jamendo.com) et
+[dogmazic.net](http://www.dogmazic.net) permettent déjà de
 s'ouvrir à d'autres musique, et pour les nostalgiques de la musique
-commerciale, il vous reste [deezer.com](http://www.deezer.com/){hreflang="fr"}
+commerciale, il vous reste [deezer.com](http://www.deezer.com/)
 (même si flash çapu) vu que je ne pense pas que jiwa soit devenu légal.
 
 Les artistes ensuite. A eux de jouer le jeu, et diffuser une plus grande partie
@@ -157,9 +157,9 @@ téléchargement illégal, ils feraient mieux d'améliorer l'offre légale. Prop
 divers formats en plus des MP3 de qualité moyenne (dans le meilleur des cas) ou
 de fichier protégés par DRM (dans le pire des cas). Avoir du Ogg/Vorbis, voire
 même du FLAC leur permettrait de se mettre à niveau avec [les artistes qui ont
-tout compris](http://nin.com){hreflang="en"}. Pour ce qui est des distributeurs
+tout compris](http://nin.com). Pour ce qui est des distributeurs
 de cinéma, j'avais déjà testé la [pauvreté des catalogues VOD des fournisseurs
-d'accès](http://linuxfr.org//comments/1018678.html#1018678){hreflang="fr"}.
+d'accès](http://linuxfr.org//comments/1018678.html#1018678).
 Sans compter les tarifs prohibitifs pour une location dématérialisée...
 
 ## Conclusion

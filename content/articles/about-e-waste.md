@@ -19,7 +19,7 @@ There are plenty of examples of these poisonous devices. For example, the
 chemicals](http://www.greenpeace.org/international/news/iPhone-test-hazardous-toxic-chemicals151007),
 according to greenpeace. They also give an [ecologic ranking of world
 electronics
-leaders](http://www.greenpeace.org/international/campaigns/toxics/electronics/how-the-companies-line-up){hreflang="en"},
+leaders](http://www.greenpeace.org/international/campaigns/toxics/electronics/how-the-companies-line-up),
 based on their lack of hazardous substances and takeback and recycle of their
 products.
 
@@ -48,4 +48,4 @@ this ? Is it really worthwhile ?***
 Plenty of [these children](http://en.wikipedia.org/wiki/Guiyu) will thank you.
 
 **Update:** [Arstechnica has doubts on this
-study](http://arstechnica.com/news.ars/post/20071127-greenpeaces-green-electronics-guide-undermined-by-minimal-research-effort.html){hreflang="en"}.
+study](http://arstechnica.com/news.ars/post/20071127-greenpeaces-green-electronics-guide-undermined-by-minimal-research-effort.html).

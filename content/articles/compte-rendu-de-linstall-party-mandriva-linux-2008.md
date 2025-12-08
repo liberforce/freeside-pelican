@@ -14,11 +14,11 @@ mon goût :-(
 
 Bon, il y a tout de même des points positifs, notamment le fait que j'ai pu
 voir une bonne partie de l'équipe de Mandriva. L'équipe technique était venue
-en force : [Frédéric Crozat](http://twinpeaks.dyndns.org/blog/){hreflang="fr"},
-[Pascal Terjan](http://fasmz.org/%7Epterjan/){hreflang="fr"} et [Olivier
-Blin](http://blino.org/){hreflang="fr"} ont fait le déplacement. Ce qui m'a
+en force : [Frédéric Crozat](http://twinpeaks.dyndns.org/blog/),
+[Pascal Terjan](http://fasmz.org/%7Epterjan/) et [Olivier
+Blin](http://blino.org/) ont fait le déplacement. Ce qui m'a
 permis d'avoir Fred pour 25 minutes de direct sur [Radio ici et
-Maintenant](http://icietmaintenant.info/){hreflang="fr"}. J'étais assez content
+Maintenant](http://icietmaintenant.info/). J'étais assez content
 que le direct que soit bien passé, et Fred a trouvé les questions assez
 intéressantes et bien choisies. Si quelqu'un a enregistré le passage, prévenez
 moi ;-)
@@ -32,7 +32,7 @@ One: plantage immédiat. La bonne blague. Au bout de moment, je me rends compte
 que ce n'est pas un lecteur de CD externe USB, mais firewire. Et là c'est le
 drame : c'est une régression connue qui affecte la Mandriva 2007.1 et 2008.0.
 [Impossible de démarrer sur un périphérique
-firewire](http://qa.mandriva.com/show_bug.cgi?id=31356){hreflang="fr"}.
+firewire](http://qa.mandriva.com/show_bug.cgi?id=31356).
 
 Après mes passages radiophoniques de 14H et 15H50, j'ai un dual boot à
 préparer. Comme ça fait longtemps, je suis un peu rouillé, mais ça devrait pas
@@ -42,8 +42,8 @@ le disque dur... C'est parti pour 45 minutes d'attente. Une fois la
 défragmentation finie, je ne suis pas chaud pour redimensionner les partitions
 avec une One, car il a 440Mo de RAM, et le démarrage du live CD est assez lent.
 Je redimensionne les partitions avec
-[GParted](http://gparted.sourceforge.net/){hreflang="en"}, à partir d'un
-[System Rescue CD](http://www.sysresccd.org/Page_Principale){hreflang="fr"},
+[GParted](http://gparted.sourceforge.net/), à partir d'un
+[System Rescue CD](http://www.sysresccd.org/Page_Principale),
 plus rapide. Tout se passe bien.
 
 Sauf que l'install party est terminée et que dans l'état actuel, je ne suis pas

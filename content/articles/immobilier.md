@@ -11,7 +11,7 @@ status: "published"
 Et oui, j'ai un compromis de vente à récupérer chez un agent immobilier. Vous
 voyez un peu les commerciaux ? Bin les agents immobiliers, c'est la même race,
 mais en pire... Celui qui a décroché le ponpon m'a sorti les superbes
-[fortunes](http://fr.wikipedia.org/wiki/Fortune_%28programme%29){hreflang="fr"}
+[fortunes](http://fr.wikipedia.org/wiki/Fortune_%28programme%29)
 suivantes:
 
 > Je dors 4 heures et demi par nuit, le reste c'est mon travail.
@@ -22,7 +22,7 @@ Le même:
 
 ...alors que j'avais déjà fait une pré-étude de ma capacité de financement avec
 mon banquier pour m'endetter sur 17 ans 1/2 ([ma
-banque](http://www.labanquepostale.fr/){hreflang="fr"} ne propose de toute
+banque](http://www.labanquepostale.fr/) ne propose de toute
 façon pas de prêts à plus de 25 ans). Et avec la situation incertaine de
 l'immobilier, s'endetter sur de si longues durées, c'est assez risqué.
 
@@ -37,7 +37,7 @@ pourquoi, sentant qu'il y avait eu un truc bizarre. Il en a eu pour son argent.
 
 Donc j'ai fini par visiter un appartement intéressant samedi dernier, un 42m²
 en duplex à [Choisy le
-Roi](http://fr.wikipedia.org/wiki/Choisy_le_Roi){hreflang="fr"}, et le nouvel
+Roi](http://fr.wikipedia.org/wiki/Choisy_le_Roi), et le nouvel
 agent, un peu plus correct, essaie quand même d'aller vite. Résultat: on me
 demande encore de signer un compromis de vente dans des conditions qui ne me
 conviennent pas. En gros tu viens, on te lit le truc tu signes et tu te casses.

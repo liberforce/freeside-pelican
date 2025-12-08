@@ -15,12 +15,12 @@ pas. Quand j'aurai besoin qu'on me descende mes poubelles, c'est à toi que je
 penserai.
 
 En effet, le 24 novembre, quand je serai à la [Cité des Sciences et de
-l'industrie](http://fr.wikipedia.org/wiki/Cit%C3%A9_des_sciences_et_de_l%27industrie){hreflang="fr"}
+l'industrie](http://fr.wikipedia.org/wiki/Cit%C3%A9_des_sciences_et_de_l%27industrie)
 pour l'[install party Mandriva Linux
-2008](http://wiki.mandriva.com/fr/Install_Party_2008){hreflang="fr"}, je
+2008](http://wiki.mandriva.com/fr/Install_Party_2008), je
 pourrais bien passer sur [radio ici et
-maintenant](http://icietmaintenant.com/){hreflang="fr"} dans l'émission
-[*Hot-line*](http://icietmaintenant.info/emissions.php?idNouvelle=8){hreflang="fr"}.
+maintenant](http://icietmaintenant.com/) dans l'émission
+[*Hot-line*](http://icietmaintenant.info/emissions.php?idNouvelle=8).
 Cette émission, diffusée chaque dimanche de 14H à 16H permet aux utilisateurs
 d'appeler pour avoir un coup de main dans la résolution de leurs problèmes liés
 à l'informatique. Je suis tombé par hasard dessus dimanche dernier, et voyant
@@ -31,7 +31,7 @@ aussi.
 J'ai alors compris ce que devaient ressentir les techniciens de hotline, et
 j'ai béni le ciel de m'avoir épargné ce sombre destin. Celui de tomber sur des
 gens qui sont sous Linux, qui veulent développer leur site web sans savoir ce
-qu'est le [FTP](http://fr.wikipedia.org/wiki/Ftp){hreflang="fr"}, et à qui
+qu'est le [FTP](http://fr.wikipedia.org/wiki/Ftp), et à qui
 quand on pose la question "quelle est votre fournisseur d'accès internet"
 répondent "Mandriva"... Je vous admire messieurs (et mesdames) les hotliners.
 Autre exemple: ce monsieur qui hésite à installer Mandriva Linux. Il a Windows
@@ -53,10 +53,10 @@ ce qui se passe.
 Si vous voulez être de la fête, vous pouvez :
 
 - [vous inscrire sur
-  parinux.org](http://www.parinux.org/events/install-party-mandriva-linux-2008){hreflang="fr"}
+  parinux.org](http://www.parinux.org/events/install-party-mandriva-linux-2008)
 et venir à l'install party
 - allumer votre radio sur 95.2 FM à 14H et écouter l'émission
-  [*Hot-line*](http://icietmaintenant.info/emissions.php?idNouvelle=8){hreflang="fr"}
+  [*Hot-line*](http://icietmaintenant.info/emissions.php?idNouvelle=8)
 - aller sur le site de [radio ici et
-  maintenant](http://icietmaintenant.com/){hreflang="fr"} et écouter l'émission
+  maintenant](http://icietmaintenant.com/) et écouter l'émission
 en streaming

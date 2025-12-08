@@ -9,7 +9,7 @@ lang: "fr"
 status: "published"
 ---
 Suite à mes nombreux [problèmes de redirection
-d'email](/post/2007/01/11/Fed-up-with-ulimitcom){hreflang="en"},
+d'email](/post/2007/01/11/Fed-up-with-ulimitcom),
 [vuntz](http://www.vuntz.net/) m'a conseillé de me prendre un nom de domaine
 chez [gandi.net](http://www.gandi.net/) pour 15€ par an. Moi qui ai toujours
 réussi à tout avoir gratos, vais-je tomber dans la facilité. Eh bien il semble

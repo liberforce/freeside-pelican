@@ -11,8 +11,8 @@ status: "published"
 # Learning from the past
 
 Yesterday an old (1.5 year) blog entry of [Ryan Lortie on cpu and battery
-consumption](http://blogs.gnome.org/desrt/2006/07/27/burning-cpu-and-battery-on-the-gnome-desktop/){hreflang="en"}
-came to my mind. He tested some [GNOME](http://www.gnome.org){hreflang="en"}
+consumption](http://blogs.gnome.org/desrt/2006/07/27/burning-cpu-and-battery-on-the-gnome-desktop/)
+came to my mind. He tested some [GNOME](http://www.gnome.org)
 applications and saw that some of them caused way too many kernel wakeups,
 which prevents the CPU from entering in low consumption states. So, as just by
 curiosity (ang ecological concerns), I wanted to see if there's some
@@ -72,7 +72,7 @@ around.~~
 **Update:** The previous numbers were wrong it seems (weird, I had tested it
 twice, but the numbers I get now are completely different). The problems
 reported by Ryan have already been
-[corrected](http://bugzilla.gnome.org/show_bug.cgi?id=363436){hreflang="en"}.
+[corrected](http://bugzilla.gnome.org/show_bug.cgi?id=363436).
 
 ## gnome-panel
 
@@ -133,8 +133,8 @@ nan    0.000000           0         1           f
 
 ~~Waaaay too many calls. We here have 4 poll calls/second. The blinking cursor
 may be a cause (I'm aware a patch for this was made for
-[OLPC](http://laptop.org){hreflang="en"}). I also know
-[Behdad](http://mces.blogspot.com/){hreflang="en"} once committed a patch
+[OLPC](http://laptop.org)). I also know
+[Behdad](http://mces.blogspot.com/) once committed a patch
 adding a timer to prevent gnome-terminal from trying to refresh too many times
 the screen. The goal was to accelerate the display of information. Don't know
 if the extra calls are related to this, however.~~
@@ -155,7 +155,7 @@ Another one like this and I jump out of the window.
 ## mixer_applet2
 
 The mixer applet is one of the worst offenders! This is a [known
-bug](http://bugzilla.gnome.org/show_bug.cgi?id=370937){hreflang="en"} which is
+bug](http://bugzilla.gnome.org/show_bug.cgi?id=370937) which is
 being worked on. Hope to see this included in GNOME 2.22.
 
 `% time     seconds  usecs/call     calls    errors syscall` `------
@@ -223,6 +223,6 @@ find more culprits. I think I'll update them on each GNOME Release, so we can
 see if the plan to conquer the world with power-friendly software works out.
 Just as a remark, developers who use timers at the second scale should consider
 using the
-[g_timeout_add_seconds](http://library.gnome.org/devel/glib/stable/glib-The-Main-Event-Loop.html#g-timeout-add-seconds){hreflang="en"}
+[g_timeout_add_seconds](http://library.gnome.org/devel/glib/stable/glib-The-Main-Event-Loop.html#g-timeout-add-seconds)
 call that was added in glib 2.14, as it allows to group processing of wakeup
 requests. So if your application can depend on glib 2.14, go for it.

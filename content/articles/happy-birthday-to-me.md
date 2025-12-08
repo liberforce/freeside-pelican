@@ -31,7 +31,7 @@ Joignons donc la preuve par l'image, avec une année d'échecs capillaires,
 occasion d'un petit pot pourri d'une année de photos de moi. Et oui, je n'en ai
 pas des masses (logique, c'est moi le photographe d'habitude) mais bon, un
 anniversaire, ce n'est qu'une fois l'an (merci [La
-Palice](http://fr.wikipedia.org/wiki/Lapalissade){hreflang="fr"}) alors je me
+Palice](http://fr.wikipedia.org/wiki/Lapalissade)) alors je me
 permets un petit défilé. Fut une époque, je n'aimais pas me voir en photo, ou
 me laisser prendre en photo, et puis je me suis rendu compte qu'à ce train là,
 le grand album de la vie resterait vide.
@@ -85,7 +85,7 @@ va dire que le public m'a arraché mes vêtements :-p*
 
 *Juillet 2008 : vacances en Turquie (oui [Fred](http://blog.crozat.net/), je
 vais finir par les lâcher, les photos du
-[GUADEC](http://www.guadec.org){hreflang="en"}, promis ;-) ). Notez que des
+[GUADEC](http://www.guadec.org), promis ;-) ). Notez que des
 cheveux sont tombés au passage...\*
 
 [![]({static}/images/people/luis/.200811_m.jpg "200811.jpg, nov

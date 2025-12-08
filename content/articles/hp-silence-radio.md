@@ -36,7 +36,7 @@ que je ne vois pas pourquoi on me contacterait pour un dossier clos...
 
 J'ai donc contacté cette fois ci le service réclamations, comme me l'avait
 indiqué le hotliner, par le biais du [formulaire de réclamation du site
-HP](http://h41087.www4.hp.com/aide/ecrire_reclamations.html){hreflang="fr"}.,
+HP](http://h41087.www4.hp.com/aide/ecrire_reclamations.html).,
 en rappelant mon n° de dossier fraîchement créé/fermé.
 
 > N° de dossier: 1602863558 Bonjour, j'ai fait l'acquisition il y a quelques
@@ -59,7 +59,7 @@ priorité par mail, afin d'avoir des traces écrites.
 **Mise à jour:**
 
 J'ai vérifié sur le site de [suivi d'envois de la
-poste](http://www.csuivi.courrier.laposte.fr/){hreflang="fr"} que mon
+poste](http://www.csuivi.courrier.laposte.fr/) que mon
 recommandé avait bien été reçu, même si je n'ai pas reçu l'avis de réception.
 Mais j'en ai profité pour renvoyer un fax au service réclamation avec ma
 demande de remboursement, la facture, l'avis d'expédition du recommandé et

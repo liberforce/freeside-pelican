@@ -33,7 +33,7 @@ available]({static}/images/mandriva/migration_2009.0/Capture-Une_nouvelle_distri
 
 Note : I really hate Yes/No dialogs. Pretty please, Mr. Developer, [use actions
 verbs on your buttons instead of
-Yes/No](http://library.gnome.org/devel/hig-book/stable/controls-buttons.html.en){hreflang="en"}
+Yes/No](http://library.gnome.org/devel/hig-book/stable/controls-buttons.html.en)
 (with button icons would be even better) ! I the accepted the upgrade, and the
 new media sources were downloaded and updated. Using the Aria IP geolocation,
 the Free (french provider) mirrors were selected, and the upgrade process
@@ -99,7 +99,7 @@ change).
 Following the given advice, I rebooted, and started thinking that a "Close"
 button would have been better than the "Ok" one (yep. I find that even if a bit
 outdated, the
-[HIG](http://library.gnome.org/devel/hig-book/stable/){hreflang="en"} are still
+[HIG](http://library.gnome.org/devel/hig-book/stable/) are still
 great).
 
 Once my session opened, the update applet still tells that I can migrate to
@@ -134,7 +134,7 @@ oct 2008")
 
 - The upgrade didn't happen flawlessly.
 - Mandriva really needs to take into account the basics of the
-  [HIG](http://library.gnome.org/devel/hig-book/stable/){hreflang="en"} for
+  [HIG](http://library.gnome.org/devel/hig-book/stable/) for
 every new dialog they create.
 - When there's a md5sum error on an hdlist file on a mirror, aria doesn't
   automatically try to use another mirror.

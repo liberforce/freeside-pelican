@@ -15,7 +15,7 @@ I'm currently writing an application that has two backends.
 
 As I want to switch between these 2 backends transparently, I thought of using
 two implementations of a [custom
-GSource](http://library.gnome.org/devel/glib/2.10/glib-The-Main-Event-Loop.html#id3126598){hreflang="en"}.
+GSource](http://library.gnome.org/devel/glib/2.10/glib-The-Main-Event-Loop.html#id3126598).
 It seemed to be what I need: a way to send and react to asynchonous events. In
 my case, I want to notify the application that the images are in the memory,
 and ready to be processed.
@@ -25,11 +25,11 @@ documentation a bit obscure to people unfamiliar with the arcanes of the glib
 main loop. The timeout and idle sources don't give me enough information. The
 other examples use polling of file descriptors, but I have nothing to poll
 here. I've even checked out [The Official GNOME 2 Developper's
-Guide](http://nostarch.com/frameset.php?startat=gnome){hreflang="en"}, but no
+Guide](http://nostarch.com/frameset.php?startat=gnome), but no
 GSource there. I had [not much
-result](http://mail.gnome.org/archives/gtk-app-devel-list/2008-February/msg00050.html){hreflang="en"}
+result](http://mail.gnome.org/archives/gtk-app-devel-list/2008-February/msg00050.html)
 in the gtk-apps-devel mailing list, nor the [french GTK
-forums](http://forum.gtk-fr.org/viewtopic.php?id=4529){hreflang="fr"}.
+forums](http://forum.gtk-fr.org/viewtopic.php?id=4529).
 
 I'm at the point where I'm not even sure that GSource meets my needs, but I
 wanted to avoid as much as possible exposing the acquisition backend. There

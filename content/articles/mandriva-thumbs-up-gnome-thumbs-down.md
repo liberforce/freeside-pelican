@@ -11,19 +11,19 @@ status: "published"
 Mandriva 2009 Spring has been out for a few days now. Congratulations to
 everyone involved ! I did my upgrade this week end, all in graphical mode with
 `mdkapplet`. I had [some bad
-luck](https://qa.mandriva.com/show_bug.cgi?id=50557){hreflang="en"}, which was
+luck](https://qa.mandriva.com/show_bug.cgi?id=50557), which was
 fortunately quickly repaired. What you need to know is that using a 23MB /boot
 partition is a bad idea, it's way too small if you keep a few kernels around.
 Once things were sorted out, I could enjoy the gorgeous design (Yay for that
 [tribal-penguin
-wallpaper](http://linuxbidouille.com/2009/03/07/theme-mandriva-20091/){hreflang="fr"}
+wallpaper](http://linuxbidouille.com/2009/03/07/theme-mandriva-20091/)
 !), and everything went fine.
 
 The new GNOME mixer replaced the old one automagically, and It works great. The
 only problem I have with it is that it's a notification icon and not an applet
 anymore. I hope this will change : [**notification area is not made for
 permanent
-things**](http://library.gnome.org/devel/hig-book/stable/desktop-notification-area.html.en){hreflang="en"}.
+things**](http://library.gnome.org/devel/hig-book/stable/desktop-notification-area.html.en).
 And I now am unable to have the mixer react to a scroll button action if I put
 it in the corner of the screen and move my mouse at it. Fitt's law failure.
 Being able to change the volume without the need to power on my screen was a
@@ -32,7 +32,7 @@ feature I liked.
 Another sad news for GNOME is the choice of Mandriva to stick to navigational
 nautilus by default instead of GNOME default's spatial nautilus. I like spatial
 nautilus. Yep. But what sucks is that it was made the defaut, but a [major
-defect](http://bugzilla.gnome.org/show_bug.cgi?id=350474#c1){hreflang="en"} was
+defect](http://bugzilla.gnome.org/show_bug.cgi?id=350474#c1) was
 never corrected : left an middle click comportment in opening a new folder
 should have been inverted. This would have helped remove this bad reputation of
 "Windows 95"-like mode which does nothing except open a lot of windows. Having
@@ -46,7 +46,7 @@ especially on those netbooks like the first Acer Aspire One with one button on
 each side of the touchpad...
 
 One good thing however is the new description for the session manager: I
-totally agreed with [vuntz](http://www.vuntz.net/){hreflang="en"} when he told
+totally agreed with [vuntz](http://www.vuntz.net/) when he told
 me that normal people don't know what a session is. I still remember the first
 time, being a bit lost and unable to guess what that stuff was supposed to do
 from its name in the menus.

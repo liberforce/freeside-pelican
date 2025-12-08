@@ -19,7 +19,7 @@ en a pas vraiment qui soient aussi plaisant ni aboutis (ni simples,
 d'ailleurs).
 
 Ensuite, toujours mes [problèmes de redirection
-mail](/post/2007/01/11/Fed-up-with-ulimitcom){hreflang="en"}, dûs à ulimit.com,
+mail](/post/2007/01/11/Fed-up-with-ulimitcom), dûs à ulimit.com,
 ce qui fait que je n'ai reçu aucune des réponses à [mes
 questions](http://mail.gnome.org/archives/gnome-love/2007-May/msg00028.html)...
 Je n'ai reçu aucun des mails envoyé sur cette adresse pendant 12 jours ! Bon,

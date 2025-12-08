@@ -18,7 +18,7 @@ un maximum profit de cet engin, notamment :
 - l'affichage des couvertures d'album
 - la conversion de vidéos lisibles par le Meizu avec gstreamer, afin de
   déterminer un profil qui pourra être intégré à
-[Transmageddon](http://www.linuxrising.org/transmageddon/){hreflang="en"}
+[Transmageddon](http://www.linuxrising.org/transmageddon/)
 - comment régler les stations de radio avec un fichier externe
 - l'utilisation de sous titres externes au format srt pour les vidéos
 - l'affichage des paroles de chansons

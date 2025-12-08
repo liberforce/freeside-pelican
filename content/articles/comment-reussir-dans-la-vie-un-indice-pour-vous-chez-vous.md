@@ -9,4 +9,4 @@ lang: "fr"
 status: "published"
 ---
 [Le petit Jean S. est attendu par son
-papa.](http://www.arretsurimages.net/vite.php?id=864){hreflang="fr"}
+papa.](http://www.arretsurimages.net/vite.php?id=864)

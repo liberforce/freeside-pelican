@@ -23,7 +23,7 @@ pas d'algues, une plage superbe, et puis la pêche des
 nous ont fait le repas du soir, miam.
 
 J'ai aussi pu regarder, [en bon fan du Concours Eurovision de la
-chanson](/post/2007/05/16/Vivement-lelargissement-extra-europeen){hreflang="fr"}
+chanson](/post/2007/05/16/Vivement-lelargissement-extra-europeen)
 depuis la victoire du finlandais Lordi en 2006, le [Concours Eurovision de
 Danse](http://en.wikipedia.org/wiki/Eurovision_Dance_Contest_2007). Vous ne
 connaissez pas ? C'est normal, c'était la première édition, et le Portugal a

@@ -9,11 +9,11 @@ lang: "fr"
 status: "published"
 ---
 Cet article de [France
-Matin](http://www.francematin.info/L-Assemblee-Nationale-sous-pavillon-sud-africain-la-crise_a13973.html){hreflang="fr"}
+Matin](http://www.francematin.info/L-Assemblee-Nationale-sous-pavillon-sud-africain-la-crise_a13973.html)
 de mercredi, dans la même veine que celui du
-[Point](http://www.lepoint.fr/content/point_semaine/article?id=192073){hreflang="fr"},
+[Point](http://www.lepoint.fr/content/point_semaine/article?id=192073),
 relaie la désinformation qui règne sur le passage du parlement français à
-[Ubuntu Linux](http://fr.wikipedia.org/wiki/Ubuntu_Linux){hreflang="fr"}. Je ne
+[Ubuntu Linux](http://fr.wikipedia.org/wiki/Ubuntu_Linux). Je ne
 suis pourtant pas un fervent admirateur d'Ubuntu, mais je ne pouvais pas
 laisser passer ça.
 
@@ -23,7 +23,7 @@ Voici donc quelques perles (Le Point):
 > 2002, vient de faire machine arrière.
 
 Malheureusement, des [milieux mieux
-informés](http://linuxfr.org//comments/858936.html#858936){hreflang="fr"} sur
+informés](http://linuxfr.org//comments/858936.html#858936) sur
 la question ont noté que Le Parlement allemand avait juste brandi la menace
 Linux pour que Microsoft fournisse les sources de Windows NT. Comme Microsoft a
 cédé, le parlement allemand n'a tout simplement pas migré vers Linux (et a donc
@@ -40,7 +40,7 @@ A ce stade, on se dit qu'ils auraient pu se renseigner. Mais il y a encore pire
 Là on est à la limite de la diffamation ! Je pense que nombreux sont ceux qui
 parmi vous savent que Mark Shuttleworth s'est enrichi en vendant sa société de
 certificats électroniques
-([Thawte](http://fr.wikipedia.org/wiki/Thawte){hreflang="fr"}) à Verisign. Je
+([Thawte](http://fr.wikipedia.org/wiki/Thawte)) à Verisign. Je
 n'ai jamais vu nulle part d'indice parlant d'autre chose de moins reluisant, et
 là on parle de rumeur et d'aucune source... Elle a bon dos la rumeur.
 
@@ -67,12 +67,12 @@ aurait été similaire.
 
 Ajoutez à celà la visibilité qu'a Linux à la télévision française ([Linux dans
 l'émission de Laurent
-Ruquier](http://youtube.com/watch?v=JMI-UxzSUec){hreflang="fr"}) et vous
+Ruquier](http://youtube.com/watch?v=JMI-UxzSUec)) et vous
 comprendrez que le chemin est encore long pour ceux qui veulent changer les
 mentalités... Je me rappelle encore [à la sortie de Windows Vista, la RTBF
-parlait de Linux](http://youtube.com/watch?v=ws4JJ2Z9eaQ){hreflang="fr"}, alors
+parlait de Linux](http://youtube.com/watch?v=ws4JJ2Z9eaQ), alors
 qu'en France, [Bill Gates était invité au journal de
-20H](/post/2007/02/07/Bill-Gates-au-20H-de-PPDA){hreflang="fr"}
+20H](/post/2007/02/07/Bill-Gates-au-20H-de-PPDA)
 
 **EDIT:**L'article du Point est effectivement bien antérieur à celui de France
 Matin, merci à Gnunux pour sa remarque.

@@ -13,7 +13,7 @@ j'ai signé le compromis de vente de l'achat de mon appartement. Surtout les
 petites lignes qu'on se demande si on les a vraiment lues avant de signer...
 J'ai pu me rendre compte (trop tard) que j'ai effectivement signé une [clause
 de non garantie des vices
-cachés](http://www.paruvendu.fr/I/Immobilier-ancien-les-recours-en-cas-de-vices-caches){hreflang="fr"}.
+cachés](http://www.paruvendu.fr/I/Immobilier-ancien-les-recours-en-cas-de-vices-caches).
 Et en plus, c'est légal. J'espère donc que beau papa se fait du souci à tort en
 se demandant si le plancher n'est pas pourri.
 

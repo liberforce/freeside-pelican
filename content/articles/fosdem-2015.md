@@ -52,5 +52,5 @@ fév. 2015"){style="margin: 0 auto; display: block;"}
 
 N'hésitez pas à venir nous voir sur notre stand, jusqu'à ce soir, ou bien aux
 prochains événements de l'année, sans doute [Solution
-Linux](http://www.solutionslinux.fr/){hreflang="fr"} les 19 et 20 mai à
+Linux](http://www.solutionslinux.fr/) les 19 et 20 mai à
 Paris-La Défense !

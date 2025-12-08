@@ -104,7 +104,7 @@ d'exercer leurs facultés de travail colaboratif, et de centraliser
 l'information. Et oui, dans mon immeuble, ils ont inventé le wiki avec
 plusieurs années d'avance. De même, j'arrive à déduire qu'ils ont une culture
 télévisuelle assez étendue. Ce sont des fans du "[Juste
-Prix](http://fr.wikipedia.org/wiki/Le_Juste_Prix){hreflang="fr"}" avec Philippe
+Prix](http://fr.wikipedia.org/wiki/Le_Juste_Prix)" avec Philippe
 Risoli. Ils ont même reproduit le fameux "jeu du coup de poing" avec le faux
 plafond du hall. Mais pas de chance, il n'y avait pas de petit papier derrière
 les trous faisant gagner 50 000F. C'est sûr, c'est bien plus joli avec tous ces
@@ -126,7 +126,7 @@ skyblogs, j'arriverai bien à avoir des nouvelles...
 La rue de devant donne sur une rue en sens unique peu passante. L'arrière donne
 sur des jardins. Pas de voisins au dessus. On est pas très loin d'Orly, mais on
 entend quasiment pas d'avions. Un grand parc à 5 minutes. La gare à 10 minutes.
-Le [TVM](http://fr.wikipedia.org/wiki/Trans-Val-de-Marne){hreflang="fr"} à 5
+Le [TVM](http://fr.wikipedia.org/wiki/Trans-Val-de-Marne) à 5
 minutes. Bien sûr je vais devoir reprendre les transports, mais bon, ça me fera
 une excuse pour m'acheter un netbook :-) . Je passerai de 30 minutes à 1H30 de
 transports par jour, mais je serai plus écolo, prenant les transports en commun
@@ -148,4 +148,4 @@ Modéré"
 écoles qu'eux, je suis fils d'immigré, et j'habitais (et j'habite encore pour
 au moins un mois) la même cage à poule. Sauf que moi à l'école, j'écoutais. Et
 pis pour les incultes pourris du slip, le sage, c'est
-[Titeuf](http://fr.wikipedia.org/wiki/Titeuf){hreflang="fr"} ;-)*
+[Titeuf](http://fr.wikipedia.org/wiki/Titeuf) ;-)*

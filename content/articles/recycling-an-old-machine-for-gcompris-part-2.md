@@ -9,7 +9,7 @@ lang: "en"
 status: "published"
 ---
 For those who don't know what I'm talking about, here is [part
-1](/post/2007/01/09/Recycling-an-old-machine-for-gcompris-part-1){hreflang="en"}.
+1](/post/2007/01/09/Recycling-an-old-machine-for-gcompris-part-1).
 
 Well, after numerous badblocks attempts, I've seem that badblocks was tricking
 me. I first thought that some block of the hard disk were dead. But in fact, it

@@ -33,7 +33,7 @@ très bruyant. C'est aussi pour ça que je compte refaire le sol. C'était déj�
 bruyant avec une seule personne dedans, alors à deux (courant derrière le chat,
 qui plus est) ! Quel intérêt d'avoir son chez soi si on a peur d'inviter de
 gens, parce que ça pourrait déranger ? Et puis vu [mes voisins
-actuels](/post/2008/10/11/Proprietaire-Enfin){hreflang="fr"}, je ne veux faire
+actuels](/post/2008/10/11/Proprietaire-Enfin), je ne veux faire
 subir cela à personne. Donc on va refaire l'isolation phonique, comme il faut,
 pour être tranquilles. En plus les voisins n'habitent apparemment les lieux que
 6 mois par an, donc il y a au moins une moitié de l'année où on pourra faire la
@@ -50,7 +50,7 @@ surélevé de 3 centimètres ! En fait cela se voit au niveau du seuil de la por
 et sur toutes les portes du reste, puisque le bas des portes a été scié.
 
 Au passage, j'ai découvert l'excellent
-[SweetHome3d](http://sweethome3d.sourceforge.net/fr/){hreflang="fr"} il y a
+[SweetHome3d](http://sweethome3d.sourceforge.net/fr/) il y a
 quelques mois, pour pouvoir prévoir un peu l'aménagement futur. J'étais assez
 content de trouver ce genre de logiciels sous Linux. Cela me permet donc de
 vous offrir cette vue approximative (tout n'est pas en place dans la cuisine)

@@ -10,7 +10,7 @@ status: "published"
 ---
 The evening started normally. I just wanted to play a bit on the computer,
 which I rarely do nowadays. And [Battle for
-Wesnoth](http://wesnoth.org){hreflang="en"} is the game I choose in these
+Wesnoth](http://wesnoth.org) is the game I choose in these
 moments. I then fired up the multiplayer game, which I had never tried before,
 and was greeted with a message telling me that my 1.6 version of wesnoth was
 outdated, and that 1.8 was the recommended version. « Ok », I thought, « so
@@ -26,7 +26,7 @@ the minimum required to package my own apps in my previous job, but it was
 enough to make this actually work.
 
 So here is the result : my [Battle for Wesnoth 1.8
-specfile]({static}/images/mandriva/packaging/wesnoth.spec){hreflang="en"} and
+specfile]({static}/images/mandriva/packaging/wesnoth.spec) and
 the associate [Wesnoth 1.8 binary for Mandriva
 2010.0-i586](http://dl.free.fr/visJfVLc1) (257 MB). If you want to keep your
 old games around, just `cp -a ~/.wesnoth1.6 ~/.wesnoth1.8`

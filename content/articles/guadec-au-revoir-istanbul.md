@@ -12,7 +12,7 @@ Hé bien, ces dernıers jours ont fılé comme le vent ! Moı quı voulais faır
 poınt régulıer... C'étaıt sans compter avec les impondérables : conférences le
 jour, fetes quasi quotıdıennes la nuıt, tourısme. La semaıne a laıssé des
 traces sur l'organısme ! Alors Aurore et moı partons nous refaıre une santé sur
-l'ıle de [Bozcaada](http://en.wikipedia.org/wiki/Bozcaada){hreflang="en"}
+l'ıle de [Bozcaada](http://en.wikipedia.org/wiki/Bozcaada)
 pendant quelques jours.
 
 Sur une poınt technıque, les conférences étaıent assez ınégales. Pas mal de

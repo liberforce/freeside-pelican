@@ -38,7 +38,7 @@ un article bon sang! C'est ce qui manque clairement sur over-blog. J'écris
 souvent des articles à la frontière de deux sujets, et j'avoue que c'est la
 fonctionnalité manquante la plus frustrante. Impossible sur un article comme
 "[Recycling and the art of
-BadRAM](/post/2007/01/10/Recycling-and-the-art-of-BadRAM){hreflang="en"}" de
+BadRAM](/post/2007/01/10/Recycling-and-the-art-of-BadRAM)" de
 taguer l'article sous la forme "informatique + écologie", alors que le
 recyclage d'un ordinateur concerne les deux domaines.
 

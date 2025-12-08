@@ -12,7 +12,7 @@ Il semble qu'une nouvelle fois l'Internet a tremblé, mardi dernier lors d'une
 [nouvelle attaque des serveurs DNS
 racine](http://www.generation-nt.com/actualites/24013/sophos-zombie-internet-ddos/).
 Cette attaque n'est pas la première, [comme je l'ai déjà
-expliqué](/post/2007/01/12/La-fin-de-lInternet){hreflang="fr"}.
+expliqué](/post/2007/01/12/La-fin-de-lInternet).
 
 Le problème c'est que vous y avez peut être contribué. Il faut pour cela
 remplir quelques conditions:

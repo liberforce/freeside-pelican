@@ -9,10 +9,10 @@ lang: "en"
 status: "published"
 ---
 Here's an insightful [vision of the current Linux distro's
-market](http://blogs.gnome.org/bolsh/2008/04/21/red-hat-novell-canonical-and-the-free-software-desktop){hreflang="en"},
-from [Dave Neary](http://blogs.gnome.org/bolsh){hreflang="en"}, former member
+market](http://blogs.gnome.org/bolsh/2008/04/21/red-hat-novell-canonical-and-the-free-software-desktop),
+from [Dave Neary](http://blogs.gnome.org/bolsh), former member
 of the [GNOME foundation
-board](http://foundation.gnome.org/about/){hreflang="en"}.
+board](http://foundation.gnome.org/about/).
 
 > I don’t want to pick on Mandriva, but it’s true that right now they’re aiming
 > for the general consumer, the enterprise desktop **and** the enterprise
@@ -24,5 +24,5 @@ consumer market, the short/mid/long-term strategy is still unclear...
 
 PS: I also noticed that the free (as in beer) mention about Mandriva One
 disapeared from the [french download
-page](http://www.mandriva.com/fr){hreflang="fr"}... I'm pretty sure it was
+page](http://www.mandriva.com/fr)... I'm pretty sure it was
 there before...

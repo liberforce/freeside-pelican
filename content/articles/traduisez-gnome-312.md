@@ -16,5 +16,5 @@ vous débutez, venez quand même, nous serons là pour vous mettre le pied à
 l'étrier et vous expliquer les mystères des [traducteurs de
 l'ombre](https://l10n.gnome.org/teams/fr/) :-).Pour l'adresse et les détails,
 direction la page du [Translathon
-2014](https://wiki.gnome.org/Hackfests/LeTranslathon2014){hreflang="en"} du
+2014](https://wiki.gnome.org/Hackfests/LeTranslathon2014) du
 wiki GNOME.

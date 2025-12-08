@@ -20,16 +20,16 @@ Linux at its best (200X.1 releases seem to be better at Mandriva).
 Everything you should know about it is here:
 
 - [Mandriva Linux 2008.1
-  Tour](http://wiki.mandriva.com/en/2008.1_Tour){hreflang="fr"}
+  Tour](http://wiki.mandriva.com/en/2008.1_Tour)
 - [Mandriva Linux 2008.1 Release
-  Notes](http://wiki.mandriva.com/en/2008.1_Notes){hreflang="en"}
+  Notes](http://wiki.mandriva.com/en/2008.1_Notes)
 - [Mandriva Linux 2008.1
-  Errata](http://wiki.mandriva.com/en/2008.1_Errata){hreflang="fr"}
+  Errata](http://wiki.mandriva.com/en/2008.1_Errata)
 - [Mandriva Linux 2008.1 Reviewers
-  Guide](http://wiki.mandriva.com/en/2008.1_Reviewers_Guide){hreflang="fr"}
+  Guide](http://wiki.mandriva.com/en/2008.1_Reviewers_Guide)
 
 And the most important : the link to [download Mandriva
 Linux](http://torrent.mandriva.com{static}/images/) with your prefered
 bittorrent client
-([Transmission](http://www.transmissionbt.com/){hreflang="en"} in my case).
+([Transmission](http://www.transmissionbt.com/) in my case).
 Many thanks to everyone who worked on this release. Now Enjoy !

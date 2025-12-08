@@ -11,8 +11,8 @@ status: "published"
 Après avoir longuement étudié le marché des netbooks, j'ai fini par sponsoriser
 l'achat d'un ordinateur portable classique pour Aurore pour son anniversaire.
 J'ai donc commandé chez
-[rueducommerce.fr](http://www.rueducommerce.fr){hreflang="fr"} un [HP
-550](http://h10010.www1.hp.com/wwpc/fr/fr/sm/WF06a/321957-321957-64295-89315-89315-3764998.html){hreflang="fr"},
+[rueducommerce.fr](http://www.rueducommerce.fr) un [HP
+550](http://h10010.www1.hp.com/wwpc/fr/fr/sm/WF06a/321957-321957-64295-89315-89315-3764998.html),
 pour 399€. C'est un modèle pour (réservé aux ?) professionnels sur le site
 d'HP, pour la modique somme de 412€ HT, soit 493€ TTC. Et livré avec le
 fielleux Windows Vista Familial Basic. Oui, j'ai acheté une licence Windows
@@ -25,9 +25,9 @@ entre 20 et 25% du prix total de la machine !
 HP est un des constructeurs les plus obtus en ce qui concerne le remboursement
 des licences Windows accompagnant ses produits. [L'association UFC-Que Choisir
 a d'ailleurs assigné HP en
-justice](http://www.quechoisir.org/Position.jsp?id=Ressources:Positions:D5AEF50387DEA911C1257244003D9415&categorie=NoeudPClassement:EEBD39FA924319E6C1256F0100349092&catcss=IMA201){hreflang="fr"}
+justice](http://www.quechoisir.org/Position.jsp?id=Ressources:Positions:D5AEF50387DEA911C1257244003D9415&categorie=NoeudPClassement:EEBD39FA924319E6C1256F0100349092&catcss=IMA201)
 il y a bientôt deux ans de cela. La référence dans ce domaine,
-[racketiciel.info](/documentation/positions){hreflang="fr"}, nous indique que
+[racketiciel.info](/documentation/positions), nous indique que
 la dernière action en justice d'un consommateur français contre HP pour cette
 même raison s'est soldée par un échec :
 

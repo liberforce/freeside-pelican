@@ -16,4 +16,4 @@ who doesn't like to read huge lines of non-wraped text. You need to set to
 `false` the key `mailnews.send_plaintext_flowed`.
 
 More details here:
-[http://arapulido.com/2009/12/01/enabling-line-wrapping-in-thunderbird/](http://arapulido.com/2009/12/01/enabling-line-wrapping-in-thunderbird/){hreflang="en"}
+[http://arapulido.com/2009/12/01/enabling-line-wrapping-in-thunderbird/](http://arapulido.com/2009/12/01/enabling-line-wrapping-in-thunderbird/)

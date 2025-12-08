@@ -9,7 +9,7 @@ lang: "en"
 status: "published"
 ---
 This year again, I will visit some good friends in Brussels. Yes, I'm going to
-[FOSDEM 2013](https://fosdem.org/2013/){hreflang="en"} ;-). Good to meet with
+[FOSDEM 2013](https://fosdem.org/2013/) ;-). Good to meet with
 the GNOME French conspiracy again… I just need not to forget the GNOME posters
 from last year…
 

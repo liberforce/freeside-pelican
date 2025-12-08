@@ -9,10 +9,10 @@ lang: "fr"
 status: "published"
 ---
 Voilà une [revue du Acer Aspire
-One](http://linuxfr.org/%7Ealouali/26925.html){hreflang="fr"} sur LinuxFr. Le
+One](http://linuxfr.org/%7Ealouali/26925.html) sur LinuxFr. Le
 point litigieux (l'écran trop brillant) évoqué par Xate dans mon dernier
 [billet sur les
-netbooks](/post/2008/06/24/Micro-Hebdo-n531-sur-les-ultra-portables-netbooks){hreflang="fr"}
+netbooks](/post/2008/06/24/Micro-Hebdo-n531-sur-les-ultra-portables-netbooks)
 a été soulevé, voici ce qu'en pense *alouali*, le rédacteur de l'article :
 
 > J'avais une petite angoisse sur l'écran brillant et les reflets, mais
@@ -25,9 +25,9 @@ l'ACPI. Cela tendrait à supposer que ce joujou pourrait ne pas fonctionner sous
 une autre distribution si ACER a pris certaines libertés avec les "good
 practices" du BIOS. Et bien coup de bol, le testeur a aussi utilisé une
 [Mandriva
-Flash](http://www.mandriva.com/fr/produit/mandriva-flash-2008-spring){hreflang="fr"},
+Flash](http://www.mandriva.com/fr/produit/mandriva-flash-2008-spring),
 et n'a pas rapporté de problème trop grave, si ce n'est la résolution par
 défaut en 800x600 au lieu de 1024x600. Il a aussi pris le soin de déclarer la
 configuration matérielle de l'[Acer Aspire One sur
-hardware4linux](http://hardware4linux.info/system/3230/){hreflang="en"}. Qu'il
+hardware4linux](http://hardware4linux.info/system/3230/). Qu'il
 en soit remercié :-)

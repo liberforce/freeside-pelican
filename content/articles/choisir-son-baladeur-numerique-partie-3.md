@@ -13,10 +13,10 @@ status: "published"
 Le *Meizu M6 SL 8Go*.
 
 Consultez le [test du Meizu M6
-SP](http://www.generationmp3.com/labotestgmp3/index.php/2006/09/12/73-test-et-video-du-meizu-miniplayer-m6){hreflang="fr"}
+SP](http://www.generationmp3.com/labotestgmp3/index.php/2006/09/12/73-test-et-video-du-meizu-miniplayer-m6)
 sur GénérationMP3 pour connaitre ses spécifications exactes. Le M6 SL est le
 successeur du M6 SP, mais [les deux modèles sont très
-similaires](http://fr.meizublog.com/specifications-prix-et-dates-du-meizu-m6-sl/){hreflang="fr"}.
+similaires](http://fr.meizublog.com/specifications-prix-et-dates-du-meizu-m6-sl/).
 
 Prix: 133 € TTC, transport Chine-France inclus. Commandé sur ebay à
 [ygsd_cn1](http://myworld.ebay.fr/ygsd_cn1).
@@ -34,7 +34,7 @@ Avantages:
   [Ogg](http://fr.wikipedia.org/wiki/Ogg)/[Vorbis](http://fr.wikipedia.org/wiki/Vorbis),
 avec le [FLAC](http://fr.wikipedia.org/wiki/FLAC) en bonus
 - Connexion
-  [UMS](http://en.wikipedia.org/wiki/USB_mass_storage_device_class){hreflang="en"},
+  [UMS](http://en.wikipedia.org/wiki/USB_mass_storage_device_class),
 donc compatible avec tous les systèmes d'exploitation actuels sans pilote
 spécifique
 - Connectique USB standard
@@ -60,7 +60,7 @@ formats ouverts et une connectique standard, avec un très bon rapport qualité
 prix.
 
 Vous pouvez consulter les [spécifications complètes du Meizu M6
-SL](http://en.meizu.com/product_m6sl.asp){hreflang="en"} pour plus
+SL](http://en.meizu.com/product_m6sl.asp) pour plus
 d'informations.
 
 ## Pourquoi l'importer ?
@@ -99,11 +99,11 @@ modèle ;-)
 
 ## Ressources externes
 
-- [Le forum Meizu](http://www.meizume.com){hreflang="en"}
+- [Le forum Meizu](http://www.meizume.com)
 - [Le blog consacré au
-  Meizu](http://meizu-miniplayer.blogspot.com){hreflang="fr"}
+  Meizu](http://meizu-miniplayer.blogspot.com)
 - [Le blog sur le Meizu M3, orienté
-  linux](http://www.llaumgui.com/tag/Meizu%20M3){hreflang="fr"}
-- [La FAQ Meizu](http://fr.meizublog.com/faq/){hreflang="fr"}
+  linux](http://www.llaumgui.com/tag/Meizu%20M3)
+- [La FAQ Meizu](http://fr.meizublog.com/faq/)
 - [Le manuel en anglais au format
-  PDF](http://en.meizu.com/downfile/M6manual_T1.009.pdf){hreflang="en"}
+  PDF](http://en.meizu.com/downfile/M6manual_T1.009.pdf)

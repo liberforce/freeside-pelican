@@ -9,7 +9,7 @@ lang: "fr"
 status: "published"
 ---
 Si vous ne l'avez pas encore lu, lisez le [dernier billet de Murray
-Cumming](http://www.murrayc.com/blog/permalink/2007/11/26/gnome-board-2007-candidates-the-bad/){hreflang="en"}.
+Cumming](http://www.murrayc.com/blog/permalink/2007/11/26/gnome-board-2007-candidates-the-bad/).
 J'attends. Bon, il semble qu'il y a réellement un problème entre ces deux là,
 et le fait que Jeff soit candidat au Foundation Board justifie un peu ce
 message, bien que la forme est assez "extrême". Ce qui est moins justifié c'est

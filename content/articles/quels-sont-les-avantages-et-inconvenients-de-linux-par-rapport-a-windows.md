@@ -31,7 +31,7 @@ même un logiciel piraté occupe le terrain et empêche ainsi la concurrence de
 s'installer, cela ne résoud donc pas le problème.
 - Microsoft utilise une technique illégale (la vente liée) pour [contraindre
   l'utilisateur à acheter une licence d'utilisation de
-Windows](http://www.racketiciel.info){hreflang="fr"} à l'achat d'un ordinateur,
+Windows](http://www.racketiciel.info) à l'achat d'un ordinateur,
 même si l'acheteur possède déjà un système d'exploitation. Les utilisateurs qui
 se retrouvent à devoir payer cette « taxe Microsoft » ne sont pas que des
 utilisateurs de systèmes alternatifs comme GNU/Linux. Il y a aussi ceux qui ont
@@ -42,7 +42,7 @@ licence Windows gratuite ou à prix réduit.
 - Windows facilite l'utilisation de DRM qui décident de ce que l'on a le droit
   de faire avec de la musique, même légalement achetée. [De nombreux services
 de vente de musique avec DRM ont
-fermé](http://www.numerama.com/magazine/10738-Le-geant-des-supermarches-aux-USA-ferme-ses-serveurs-de-DRM.html){hreflang="fr"},
+fermé](http://www.numerama.com/magazine/10738-Le-geant-des-supermarches-aux-USA-ferme-ses-serveurs-de-DRM.html),
 laissant les utilisateurs se démerder avec leur musique (virgin, leclerc, wall
 mart, etc.)
 - Le « Windows rot », littéralement la « Pourriture Windows », phénomène qui
@@ -75,7 +75,7 @@ choix entre investissement en temps ou en argent.
 - Difficile d'acheter des logiciels en magasin (très dur d'en trouver pour
   Linux), et les logiciels pour Windows ne fonctionnent sous Linux qu'au cas
 par cas (en utilisant
-[Wine](http://fr.wikipedia.org/wiki/Wine){hreflang="fr"}).
+[Wine](http://fr.wikipedia.org/wiki/Wine)).
 - Certains périphériques n'ont pas de pilote pour Linux, ou sont mal gérés.
   Cela arrive quand les constructeurs ne fournissent pas de pilotes Linux, ou
 ne fournissent pas les spécifications du matériel pour que la communauté Linux
@@ -83,5 +83,5 @@ le fasse. Il faut donc faire un peu plus attention à l'achat, et vérifier la
 compatibilité avant l'achat.
 - Il peut être difficile d'installer une version récente d'une application si
   le distributeur de la [distribution
-GNU/Linux](http://fr.wikipedia.org/wiki/Distribution_GNU/Linux){hreflang="fr"}
+GNU/Linux](http://fr.wikipedia.org/wiki/Distribution_GNU/Linux)
 ne l'a pas mise à disposition.

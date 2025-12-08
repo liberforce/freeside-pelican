@@ -36,7 +36,7 @@ a pu retrouver... Le lino d'une des chambres ! Faut croire que c'était vraiment
 des feignasses, ils ont fait des croques monsieur... Alors je me suis un peu
 pris pour un archéologue en découvrant le lino vert à fleurs datant de 1954.
 Comment je connais la date ? On a retrouvé des feuilles de
-[l'Humanité](http://www.humanite.fr/){hreflang="fr"} de 1954 sous ce lino ! 54
+[l'Humanité](http://www.humanite.fr/) de 1954 sous ce lino ! 54
 ans après, le maire de la ville est toujours un communiste :-)
 
 Pendant ce temps là, Aurore décollait, d'abord du papier peint, puis rapidement

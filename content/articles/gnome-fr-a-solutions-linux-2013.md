@@ -9,9 +9,9 @@ lang: "fr"
 status: "published"
 ---
 J'enfile ma casquette de secrétaire de l'association pour vous signaler que
-l'équipe [GNOME-FR](http://www.gnomefr.org){hreflang="fr"} vous accueillera au
+l'équipe [GNOME-FR](http://www.gnomefr.org) vous accueillera au
 stand B25 du [village des associations du salon Solutions
-Linux](http://www.solutionslinux.fr/Le+village+associatif+_154_161.html){hreflang="fr"}
+Linux](http://www.solutionslinux.fr/Le+village+associatif+_154_161.html)
 les 28 et 29 mai 2013, au CNIT de Paris - La Défense.
 
 Ce sera l'occasion de nous rencontrer et discuter entre utilisateurs,

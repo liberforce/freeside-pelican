@@ -14,7 +14,7 @@ tout simplement disparu dans la version 2, sans aucune annonce !
 
 A la question posée au mois de mai sur les forums, de savoir où se trouve la
 fonction d'export qui existait auparavant, voici [la réponse de
-l'admin](http://forum.over-blog.com/thread-2584898.html){hreflang="fr"}:
+l'admin](http://forum.over-blog.com/thread-2584898.html):
 
 > en v2, n'existe pas. Il y aura prochainement (je ne sais pas quand) une
 > nouvelle fonction pour sauvegarder ses infos
@@ -47,4 +47,4 @@ mal de pouvoir voir si une opinion a évolué, ce quon a pu faire... Bref, c'est
 reparti !
 
 **EDIT:** et pour mes (rares :-p) fidèles lecteurs, ça se passe maintenant sur
-[http://blog.freeside.fr](){hreflang="fr"}.
+[http://blog.freeside.fr]().

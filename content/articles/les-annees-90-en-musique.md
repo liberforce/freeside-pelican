@@ -18,9 +18,9 @@ voici ce qu'il y avait dessus :
 Face A:
 
 - Place des grands hommes (Patrick Bruel)
-- [Moustique](http://www.thibault-asbl.be/parole.php?id=44&titre=Moustique){hreflang="fr"} 
+- [Moustique](http://www.thibault-asbl.be/parole.php?id=44&titre=Moustique) 
   (?)
-- [Angelina](http://www.myspace.com/psyofficielmyspace){hreflang="fr"} (Psy)
+- [Angelina](http://www.myspace.com/psyofficielmyspace) (Psy)
 - générique de Mac Gyver (version longue)
 - Le Rap'tout (Les Inconnus)
 - C'est ton destin (Les Inconnus)
@@ -32,22 +32,22 @@ Face B :
 - La Pin's mania (énorme colllector :-D)
 - générique de "La bande à Picsou" (version longue)
 - [C'est toi que je
-  t'aime](http://www.youtube.com/watch?v=XPzARtdytR4){hreflang="fr"} (Negra
+  t'aime](http://www.youtube.com/watch?v=XPzARtdytR4) (Negra
 Bouch Beat / Les Inconnus)
 - [Do The
-  Bartman](http://lyricskeeper.fr/fr/simpsons/do-the-bartman.html){hreflang="fr"}
+  Bartman](http://lyricskeeper.fr/fr/simpsons/do-the-bartman.html)
 (Bart Simpson)
 - Remember The Time (Michael Jackson)
 - [Les temps sont
-  durs](http://www.bide-et-musique.com/song/5411.html){hreflang="fr"} (Thierry
+  durs](http://www.bide-et-musique.com/song/5411.html) (Thierry
 Hazard)
 - Parce qu'on est jeune ([Benny
-  B](http://fr.wikipedia.org/wiki/Benny_B){hreflang="fr"})
-- [Frères du Rap](http://www.bide-et-musique.com/song/3424.html){hreflang="fr"}
+  B](http://fr.wikipedia.org/wiki/Benny_B))
+- [Frères du Rap](http://www.bide-et-musique.com/song/3424.html)
   (Les Holly Flip)
 - La Zoubida ([Vincent
-  Lagaf'](http://fr.wikipedia.org/wiki/Vincent_Lagaf){hreflang="fr"})
-- [Adam's Family](http://www.youtube.com/watch?v=BWJiPUWoB4k){hreflang="fr"}
+  Lagaf'](http://fr.wikipedia.org/wiki/Vincent_Lagaf))
+- [Adam's Family](http://www.youtube.com/watch?v=BWJiPUWoB4k)
   (MC Hammer)
 
 Certes, j'enfreins sans doute les droits de certains auteurs en donnant
@@ -75,10 +75,10 @@ La Bande à Picsou, bin j'aimais tout simplement. C'est l'époque Disney Channel
 avec ses Zoro, Winnie (encore aujourd'hui, entendre Jean Rochefort me fait
 penser à Winnie l'Ourson), Les Gummies, Le chevalier lumière... Mon goût pour
 les canards s'est développé depuis, je reste un fan inconditionnel de [Keno Don
-Rosa](http://fr.wikipedia.org/wiki/Keno_Don_Rosa){hreflang="fr"} ;-).
+Rosa](http://fr.wikipedia.org/wiki/Keno_Don_Rosa) ;-).
 
 La Zoubida, mine de rien, ça reste une chanson sympa, et [le jeu sur
-Amiga](http://www.emunova.net/veda/test/1120.htm){hreflang="fr"} est un des
+Amiga](http://www.emunova.net/veda/test/1120.htm) est un des
 meilleurs jeux de plateforme auquel j'ai pu jouer dans ma jeunesse. Je me
 rappelle avoir eu besoin d'utiliser une touche qui permettait de **ralentir**
 le scrolling, tellement c'était rapide et fluide (ce qui rendait certains
@@ -101,4 +101,4 @@ lu, et aux autres m'en fous, c'est mon blog alors je fais ce que je veux :-p
 </ins>
 
 Je rajoute aux collectors une cassette audio de sketchs de
-[Téléchat](http://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9chat){hreflang="fr"} :-).
+[Téléchat](http://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9chat) :-).
