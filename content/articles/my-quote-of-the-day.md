@@ -12,9 +12,12 @@ status: "published"
 > Windows is to computers what fast food is to gastronomy.
 :::
 
-Even being a Linux fan, I just can't agree more on that kind of videos, which restores the truth: graphical interface innovation nowadays in on Macs. It's kinda good however to see that the GNU/Linux world is not that late on the eye candy.
+Even being a Linux fan, I just can't agree more on that kind of videos, which
+restores the truth: graphical interface innovation nowadays in on Macs. It's
+kinda good however to see that the GNU/Linux world is not that late on the eye
+candy.
 
-[The Real Windows Vista](http://youtube.com/watch?v=3QdGt3ix2CQ)
-[Beryl on Linux](http://youtube.com/watch?v=yw78IIEbzHs)
+[The Real Windows Vista](http://youtube.com/watch?v=3QdGt3ix2CQ) [Beryl on
+Linux](http://youtube.com/watch?v=yw78IIEbzHs)
 
 PS: Sorry for the flash videos...

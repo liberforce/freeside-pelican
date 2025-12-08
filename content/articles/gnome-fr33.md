@@ -8,7 +8,9 @@ slug: "gnome-fr33"
 lang: "en"
 status: "published"
 ---
-Congratulations to everyone involved in this great adventure! The road wasn't straight, but the community made an awesome work to get a brand new design and way to manage your digital life.
+Congratulations to everyone involved in this great adventure! The road wasn't
+straight, but the community made an awesome work to get a brand new design and
+way to manage your digital life.
 
 See you this summer in Berlin at Desktop Summit guys!
 

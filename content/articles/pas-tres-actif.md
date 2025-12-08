@@ -8,16 +8,40 @@ slug: "pas-tres-actif"
 lang: "fr"
 status: "published"
 ---
-Bin oui, je n'ai pas été très actif ces derniers temps, et pour plusieurs ~~mauvaises~~ raisons...
+Bin oui, je n'ai pas été très actif ces derniers temps, et pour plusieurs
+~~mauvaises~~ raisons...
 
 ## Et Dieu créa la guitare...
 
-Les femmelettes jouent à [Guitar Hero III](http://fr.wikipedia.org/wiki/Guitar_Hero_III){hreflang="fr"}. Les vrais hommes jouent à [Frets On Fire](http://fretsonfire.sourceforge.net/){hreflang="en"} avec leur clavier, et [enchainent 2 millions de notes à la seconde](http://www.prison.net/worldcharts/charts/players/liberforce/){hreflang="en"} comme Jurgen (moui, on ne se moque pas, j'ai fait bien plus de parties, mais pas avec des chansons qui apparaissent sur le site). J'en ai profité pour découvrir que les claviers ont parfois des caractéristiques différentes (du genre les combinaisons de touches avec F3 sur mon clavier de jeu ne marchaient pas).
+Les femmelettes jouent à [Guitar Hero
+III](http://fr.wikipedia.org/wiki/Guitar_Hero_III){hreflang="fr"}. Les vrais
+hommes jouent à [Frets On
+Fire](http://fretsonfire.sourceforge.net/){hreflang="en"} avec leur clavier, et
+[enchainent 2 millions de notes à la
+seconde](http://www.prison.net/worldcharts/charts/players/liberforce/){hreflang="en"}
+comme Jurgen (moui, on ne se moque pas, j'ai fait bien plus de parties, mais
+pas avec des chansons qui apparaissent sur le site). J'en ai profité pour
+découvrir que les claviers ont parfois des caractéristiques différentes (du
+genre les combinaisons de touches avec F3 sur mon clavier de jeu ne marchaient
+pas).
 
 ## Boulot-boulot
 
-Le thésard qui travaillait sur mon projet nous quitte à la fin du mois. Plus que 11 jours pour retrouver dans son code l'algo qui me ferait dire si je ne trouve pas "mais comment ça peut marcher ?".
+Le thésard qui travaillait sur mon projet nous quitte à la fin du mois. Plus
+que 11 jours pour retrouver dans son code l'algo qui me ferait dire si je ne
+trouve pas "mais comment ça peut marcher ?".
 
 ## Engagez vous qu'y disaient
 
-La dernière raison est sans doute la plus valable: les élections municipales approchent, et faisant partie de la liste "[La Passion de Champigny](http://www.champigny2008.fr){hreflang="fr"}", forcément ça donne un peu de boulot. Youpi pour distribuer des tracts demain matin, je me sens déjà comme un témoin de Jéhovah... Les présidentielles et leur lot de déceptions étaient passées par là, alors j'avais décidé de m'engager. C'est chose faite. Le local de campagne profite même d'une machine en libre accès Internet installée par mes soins sous [Mandriva Linux 2008](http://www.mandriva.com/fr){hreflang="fr"}. Bah oui, si je me suis engagé, c'est pour une bonne raison, non ? Défendre le point de vue des libristes sur le plan municipal, ce serait déjà pas mal dans une ville de 75 000 habitants...
+La dernière raison est sans doute la plus valable: les élections municipales
+approchent, et faisant partie de la liste "[La Passion de
+Champigny](http://www.champigny2008.fr){hreflang="fr"}", forcément ça donne un
+peu de boulot. Youpi pour distribuer des tracts demain matin, je me sens déjà
+comme un témoin de Jéhovah... Les présidentielles et leur lot de déceptions
+étaient passées par là, alors j'avais décidé de m'engager. C'est chose faite.
+Le local de campagne profite même d'une machine en libre accès Internet
+installée par mes soins sous [Mandriva Linux
+2008](http://www.mandriva.com/fr){hreflang="fr"}. Bah oui, si je me suis
+engagé, c'est pour une bonne raison, non ? Défendre le point de vue des
+libristes sur le plan municipal, ce serait déjà pas mal dans une ville de 75
+000 habitants...

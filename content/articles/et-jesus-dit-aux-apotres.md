@@ -8,8 +8,9 @@ slug: "et-jesus-dit-aux-apotres"
 lang: "fr"
 status: "published"
 ---
-Deux personnalités ont fait une déclaration importante aujourd'hui.
-[François Bayrou a déclaré qu'il ne voterait pas pour Nicolas Sarkozy](http://www.lemonde.fr/web/depeches/0,14-0,39-30751335@7-40,0.html).
+Deux personnalités ont fait une déclaration importante aujourd'hui.  [François
+Bayrou a déclaré qu'il ne voterait pas pour Nicolas
+Sarkozy](http://www.lemonde.fr/web/depeches/0,14-0,39-30751335@7-40,0.html).
 
 
 Jésus non plus.

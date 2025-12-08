@@ -8,4 +8,6 @@ slug: "you-like-linux-tell-it-to-the-world"
 lang: "en"
 status: "published"
 ---
-Help gather some stats and reach the 1,000,000 people who like Linux and Open Source Software. It takes 30 seconds to fill the form on [The million Tux](http://1-million-tux.linux-befehle.org).
+Help gather some stats and reach the 1,000,000 people who like Linux and Open
+Source Software. It takes 30 seconds to fill the form on [The million
+Tux](http://1-million-tux.linux-befehle.org).
