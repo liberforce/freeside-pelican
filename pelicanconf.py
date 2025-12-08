@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+from datetime import datetime
+
 AUTHOR = "liberforce"
 SITENAME = "Greetings From The Free Side!"
 
@@ -54,3 +56,8 @@ ARTICLE_LANG_SAVE_AS = ARTICLE_URL
 ########
 # Theme to use
 THEME = "themes/Flex"
+
+#########
+# License
+#########
+COPYRIGHT_YEAR = datetime.now().year
