@@ -33,7 +33,10 @@ LINKS = (
 )
 
 # Social widget
-SOCIAL = (("Mastodon", "https://framapiaf.org/@liberforce"),)
+SOCIAL = (
+    ("Mastodon", "https://framapiaf.org/@liberforce"),
+    ("github", "https://github.com/liberforce"),
+)
 
 DEFAULT_PAGINATION = 10
 
