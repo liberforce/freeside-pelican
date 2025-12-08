@@ -1,10 +1,10 @@
 ---
-title: "Il y a un début à tout..."
+title: "Everything has a beginning..."
 date: "2006-12-06 02:38"
 author: "liberforce"
 category: "Gossip / Blabla"
 tags: "Unclassified"
-slug: "il-y-a-un-debut-a-tout"
+slug: "everything-has-a-beginning"
 lang: "en"
 status: "published"
 ---
@@ -16,6 +16,6 @@ Here I am... I wanted a blog to have some visibility in the GNOME world, and com
 - I leaned everything I know about free software on my working and free time, not at school (they sucked for that)
 - I use Linux since Mandrake 9.1, and have used each version since then (excepted Mandrake 9.2)
 
-My involvement in GNOME is irregular. Small patches to Gedit, Ekiga, some [GnomeGoals](http://live.gnome.org/GnomeGoals) stuff, and mostly some wiki work, as [JoinGnome](http://live.gnome.org/JoinGnome) or  [JhbuildIssues](http://live.gnome.org/JhbuildIssues). I also maintain the [JhbuildDependencies/MandrivaLinux](http://live.gnome.org/JhbuildDependencies/MandrivaLinux) page, and give a shot on Jhbuild on Mandriva Linux. It seems I'm the only guy to use MandrivaLinux on [jhautobuild](http://jhbuild.bxlug.be/). I'm also a moderator on the [GNOME french forums](http://fr.gnomesupport.org/forums/)., thanks to Damien Durand ([splinux](http://glive.tuxfamily.org/blog/)).  
-  
+My involvement in GNOME is irregular. Small patches to Gedit, Ekiga, some [GnomeGoals](http://live.gnome.org/GnomeGoals) stuff, and mostly some wiki work, as [JoinGnome](http://live.gnome.org/JoinGnome) or  [JhbuildIssues](http://live.gnome.org/JhbuildIssues). I also maintain the [JhbuildDependencies/MandrivaLinux](http://live.gnome.org/JhbuildDependencies/MandrivaLinux) page, and give a shot on Jhbuild on Mandriva Linux. It seems I'm the only guy to use MandrivaLinux on [jhautobuild](http://jhbuild.bxlug.be/). I'm also a moderator on the [GNOME french forums](http://fr.gnomesupport.org/forums/)., thanks to Damien Durand ([splinux](http://glive.tuxfamily.org/blog/)).
+
 What I like in GNOME? Simplicity. What I dislike in GNOME ? Well, I think i'll post some rants to let you know :-)
