@@ -70,3 +70,9 @@ MENUITEMS = (
 # License
 #########
 COPYRIGHT_YEAR = datetime.now().year
+
+#########
+# Caching
+#########
+CACHE_CONTENT = True
+LOAD_CONTENT_CACHE = True
