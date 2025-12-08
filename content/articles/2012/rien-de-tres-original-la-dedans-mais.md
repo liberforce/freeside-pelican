@@ -8,7 +8,7 @@ slug: "rien-de-tres-original-la-dedans-mais"
 lang: "fr"
 status: "published"
 ---
-![](http://guadec.org/sites/www.guadec.org/files/banner-125.png)
+![]({static}/images/guadec/2012/guadec-2012-banner.png)
 
 J'en profiterai pour rejoindre les autres membres de GNOME-FR (entre autres) qui auront fait le déplacement. Arrivée le 25 juillet au soir, puis départ prévu le 3 août au matin pour Lisbonne... en car. Je pense déjà aux 10 heures de bus qui m'attendent. Une occasion pour bouquiner, ou pour commencer à préparer une petite présentation sur GNOME pour la rentrée.
 
