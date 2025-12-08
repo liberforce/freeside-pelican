@@ -4,7 +4,7 @@ date: "2007-01-23 03:02"
 author: "liberforce"
 category: "Ecology  / Ecologie"
 tags: "Unclassified"
-slug: "5-mn-de-repit-pour-la-planete-pas-sur"
+slug: "5-mn-of-respite-for-the-planet-not-sure"
 lang: "fr"
 status: "published"
 ---
@@ -15,15 +15,13 @@ organisée par l'Alliance pour la Planète. Le but: couper la lumière le 1er
 février durant 5 minutes, afin de montrer que l'on attache de l'importance à
 l'écologie. Eh bien il semble que ce soit une fausse bonne idée.
 
-Explications sur cette page...
-[http://linuxfr.org/comments/794828.html#794828](http://linuxfr.org/comments/794828.html#794828){.moz-txt-link-freetext}
-...et notamment ce commentaire...
-[http://linuxfr.org/comments/794859,1.html](http://linuxfr.org/comments/794859,1.html){.moz-txt-link-freetext}
+Explications sur [cette page](http://linuxfr.org/comments/794828.html#794828)
+et notamment [ce commentaire](http://linuxfr.org/comments/794859,1.html)...
 
-[En gros, l'énergie ne se stocke pas facilement. Si l'on arrête la consommation
+En gros, l'énergie ne se stocke pas facilement. Si l'on arrête la consommation
 brutalement, on risque la surchauffe et la rupture des système de production
 d'énergie entrainant un blackout (coupure généralisée), ayant des conséquences
-écologiques pires que les 5 minutes économisées.]{.hitimportant}
+écologiques pires que les 5 minutes économisées.
 
 Le meilleur moyen de lutter contre le réchauffement climatique, plutôt que de
 tout couper chez soi 5 minutes pour se donner bonne conscience, et à côté de ça
@@ -73,7 +71,7 @@ site indépendant indiquant la position de chaque candidat dans divers domaines,
 et que j'ai trouvé intéressant est [debat2007.fr](http://www.debat2007.fr/).
 Malheureusemenet, il ne fait apparemment pas apparaître les propositions dans
 le domaine de l'écologie. Néanmoins, le récent [pacte écologique de Nicolas
-Hulot](http://www.pacte-ecologique-2007.org/declaration/index.html){style=""} a
+Hulot](http://www.pacte-ecologique-2007.org/declaration/index.html) a
 posé la question de l'écologie au coeur du débat présidentiel. Voici donc pour
 vous les différentes réponses des candidats à ce sujet sur le net, sur les
 blogs des différents partis/candidats majeurs:
