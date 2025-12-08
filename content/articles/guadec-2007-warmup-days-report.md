@@ -34,14 +34,14 @@ I'm quite happy that [Pascal Terjan](http://fasmz.org/%7Epterjan/) was there, as
 
 A fairly technical talk, but interesting ! In fact it made me discover that multi-user environment, fast user switching, and session management are very difficult to get right. The main information I caught is that a new GDM, almost entirely written from scratch, and improving the situation should appear next year.
 
-  
+
 
 [Technical Challenges when using Electronic Paper Displays with GTK](http://guadec.org/node/636)
 
 First time I could hold an [electronic paper](http://en.wikipedia.org/wiki/Electronic_paper) device in my hands. The product has some advantages, the biggest being its astonishing readability: no flickering, good contrast. It also has at the moment a good amount of disadvantages. Among them, you can't update just a portion of the screen, and a full screen update takes around 1 second. I'm not sure this will be able to compete with the upcoming [OLED](http://en.wikipedia.org/wiki/Oled) technology, but I wish iRex all the best.
 
-  
-Here are some pictures:  
+
+Here are some pictures:
 ![]({static}/images/guadec/2007/e-paper-slide.jpg)
 
 *A slide explaining how an e-paper works*

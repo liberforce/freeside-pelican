@@ -16,11 +16,11 @@ As Ryan talks about Ubuntu Dapper Drake in his post, I suppose he was testing ye
 
 Some stuff he pointed out:
 
-> gnome-power-manager wakes up twice per second to do something  
-> battery applet wakes up once per second to do something  
-> clock-applet wakes up once per second to update the time even when seconds aren’t shown  
-> gajim wakes up 10+ times per second for some unknown reason  
-> at-spi-registryd wakes up more like 20+ times a second (?!?)  
+> gnome-power-manager wakes up twice per second to do something
+> battery applet wakes up once per second to do something
+> clock-applet wakes up once per second to update the time even when seconds aren’t shown
+> gajim wakes up 10+ times per second for some unknown reason
+> at-spi-registryd wakes up more like 20+ times a second (?!?)
 > gss seems to talk to x11 once per second (presumably to ask if anything has happened). i don’t understand why it has to do this so often.
 
 I don't use some of the stuff he tested. So I tested gnome-power-manager, the clock applet and gnome-screensaver (gss) as he did.
@@ -35,12 +35,12 @@ Strace is attached to the spied process in the background. We then wait for 10 s
 
 ## gnome-screensaver
 
-`% time     seconds  usecs/call     calls    errors syscall`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`   nan    0.000000           0         1           ioctl`  
-`   nan    0.000000           0         2           gettimeofday`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`100.00    0.000000                     3           total`  
+`% time     seconds  usecs/call     calls    errors syscall`
+`------ ----------- ----------- --------- --------- ----------------`
+`   nan    0.000000           0         1           ioctl`
+`   nan    0.000000           0         2           gettimeofday`
+`------ ----------- ----------- --------- --------- ----------------`
+`100.00    0.000000                     3           total`
 
 <del>
 
@@ -54,25 +54,25 @@ Strace is attached to the spied process in the background. We then wait for 10 s
 
 With the seconds in the clock applet **not** displayed:
 
-`% time     seconds  usecs/call     calls    errors syscall`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`   nan    0.000000           0         1           ioctl`  
-`   nan    0.000000           0         2           gettimeofday`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`100.00    0.000000                     3           total`  
-  
+`% time     seconds  usecs/call     calls    errors syscall`
+`------ ----------- ----------- --------- --------- ----------------`
+`   nan    0.000000           0         1           ioctl`
+`   nan    0.000000           0         2           gettimeofday`
+`------ ----------- ----------- --------- --------- ----------------`
+`100.00    0.000000                     3           total`
+
 With the seconds in the clock applet displayed:
 
-`% time     seconds  usecs/call     calls    errors syscall`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`   nan    0.000000           0        30           read`  
-`   nan    0.000000           0        20           write`  
-`   nan    0.000000           0        20           time`  
-`   nan    0.000000           0        31           ioctl`  
-`   nan    0.000000           0        62           gettimeofday`  
-`   nan    0.000000           0        30           poll`  
-`   nan    0.000000           0        10           stat64`  
-`------ ----------- ----------- --------- --------- ----------------`  
+`% time     seconds  usecs/call     calls    errors syscall`
+`------ ----------- ----------- --------- --------- ----------------`
+`   nan    0.000000           0        30           read`
+`   nan    0.000000           0        20           write`
+`   nan    0.000000           0        20           time`
+`   nan    0.000000           0        31           ioctl`
+`   nan    0.000000           0        62           gettimeofday`
+`   nan    0.000000           0        30           poll`
+`   nan    0.000000           0        10           stat64`
+`------ ----------- ----------- --------- --------- ----------------`
 `100.00    0.000000                   203           total`
 
 It's easy to see that enabling the seconds on the applet causes an explosion of the number of calls. That's 3 poll calls per second ! Sound quite abnormal to me, especially the amount of other calls this option generated...
@@ -81,25 +81,25 @@ It's easy to see that enabling the seconds on the applet causes an explosion of 
 
 Looks fine.
 
-`% time     seconds  usecs/call     calls    errors syscall`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`   nan    0.000000           0         1           ioctl`  
-`------ ----------- ----------- --------- --------- ----------------`  
+`% time     seconds  usecs/call     calls    errors syscall`
+`------ ----------- ----------- --------- --------- ----------------`
+`   nan    0.000000           0         1           ioctl`
+`------ ----------- ----------- --------- --------- ----------------`
 `100.00    0.000000                     1           total`
 
 ## devhelp
 
 It was in the background, but there's still too many calls for an application that was not being used.
 
-`% time     seconds  usecs/call     calls    errors syscall`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`   nan    0.000000           0        11           read`  
-`   nan    0.000000           0         1           write`  
-`   nan    0.000000           0        32           ioctl`  
-`   nan    0.000000           0         6           gettimeofday`  
-`   nan    0.000000           0        11           poll`  
-`   nan    0.000000           0         1           futex`  
-`------ ----------- ----------- --------- --------- ----------------`  
+`% time     seconds  usecs/call     calls    errors syscall`
+`------ ----------- ----------- --------- --------- ----------------`
+`   nan    0.000000           0        11           read`
+`   nan    0.000000           0         1           write`
+`   nan    0.000000           0        32           ioctl`
+`   nan    0.000000           0         6           gettimeofday`
+`   nan    0.000000           0        11           poll`
+`   nan    0.000000           0         1           futex`
+`------ ----------- ----------- --------- --------- ----------------`
 `100.00    0.000000                    62           total`
 
 ## gnome-terminal
@@ -110,75 +110,75 @@ It was in the background, but there's still too many calls for an application th
 
 </del>
 
-**Update:** ok, I must have been drinking, everything is normal.  
+**Update:** ok, I must have been drinking, everything is normal.
 I tested the gnome-terminal that was running strace, so I was getting the calls for executing strace... The good way is for example to test it from an xterm. Another one like this and I jump out of the window.
 
-`% time     seconds  usecs/call     calls    errors syscall`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`   nan    0.000000           0         1           ioctl`  
-`------ ----------- ----------- --------- --------- ----------------`  
+`% time     seconds  usecs/call     calls    errors syscall`
+`------ ----------- ----------- --------- --------- ----------------`
+`   nan    0.000000           0         1           ioctl`
+`------ ----------- ----------- --------- --------- ----------------`
 `100.00    0.000000                     1           total`
 
 ## mixer_applet2
 
 The mixer applet is one of the worst offenders! This is a [known bug](http://bugzilla.gnome.org/show_bug.cgi?id=370937){hreflang="en"} which is being worked on. Hope to see this included in GNOME 2.22.
 
-`% time     seconds  usecs/call     calls    errors syscall`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`   nan    0.000000           0        99        99 read`  
-`   nan    0.000000           0       169           ioctl`  
-`   nan    0.000000           0       296           gettimeofday`  
-`   nan    0.000000           0       169           poll`  
-`------ ----------- ----------- --------- --------- ----------------`  
+`% time     seconds  usecs/call     calls    errors syscall`
+`------ ----------- ----------- --------- --------- ----------------`
+`   nan    0.000000           0        99        99 read`
+`   nan    0.000000           0       169           ioctl`
+`   nan    0.000000           0       296           gettimeofday`
+`   nan    0.000000           0       169           poll`
+`------ ----------- ----------- --------- --------- ----------------`
 `100.00    0.000000                   733        99 total`
 
 ## timer-applet
 
-Even when not used, this applet does way too many calls... There's room for improvement here.  
-`% time     seconds  usecs/call     calls    errors syscall`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`   nan    0.000000           0        34           ioctl`  
-`   nan    0.000000           0        67           gettimeofday`  
-`   nan    0.000000           0        34           poll`  
-`------ ----------- ----------- --------- --------- ----------------`  
+Even when not used, this applet does way too many calls... There's room for improvement here.
+`% time     seconds  usecs/call     calls    errors syscall`
+`------ ----------- ----------- --------- --------- ----------------`
+`   nan    0.000000           0        34           ioctl`
+`   nan    0.000000           0        67           gettimeofday`
+`   nan    0.000000           0        34           poll`
+`------ ----------- ----------- --------- --------- ----------------`
 `100.00    0.000000                   135           total`
 
 ## trashapplet
 
 Looks fine.
 
-`% time     seconds  usecs/call     calls    errors syscall`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`   nan    0.000000           0         1           ioctl`  
-`------ ----------- ----------- --------- --------- ----------------`  
+`% time     seconds  usecs/call     calls    errors syscall`
+`------ ----------- ----------- --------- --------- ----------------`
+`   nan    0.000000           0         1           ioctl`
+`------ ----------- ----------- --------- --------- ----------------`
 `100.00    0.000000                     1           total`
 
 ## mdkapplet
 
 Mandriva's memory-hungry updates surveillance applet seems to be CPU friendly...
 
-`% time     seconds  usecs/call     calls    errors syscall`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`   nan    0.000000           0         2           ioctl`  
-`   nan    0.000000           0         4           gettimeofday`  
-`   nan    0.000000           0         1           poll`  
-`   nan    0.000000           0         1         1 stat64`  
-`------ ----------- ----------- --------- --------- ----------------`  
+`% time     seconds  usecs/call     calls    errors syscall`
+`------ ----------- ----------- --------- --------- ----------------`
+`   nan    0.000000           0         2           ioctl`
+`   nan    0.000000           0         4           gettimeofday`
+`   nan    0.000000           0         1           poll`
+`   nan    0.000000           0         1         1 stat64`
+`------ ----------- ----------- --------- --------- ----------------`
 `100.00    0.000000                     8         1 total`
 
 ## gnome-power-manager
 
 Ryan saw gnome-power-manager wake up twice per second in GNOME 2.14. It seems things got worse, as I had it wake up thrice per second, on AC power.
 
-`% time     seconds  usecs/call     calls    errors syscall`  
-`------ ----------- ----------- --------- --------- ----------------`  
-`    nan    0.000000           0        40           read`  
-`    nan    0.000000           0        40           write`  
-`    nan    0.000000           0         2           time`  
-`    nan    0.000000           0        29           ioctl`  
-`    nan    0.000000           0        53           gettimeofday`  
-`    nan    0.000000           0        29           poll`  
-`------ ----------- ----------- --------- --------- ----------------`  
+`% time     seconds  usecs/call     calls    errors syscall`
+`------ ----------- ----------- --------- --------- ----------------`
+`    nan    0.000000           0        40           read`
+`    nan    0.000000           0        40           write`
+`    nan    0.000000           0         2           time`
+`    nan    0.000000           0        29           ioctl`
+`    nan    0.000000           0        53           gettimeofday`
+`    nan    0.000000           0        29           poll`
+`------ ----------- ----------- --------- --------- ----------------`
 `100.00    0.000000                   193           total`
 
 # Conclusion

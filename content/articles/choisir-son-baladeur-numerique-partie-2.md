@@ -33,4 +33,4 @@ A partir de toutes mes recherches, j'ai trouvé le nom des constructeurs/revende
 - [Trekstor](http://www.trekstor.de){hreflang="en"}
 - [iRiver](http://www.iriver.com/){hreflang="en"}
 
-L'étape suivante, c'est trouver des modèles intéressants chez ces constructeurs. On m'en a déjà soufflé quelques uns à l'oreille dans les commentaires de la [partie 1](/post/2007/10/12/Choisir-son-baladeur-numerique-compatible-Linux-et-Ogg/Vorbis){hreflang="fr"}, des modèles intéressants de chez Cowon et Meizu (dont Dane-elec est le revendeur en France).  
+L'étape suivante, c'est trouver des modèles intéressants chez ces constructeurs. On m'en a déjà soufflé quelques uns à l'oreille dans les commentaires de la [partie 1](/post/2007/10/12/Choisir-son-baladeur-numerique-compatible-Linux-et-Ogg/Vorbis){hreflang="fr"}, des modèles intéressants de chez Cowon et Meizu (dont Dane-elec est le revendeur en France).

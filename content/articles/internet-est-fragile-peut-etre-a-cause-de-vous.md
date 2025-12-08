@@ -8,16 +8,16 @@ slug: "internet-est-fragile-peut-etre-a-cause-de-vous"
 lang: "fr"
 status: "published"
 ---
-Il semble qu'une nouvelle fois l'Internet a tremblé, mardi dernier lors d'une [nouvelle attaque des serveurs DNS racine](http://www.generation-nt.com/actualites/24013/sophos-zombie-internet-ddos/). Cette attaque n'est pas la première, [comme je l'ai déjà expliqué](/post/2007/01/12/La-fin-de-lInternet){hreflang="fr"}.  
-  
+Il semble qu'une nouvelle fois l'Internet a tremblé, mardi dernier lors d'une [nouvelle attaque des serveurs DNS racine](http://www.generation-nt.com/actualites/24013/sophos-zombie-internet-ddos/). Cette attaque n'est pas la première, [comme je l'ai déjà expliqué](/post/2007/01/12/La-fin-de-lInternet){hreflang="fr"}.
+
 Le problème c'est que vous y avez peut être contribué. Il faut pour cela remplir quelques conditions:
 
 - Avoir un ordinateur sous Windows
 - Avoir un virus du type "Trojan" (appelé aussi Troyen, ou cheval de troie)
 - Avoir un gentil pirate qui prenne le contrôle de votre machine à votre insu
 
-Malheureusement, pour avoir déverminé le PC d'un windowsien le week end dernier, ces conditions sont très facilement réunies (j'ai trouvé un virus Troyen dedans).  
-Rassurez vous, vous pouvez aussi faire plein d'autres choses à votre insu:  
+Malheureusement, pour avoir déverminé le PC d'un windowsien le week end dernier, ces conditions sont très facilement réunies (j'ai trouvé un virus Troyen dedans).
+Rassurez vous, vous pouvez aussi faire plein d'autres choses à votre insu:
 
 - Relais de spam
 - Serveur d'images pédophiles

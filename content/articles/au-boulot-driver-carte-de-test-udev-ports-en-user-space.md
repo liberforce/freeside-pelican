@@ -8,35 +8,35 @@ slug: "au-boulot-driver-carte-de-test-udev-ports-en-user-space"
 lang: "fr"
 status: "published"
 ---
-J'ai toujours l'impression d'être un mauvais développeur. D'avancer moins vite que les autres. Le fait de ne pas avoir de "mentor", de personne qui me tire vers le haut (côté code) dans mon entourage professionnel ou personnel y est sans doute pour beaucoup. Alors évidemment, quand je lis [Richard Hugues](http://hughsient.livejournal.com/) et [ce qu'il fait](http://hughsient.livejournal.com/27576.html) alors qu'[il finit à peine ses études](http://hughsient.livejournal.com/25527.html), j'ai la larme à l'oeil, moi qui n'ai jamais eu de cours d'UML ou design patterns, ni d'architecture logicielle... J'ai dû apprendre sur le tas...  
-  
+J'ai toujours l'impression d'être un mauvais développeur. D'avancer moins vite que les autres. Le fait de ne pas avoir de "mentor", de personne qui me tire vers le haut (côté code) dans mon entourage professionnel ou personnel y est sans doute pour beaucoup. Alors évidemment, quand je lis [Richard Hugues](http://hughsient.livejournal.com/) et [ce qu'il fait](http://hughsient.livejournal.com/27576.html) alors qu'[il finit à peine ses études](http://hughsient.livejournal.com/25527.html), j'ai la larme à l'oeil, moi qui n'ai jamais eu de cours d'UML ou design patterns, ni d'architecture logicielle... J'ai dû apprendre sur le tas...
+
 Mais c'est mon métier, alors je ne lâche pas l'affaire :-) *(et puis bon, j'ai déjà repris du code - professionnel -, et ça m'a fait suffisamment peur pour que je me dise que ça vaut le coup de continuer, parce qu'il y a largement pire que moi...)\*
-  
-Les designs patterns, j'ai vu ça en fin d'année dernière, après avoir acheté le fameux [Head First Design Patterns](http://www.amazon.fr/Head-First-Design-Patterns/dp/0596007124) (merci à [pvanhoof](http://www.google.fr/search?hl=fr&q=site%3Apvanhoof.be+%22head+first+design+patterns%22&btnG=Rechercher&meta=) pour ça ;-)). Alors oui, je me dis que voir ça 5 ans après être sorti de l'école et 8 ans après avoir commencé ma vie professionnelle, c'est quand même dommage. Jj'aurais préféré avoir vu ça en école d'ingé, mais l'option de dernière année que je souhaitais faire, "génie logiciel", n'a pas ouvert, faute de demande. Alors je me suis retrouvé en "systèmes numériques" (ce qui était bien aussi, parce que que j'aime aussi l'électronique numérique).  
-  
-Mais en ce moment je fais des choses intéressantes au boulot. Certes, ça n'avance pas très vite (bon, j'ai l'habitude), mais je ne vois pas le temps passer. Alors voilà un peu sur quoi je m'amuse depuis jeudi dernier...  
-  
+
+Les designs patterns, j'ai vu ça en fin d'année dernière, après avoir acheté le fameux [Head First Design Patterns](http://www.amazon.fr/Head-First-Design-Patterns/dp/0596007124) (merci à [pvanhoof](http://www.google.fr/search?hl=fr&q=site%3Apvanhoof.be+%22head+first+design+patterns%22&btnG=Rechercher&meta=) pour ça ;-)). Alors oui, je me dis que voir ça 5 ans après être sorti de l'école et 8 ans après avoir commencé ma vie professionnelle, c'est quand même dommage. Jj'aurais préféré avoir vu ça en école d'ingé, mais l'option de dernière année que je souhaitais faire, "génie logiciel", n'a pas ouvert, faute de demande. Alors je me suis retrouvé en "systèmes numériques" (ce qui était bien aussi, parce que que j'aime aussi l'électronique numérique).
+
+Mais en ce moment je fais des choses intéressantes au boulot. Certes, ça n'avance pas très vite (bon, j'ai l'habitude), mais je ne vois pas le temps passer. Alors voilà un peu sur quoi je m'amuse depuis jeudi dernier...
+
 [**Développement de driver E/S\**]{.underline}
-Je dois développer un driver pour le kernel 2.6.18, afin de commander des entrées/sorties numériques. Je n'ai jamais développé de driver auparavant, alors j'ai dû fouiller un peu.  
-*Liens utiles:*  
-[Writing device drivers in Linux: A brief tutorial](http://www.freesoftwaremagazine.com/articles/drivers_linux?page=0%2C0)  
-[Linux Device Drivers, Third Edition](http://lwn.net/Kernel/LDD3/)  
-  
-[**Carte de test E/S**]{.underline}  
-Qui dit hard à contrôler dit souvent carte de test. Comme je ne suis pas du tout sûr des commandes que j'envoie pour commander les E/S, je me suis monté une carte de test (un grand mot pour 4 LED et 4 résistances) pour vérifier que les connecteurs ont été bien reliés par le sous traitant (c'est pas gagné apparemment), et vérifier que mes commandes font bien ce que j'attends.  
-C'est bien sûr beaucoup plus drôle quand on ne sait pas comment le sous traitant a relié le connecteur (DB9) aux pins de la carte mère (10 broches). Où serait le fun sinon ?  
-  
-[**Code de test dans l'espace utilisateur**]{.underline}  
-Comme les E/S de cette carte se commandent bizarrement, (une interruption qui appelle une sous-fonction dans le BIOS), et que je ne sais pas encore vraiment quelles commandes envoyer, j'utilise pour la mise au point un programme en user-space. Il doit tourner en root pour pouvoir accéder au matériel, et c'était une des solutions possibles (et simple), mais je ne souhaite pas que l'application finale tourne sous root (sécurité oblige).  
-*Lien utile:*  
-[Linux I/O port programming mini-HOWTO](http://www.faqs.org/docs/Linux-mini/IO-Port-Programming.html)  
-  
-[**Recherche de bug de règle udev**]{.underline}  
-Pour un autre périphérique, le fournisseur me donne un driver et une règle udev. J'ai trouvé sa règle codée comme un goret. La procédure d'install est un truc à base de Makefile fait à la main, et quand on est habitué aux trucs cleans fournis par les distributions... on se rend compte que d'autres en sont encore loin.  
-Le périphérique est une caméra usb. La règle udev du constructeur cherche à modifier les droits d'accès du périphérique dans /proc/bus/usb/, et il n'y a que comme ça qu'on peut lancer **sans être root** une application qui verra le périphérique connecté. Sauf que sa règle ne marche pas sous ma Fedora Core 6, alors que ma règle fonctionne (change les permissions du device, et le groupe), mais dans /dev/bus/usb/. Pourquoi diable passent ils par /proc ? C'est ce qui se faisait avant udev ? ***  
-Update:** Mon contact me dit que c'est ce qui se faisait avant le kernel 2.6.14.*  
-*Lien utile:*  
-[Writing udev rules](http://reactivated.net/writing_udev_rules.html)  
-  
-  
+Je dois développer un driver pour le kernel 2.6.18, afin de commander des entrées/sorties numériques. Je n'ai jamais développé de driver auparavant, alors j'ai dû fouiller un peu.
+*Liens utiles:*
+[Writing device drivers in Linux: A brief tutorial](http://www.freesoftwaremagazine.com/articles/drivers_linux?page=0%2C0)
+[Linux Device Drivers, Third Edition](http://lwn.net/Kernel/LDD3/)
+
+[**Carte de test E/S**]{.underline}
+Qui dit hard à contrôler dit souvent carte de test. Comme je ne suis pas du tout sûr des commandes que j'envoie pour commander les E/S, je me suis monté une carte de test (un grand mot pour 4 LED et 4 résistances) pour vérifier que les connecteurs ont été bien reliés par le sous traitant (c'est pas gagné apparemment), et vérifier que mes commandes font bien ce que j'attends.
+C'est bien sûr beaucoup plus drôle quand on ne sait pas comment le sous traitant a relié le connecteur (DB9) aux pins de la carte mère (10 broches). Où serait le fun sinon ?
+
+[**Code de test dans l'espace utilisateur**]{.underline}
+Comme les E/S de cette carte se commandent bizarrement, (une interruption qui appelle une sous-fonction dans le BIOS), et que je ne sais pas encore vraiment quelles commandes envoyer, j'utilise pour la mise au point un programme en user-space. Il doit tourner en root pour pouvoir accéder au matériel, et c'était une des solutions possibles (et simple), mais je ne souhaite pas que l'application finale tourne sous root (sécurité oblige).
+*Lien utile:*
+[Linux I/O port programming mini-HOWTO](http://www.faqs.org/docs/Linux-mini/IO-Port-Programming.html)
+
+[**Recherche de bug de règle udev**]{.underline}
+Pour un autre périphérique, le fournisseur me donne un driver et une règle udev. J'ai trouvé sa règle codée comme un goret. La procédure d'install est un truc à base de Makefile fait à la main, et quand on est habitué aux trucs cleans fournis par les distributions... on se rend compte que d'autres en sont encore loin.
+Le périphérique est une caméra usb. La règle udev du constructeur cherche à modifier les droits d'accès du périphérique dans /proc/bus/usb/, et il n'y a que comme ça qu'on peut lancer **sans être root** une application qui verra le périphérique connecté. Sauf que sa règle ne marche pas sous ma Fedora Core 6, alors que ma règle fonctionne (change les permissions du device, et le groupe), mais dans /dev/bus/usb/. Pourquoi diable passent ils par /proc ? C'est ce qui se faisait avant udev ? ***
+Update:** Mon contact me dit que c'est ce qui se faisait avant le kernel 2.6.14.*
+*Lien utile:*
+[Writing udev rules](http://reactivated.net/writing_udev_rules.html)
+
+
 Bref, tout ça c'est très motivant, mais ça me prend aussi beaucoup de temps, surtout que tout ça est à 80% nouveau pour moi ! C'est dans ces moments que je ne suis pas mécontent d'habiter à 15 minutes en voiture du boulot :-)

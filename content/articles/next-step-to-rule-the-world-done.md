@@ -19,5 +19,5 @@ Everything you should know about it is here:
 - [Mandriva Linux 2008.1 Errata](http://wiki.mandriva.com/en/2008.1_Errata){hreflang="fr"}
 - [Mandriva Linux 2008.1 Reviewers Guide](http://wiki.mandriva.com/en/2008.1_Reviewers_Guide){hreflang="fr"}
 
-And the most important : the link to [download Mandriva Linux](http://torrent.mandriva.com{static}/images/) with your prefered bittorrent client ([Transmission](http://www.transmissionbt.com/){hreflang="en"} in my case).  
+And the most important : the link to [download Mandriva Linux](http://torrent.mandriva.com{static}/images/) with your prefered bittorrent client ([Transmission](http://www.transmissionbt.com/){hreflang="en"} in my case).
 Many thanks to everyone who worked on this release. Now Enjoy !

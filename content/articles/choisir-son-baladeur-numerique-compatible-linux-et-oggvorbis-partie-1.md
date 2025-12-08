@@ -61,5 +61,5 @@ L'UMS assure que le baladeur est reconnu comme une clé USB: on peut y déposer 
 
 ## Est-ce que je cherche le mouton à 5 pattes ?
 
-J'en ai l'impression, car les modèles proposés actuellement par les constructeurs veulent tout faire (vidéo, photo, jeux) sans rien faire vraiment bien. Trouver un baladeur gérant les métadonnées des fichiers Ogg/Vorbis semble relever du défi par exemple. Néanmoins j'ai étudié quelques modèles, sur lesquels je vous livrerai bientôt quelques observations.  
-  
+J'en ai l'impression, car les modèles proposés actuellement par les constructeurs veulent tout faire (vidéo, photo, jeux) sans rien faire vraiment bien. Trouver un baladeur gérant les métadonnées des fichiers Ogg/Vorbis semble relever du défi par exemple. Néanmoins j'ai étudié quelques modèles, sur lesquels je vous livrerai bientôt quelques observations.
+

@@ -29,4 +29,4 @@ Mais il y a aussi quelques désavantages (liés à la version de dotclear utilis
 
 Cela m'a aussi permis de passer en revue presque un an de billets. C'est pas mal de pouvoir voir si une opinion a évolué, ce quon a pu faire... Bref, c'est reparti !
 
-**EDIT:** et pour mes (rares :-p) fidèles lecteurs, ça se passe maintenant sur [http://blog.freeside.fr](){hreflang="fr"}.  
+**EDIT:** et pour mes (rares :-p) fidèles lecteurs, ça se passe maintenant sur [http://blog.freeside.fr](){hreflang="fr"}.

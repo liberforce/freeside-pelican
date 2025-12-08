@@ -14,44 +14,44 @@ Rah, ça y est, je me rapproche du côté obscur... la trentaine ! J'ai 29 ans d
 - Les couper à mi-longueur parce que j'en ai marre que mes nièces m'appellent Jésus (et parce qu'apparemment, j'ai pas une texture de cheveu adéquate pour les avoir longs). Désolé Daniel ;-) . Ah, j'avais aussi revu la mère et la soeur d'un pote pour ses 30 ans, et là je me suis pris en pleine face le combo de remarques sur la barbe et les cheveux longs.
 - Les achever en revenant à la coupe courte/barbe mal rasée (bien obligé, avec les cheveux courts, dès que je me rase, je perds 10 ans).
 
-Joignons donc la preuve par l'image, avec une année d'échecs capillaires, occasion d'un petit pot pourri d'une année de photos de moi. Et oui, je n'en ai pas des masses (logique, c'est moi le photographe d'habitude) mais bon, un anniversaire, ce n'est qu'une fois l'an (merci [La Palice](http://fr.wikipedia.org/wiki/Lapalissade){hreflang="fr"}) alors je me permets un petit défilé. Fut une époque, je n'aimais pas me voir en photo, ou me laisser prendre en photo, et puis je me suis rendu compte qu'à ce train là, le grand album de la vie resterait vide.  
-  
-[![]({static}/images/people/luis/.200708_m.jpg "200708.jpg, nov 2008")]({static}/images/people/luis/200708.jpg)  
+Joignons donc la preuve par l'image, avec une année d'échecs capillaires, occasion d'un petit pot pourri d'une année de photos de moi. Et oui, je n'en ai pas des masses (logique, c'est moi le photographe d'habitude) mais bon, un anniversaire, ce n'est qu'une fois l'an (merci [La Palice](http://fr.wikipedia.org/wiki/Lapalissade){hreflang="fr"}) alors je me permets un petit défilé. Fut une époque, je n'aimais pas me voir en photo, ou me laisser prendre en photo, et puis je me suis rendu compte qu'à ce train là, le grand album de la vie resterait vide.
+
+[![]({static}/images/people/luis/.200708_m.jpg "200708.jpg, nov 2008")]({static}/images/people/luis/200708.jpg)
 
 *Aout 2007 : en vacances au Portugal*
 
-[![]({static}/images/people/luis/.200711_m.jpg "200711.jpg, nov 2008")]({static}/images/people/luis/200711.jpg)  
+[![]({static}/images/people/luis/.200711_m.jpg "200711.jpg, nov 2008")]({static}/images/people/luis/200711.jpg)
 
 *Novembre 2007 : Au parc Astérix (avec mon pote Philippe sur la photo)*
 
-[![]({static}/images/people/luis/.200712-1_m.jpg "200712-1.jpg, nov 2008")]({static}/images/people/luis/200712-1.jpg)  
+[![]({static}/images/people/luis/.200712-1_m.jpg "200712-1.jpg, nov 2008")]({static}/images/people/luis/200712-1.jpg)
 
 *Décembre 2007 : sur les bords de Marne pour préparer les élections Municipales*
 
-[![]({static}/images/people/luis/.200712-2_m.jpg "200712-2.jpg, nov 2008")]({static}/images/people/luis/200712-2.jpg)  
+[![]({static}/images/people/luis/.200712-2_m.jpg "200712-2.jpg, nov 2008")]({static}/images/people/luis/200712-2.jpg)
 
 *Décembre 2007 : Épluchant le céleri pour le réveillon chez mon pote Cédric (pfff... aucune des photos en pull-chemise-cravate d'après n'est bien passée :-( )*
 
-[![]({static}/images/people/luis/.200802_m.jpg "200802.jpg, nov 2008")]({static}/images/people/luis/200802.jpg)  
+[![]({static}/images/people/luis/.200802_m.jpg "200802.jpg, nov 2008")]({static}/images/people/luis/200802.jpg)
 
 *Février 2008 : en promenade en forêt, laissant ressortir mon instinct animal*
 
-[![]({static}/images/people/luis/.200804_m.jpg "200804.jpg, nov 2008")]({static}/images/people/luis/200804.jpg)  
+[![]({static}/images/people/luis/.200804_m.jpg "200804.jpg, nov 2008")]({static}/images/people/luis/200804.jpg)
 
 *Mars 2008 : Oui, bon, chacun sa tenue de Rocker pour jouer à Guitar Hero... On va dire que le public m'a arraché mes vêtements :-p*
 
-[![]({static}/images/people/luis/.200805-1_m.jpg "200805-1.jpg, nov 2008")]({static}/images/people/luis/200805-1.jpg)  
+[![]({static}/images/people/luis/.200805-1_m.jpg "200805-1.jpg, nov 2008")]({static}/images/people/luis/200805-1.jpg)
 
 *Mai 2008 : Apogée de la période "Jésus"*
 
-[![]({static}/images/people/luis/.200805-2_m.jpg "200805-2.jpg, nov 2008")]({static}/images/people/luis/200805-2.jpg)  
+[![]({static}/images/people/luis/.200805-2_m.jpg "200805-2.jpg, nov 2008")]({static}/images/people/luis/200805-2.jpg)
 
 *Mai 2008 : un p'tit coup d'Install Party Mandriva Linux, rue d'Aboukir*
 
-[![]({static}/images/people/luis/.200807_m.jpg "200807.jpg, nov 2008")]({static}/images/people/luis/200807.jpg)  
+[![]({static}/images/people/luis/.200807_m.jpg "200807.jpg, nov 2008")]({static}/images/people/luis/200807.jpg)
 
 *Juillet 2008 : vacances en Turquie (oui [Fred](http://blog.crozat.net/), je vais finir par les lâcher, les photos du [GUADEC](http://www.guadec.org){hreflang="en"}, promis ;-) ). Notez que des cheveux sont tombés au passage...\*
 
-[![]({static}/images/people/luis/.200811_m.jpg "200811.jpg, nov 2008")]({static}/images/people/luis/200811.jpg)  
+[![]({static}/images/people/luis/.200811_m.jpg "200811.jpg, nov 2008")]({static}/images/people/luis/200811.jpg)
 
 *Novembre 2008 : Votre serviteur, ce soir, dans son futur ex-bureau plein de cartons... Le ratiboisage n'est plus tout frais, et ma coiffeuse portugaise devrait me revoir bientôt.\*
