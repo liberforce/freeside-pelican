@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+# ruff: noqa: F403, F405
 from __future__ import unicode_literals
 
 import os
@@ -18,6 +19,10 @@ FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
 DELETE_OUTPUT_DIRECTORY = True
+
+# These paths are implied as absolute in the Flex theme
+SITELOGO = f"{SITEURL}{SITELOGO}"
+MENUITEMS = tuple((title, f"{SITEURL}{link}") for (title, link) in MENUITEMS)
 
 # Following items are often useful when publishing
 

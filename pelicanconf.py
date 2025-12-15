@@ -7,7 +7,6 @@ from datetime import datetime
 AUTHOR = "liberforce"
 SITENAME = "Greetings From The Free Side!"
 SITEURL = "http://www.freeside.fr/blog"
-SITELOGO = "images/hackergotchi.png"
 
 PATH = "content"
 
@@ -59,14 +58,17 @@ ARTICLE_LANG_SAVE_AS = ARTICLE_URL
 # Theme to use
 THEME = "themes/Flex"
 
-#########
-# Menubar
-#########
+#######
+# Menus
+#######
 MAIN_MENU = True
+
+# These paths are implied as absolute in the Flex theme
+SITELOGO = "/images/hackergotchi.png"
 MENUITEMS = (
-    ("Archives", "archives.html"),
-    ("Categories", "categories.html"),
-    ("Tags", "tags.html"),
+    ("Archives", "/archives.html"),
+    ("Categories", "/categories.html"),
+    ("Tags", "/tags.html"),
 )
 
 #########
