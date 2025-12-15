@@ -115,8 +115,20 @@ def livereload(c):
     server.serve(port=CONFIG["port"], root=CONFIG["deploy_path"])
 
 
-@task
-def publish(c):
+def sftp_publish(c):
+    """Publish to production via sftp"""
+    c.run("pelican --settings {settings_publish}".format(**CONFIG))
+    deploy_path = CONFIG["deploy_path"]
+    cmd = (
+        "lftp"
+        ' -u "${SFTP_USER},${SFTP_PASS}"'
+        f' -e "set net:timeout 4;set net:max-retries 6;mirror -R --parallel=8 --no-perms --newer-than=now-2days --only-newer {deploy_path}/ www/blog/;bye"'
+        ' "sftp://${SFTP_HOST}:${SFTP_PORT}"'
+    )
+    c.run(cmd)
+
+
+def rsync_publish(c):
     """Publish to production via rsync"""
     c.run("pelican --settings {settings_publish}".format(**CONFIG))
     c.run(
@@ -126,6 +138,11 @@ def publish(c):
             CONFIG["deploy_path"].rstrip("/") + "/", **CONFIG
         )
     )
+
+
+@task
+def publish(c):
+    sftp_publish(c)
 
 
 @task
