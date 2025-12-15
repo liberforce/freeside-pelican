@@ -6,9 +6,8 @@ from datetime import datetime
 
 AUTHOR = "liberforce"
 SITENAME = "Greetings From The Free Side!"
-
-# If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = "http://www.freeside.fr"
+SITELOGO = "/images/hackergotchi.png"
 
 PATH = "content"
 
