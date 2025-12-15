@@ -33,7 +33,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("Mastodon", "https://framapiaf.org/@liberforce"),
+    ("mastodon", "https://framapiaf.org/@liberforce"),
     ("github", "https://github.com/liberforce"),
 )
 
