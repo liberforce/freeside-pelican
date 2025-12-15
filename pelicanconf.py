@@ -62,7 +62,7 @@ THEME = "themes/Flex"
 #########
 # Menubar
 #########
-MAIN_MENU=True
+MAIN_MENU = True
 MENUITEMS = (
     ("Archives", "/archives.html"),
     ("Categories", "/categories.html"),
