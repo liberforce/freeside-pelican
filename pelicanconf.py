@@ -6,8 +6,8 @@ from datetime import datetime
 
 AUTHOR = "liberforce"
 SITENAME = "Greetings From The Free Side!"
-SITEURL = "http://www.freeside.fr"
-SITELOGO = "/images/hackergotchi.png"
+SITEURL = "http://www.freeside.fr/blog"
+SITELOGO = "images/hackergotchi.png"
 
 PATH = "content"
 
@@ -64,9 +64,9 @@ THEME = "themes/Flex"
 #########
 MAIN_MENU = True
 MENUITEMS = (
-    ("Archives", "/archives.html"),
-    ("Categories", "/categories.html"),
-    ("Tags", "/tags.html"),
+    ("Archives", "archives.html"),
+    ("Categories", "categories.html"),
+    ("Tags", "tags.html"),
 )
 
 #########
