@@ -19,5 +19,6 @@ I wish you all the best for 2007 !
 ![](http://idata.over-blog.com/0/50/48/55/santa.png){height="329" width="421"}
 
 Credits: [Johann "nojhan"
-Dréo](http://www.nojhan.net/geekscottes/index.php?strip=34) Licence: [Creative
-Commons BY-ShareAlike](http://creativecommons.org/licenses/by-sa/2.0/)
+Dréo](http://www.nojhan.net/geekscottes/index.php?strip=34)\
+Licence: [Creative Commons
+BY-ShareAlike](http://creativecommons.org/licenses/by-sa/2.0/)
