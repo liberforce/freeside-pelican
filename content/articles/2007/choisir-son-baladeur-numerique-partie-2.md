@@ -54,6 +54,6 @@ constructeurs/revendeurs sur lesquels me pencher:
 L'étape suivante, c'est trouver des modèles intéressants chez ces
 constructeurs. On m'en a déjà soufflé quelques uns à l'oreille dans les
 commentaires de la [partie
-1]({filename}/articles/choisir-son-baladeur-numerique-compatible-linux-et-oggvorbis-partie-1.md),
+1]({filename}choisir-son-baladeur-numerique-compatible-linux-et-oggvorbis-partie-1.md),
 des modèles intéressants de chez Cowon et Meizu (dont Dane-elec est le
 revendeur en France).

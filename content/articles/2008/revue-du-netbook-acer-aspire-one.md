@@ -12,7 +12,7 @@ Voilà une [revue du Acer Aspire
 One](http://linuxfr.org/%7Ealouali/26925.html) sur LinuxFr. Le
 point litigieux (l'écran trop brillant) évoqué par Xate dans mon dernier
 [billet sur les
-netbooks]({filename}/articles/micro-hebdo-ndeg531-sur-les-ultra-portables-netbooks.md)
+netbooks]({filename}micro-hebdo-ndeg531-sur-les-ultra-portables-netbooks.md)
 a été soulevé, voici ce qu'en pense *alouali*, le rédacteur de l'article :
 
 > J'avais une petite angoisse sur l'écran brillant et les reflets, mais

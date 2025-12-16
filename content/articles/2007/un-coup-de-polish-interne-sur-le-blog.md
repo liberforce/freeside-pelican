@@ -41,7 +41,7 @@ Le moyen de pouvoir attribuer plusieurs tags à un article bon sang! C'est ce
 qui manque clairement sur over-blog. J'écris souvent des articles à la
 frontière de deux sujets, et j'avoue que c'est la fonctionnalité manquante la
 plus frustrante. Impossible sur un article comme "[Recycling and the art of
-BadRAM]({filename}/articles/recycling-and-the-art-of-badram.md)" de taguer
+BadRAM]({filename}recycling-and-the-art-of-badram.md)" de taguer
 l'article sous la forme "informatique + écologie", alors que le recyclage d'un
 ordinateur concerne les deux domaines.
 

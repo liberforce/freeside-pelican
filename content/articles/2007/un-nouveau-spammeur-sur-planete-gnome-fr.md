@@ -19,7 +19,7 @@ se retrouver ici !).
 
 Pour ce qui ne me connaissent pas (et il doit y en avoir un paquet), je vous
 renvois à mon [billet
-d'introduction]({filename}/articles/2006/everything-has-a-beginning.md).
+d'introduction]({filename}../2006/everything-has-a-beginning.md).
 Autrement, je traine en ce moment mes guêtres du côté
 d'[Ekiga](http://ekiga.org/), au niveau de la migration à GTK+ 2.10. Et puis
 j'ai un petit projet qui arrivera peut être après ça, si j'ai un peu plus

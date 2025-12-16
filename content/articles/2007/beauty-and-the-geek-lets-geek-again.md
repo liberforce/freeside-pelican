@@ -11,7 +11,7 @@ status: "published"
 Après avoir visionné les saisons 1, 2 et 3 US et la saison 1 anglaise,
 j'attendais l'adaptation française de ce produit de la real tv. Quoi, vous ne
 savez pas de quoi je parle ? Alors [consultez vos
-antisèches]({filename}/articles/culture-geek.md).
+antisèches]({filename}culture-geek.md).
 
 On attendait donc cet été l'adaptation française, "Bimbos et Intellos" (admirez
 l'imagination des traducteurs), les candidats avaient même monté un blog

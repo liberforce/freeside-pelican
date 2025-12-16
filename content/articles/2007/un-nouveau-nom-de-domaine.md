@@ -9,11 +9,11 @@ lang: "fr"
 status: "published"
 ---
 Il y a peu, je déclarais être [à la recherche d'un nom de
-domaine]({filename}/articles/sondage-quel-nom-de-domaine-choisir.md)...
+domaine]({filename}sondage-quel-nom-de-domaine-choisir.md)...
 Suite à une conversation avec un [individu lambda](http://www.vuntz.net/),
 c'est la seule solution qu'il me restait pour avoir une redirection mail qui
 fonctionne, dû à mes [problèmes avec
-ulimit.com]({filename}/articles/fed-up-with-ulimitcom.md). J'en
+ulimit.com]({filename}fed-up-with-ulimitcom.md). J'en
 profiterai peut-être pour migrer mon blog, afin de satisfaire les jérémiades
 d'un [individu gamma](http://figuiere.net/) ;-) .
 

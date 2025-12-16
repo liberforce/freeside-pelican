@@ -19,7 +19,7 @@ retrouver de vieilles vidéos sur
 [abandonware-videos.org](http://www.abandonware-videos.org). Je n'ai commencé à
 jouer à Diablo que l'année suivante, une fois que j'ai eu mon premier PC
 (j'étais auparavant un Amigaïste [comme certains le savent peut
-être]({filename}/articles/tuer-du-monstre-se-relaxer.md)). Déjà à l'époque, la sauce
+être]({filename}../2007/tuer-du-monstre-se-relaxer.md)). Déjà à l'époque, la sauce
 prenait bien. La collectionnite aigüe d'armes, et d'items en tous genres dans
 une ambiance bien glauque fonctionnaient du tonnerre : qui n'a pas frémi devant
 [The

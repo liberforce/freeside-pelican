@@ -17,7 +17,7 @@ reactive.
 2008")]({static}/images/mandriva/bootchart-2009.0-no-usb-storage.png)
 
 If you didn't, you should read my [previous entry about boot
-time]({filename}/articles/what-happened-to-my-boot-time-dude.md). So, how did these 9
+time]({filename}what-happened-to-my-boot-time-dude.md). So, how did these 9
 seconds (compared to 2009.0 without the fix, and 7 compared to 2008.1)
 disapeared ? Well, first, I'd tell you I'm not sure they're completely gone,
 because I felt that loging in was sensibly slower (more time until I have a

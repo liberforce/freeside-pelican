@@ -72,7 +72,7 @@ comprendrez que le chemin est encore long pour ceux qui veulent changer les
 mentalités... Je me rappelle encore [à la sortie de Windows Vista, la RTBF
 parlait de Linux](http://youtube.com/watch?v=ws4JJ2Z9eaQ), alors
 qu'en France, [Bill Gates était invité au journal de
-20H]({filename}/articles/bill-gates-au-20h-de-ppda.md)
+20H]({filename}bill-gates-au-20h-de-ppda.md)
 
 **EDIT:**L'article du Point est effectivement bien antérieur à celui de France
 Matin, merci à Gnunux pour sa remarque.

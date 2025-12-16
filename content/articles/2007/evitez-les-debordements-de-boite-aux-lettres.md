@@ -17,9 +17,15 @@ voir si ce type de consigne sur boite aux lettres est réellement suivi ou pas.
 
 J'espère en tout cas profiter d'un peu de répit publicitaire... Sauf si [SFR
 trouble à nouveau ma
-tranquilité]({filename}/articles/sfr-tetes-a-claques-ca-cest-sur.md).
+tranquilité]({filename}sfr-tetes-a-claques-ca-cest-sur.md).
 
-***EDIT1:**  un conseil, imprimez les planches stop pub en couleur, sinon vous
-aurez plus de papier gâché qu'économisé :-( **EDIT2:** Je déplace ma complainte
-contre SFR sur le billet correspondant, histoire de profiter du fait que google
-me place deuxième pour une recherche "sfr tête à claques"... :-)*
+**EDIT1:**
+
+un conseil, imprimez les planches stop pub en couleur, sinon vous aurez plus de
+papier gâché qu'économisé :-(
+
+**EDIT2:**
+
+Je déplace ma complainte contre SFR sur le billet correspondant, histoire de
+profiter du fait que google me place deuxième pour une recherche "sfr tête à
+claques"... :-)

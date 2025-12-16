@@ -33,7 +33,7 @@ très bruyant. C'est aussi pour ça que je compte refaire le sol. C'était déj�
 bruyant avec une seule personne dedans, alors à deux (courant derrière le chat,
 qui plus est) ! Quel intérêt d'avoir son chez soi si on a peur d'inviter de
 gens, parce que ça pourrait déranger ? Et puis vu [mes voisins
-actuels]({filename}/articles/proprietaire-enfin.md), je ne veux faire
+actuels]({filename}proprietaire-enfin.md), je ne veux faire
 subir cela à personne. Donc on va refaire l'isolation phonique, comme il faut,
 pour être tranquilles. En plus les voisins n'habitent apparemment les lieux que
 6 mois par an, donc il y a au moins une moitié de l'année où on pourra faire la
