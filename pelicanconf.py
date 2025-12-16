@@ -79,6 +79,11 @@ MENUITEMS = (
     ("Tags", "/tags.html"),
 )
 
+#######
+# Fonts
+#######
+USE_GOOGLE_FONTS = False
+
 #########
 # License
 #########
