@@ -127,8 +127,6 @@ that was not being used.
 
 ## gnome-terminal
 
-<del>
-
 ~~Waaaay too many calls. We here have 4 poll calls/second. The blinking cursor
 may be a cause (I'm aware a patch for this was made for
 [OLPC](http://laptop.org)). I also know
@@ -136,8 +134,6 @@ may be a cause (I'm aware a patch for this was made for
 adding a timer to prevent gnome-terminal from trying to refresh too many times
 the screen. The goal was to accelerate the display of information. Don't know
 if the extra calls are related to this, however.~~
-
-</del>
 
 **Update:** ok, I must have been drinking, everything is normal.  I tested the
 gnome-terminal that was running strace, so I was getting the calls for
