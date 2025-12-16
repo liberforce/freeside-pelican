@@ -20,7 +20,7 @@ Alors quand vous irez voter, rappelez vous bien que:
   "karcher"](http://youtube.com/watch?v=xR7pHvh-y5A) si cher à son chef !
 
 Bref, comme disait Act'Up: [Votez Le
-Pen](http://www.indigenes37.org/IMG/arton141.jpg) !
+Pen](http://www.indigenes37.org/IMG/arton141.jpg) !
 
 Toi aussi, français, vote `<acronym title="Tout Sauf
 Sarkozy">`{=html}TSS`</acronym>`{=html} !
