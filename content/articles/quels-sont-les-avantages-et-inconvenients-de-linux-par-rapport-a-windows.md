@@ -3,7 +3,7 @@ title: "Quels sont les avantages et inconvénients de Linux par rapport à Windo
 date: "2009-05-11 01:53"
 author: "liberforce"
 category: "Computers / Informatique"
-tags: "QR, windows, linux"
+tags: "qr, windows, linux"
 slug: "quels-sont-les-avantages-et-inconvenients-de-linux-par-rapport-a-windows"
 lang: "fr"
 status: "published"
