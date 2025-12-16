@@ -3,14 +3,14 @@ title: "La fin de l'Internet ?"
 date: "2007-01-12 03:00"
 author: "liberforce"
 category: "Computers / Informatique"
-tags: "Unclassified"
+tags: "qr, internet, web"
 slug: "la-fin-de-linternet"
 lang: "fr"
 status: "published"
 ---
-[Questions "Yahoo Questions/Réponses" du jour:
+[Questions "Yahoo Questions/Réponses" du jour:]{.hitimportant}
 
-]{.hitimportant}**La surprenante:**
+**La surprenante:**
 
 - Etes vous [exobiophiles](http://fr.wikipedia.org/wiki/Exobiophilie) ?
 
