@@ -19,7 +19,9 @@ blogueurs ont dû voir le même message).
 Quelques heures plus tard, voici l'interface d'administration que j'ai
 découverte:
 
-![]({static}/images/vrac/screenshot-over-blog-v2.png) **Ce que j'ai aimé:**
+![]({static}/images/vrac/screenshot-over-blog-v2.png)
+
+**Ce que j'ai aimé:**
 
 - La possibilité de connaitre la provenance des gens qui visitent mon site
 - La possibilité de voir quels articles ont plu ou ont été bien référencé
@@ -33,14 +35,15 @@ compte payant.
 - Le fait que les graphiques soient faits en Flash :-( (kipuképalibre)
 
 
-**Ce que j'aurais aimé avoir:\** Le moyen de pouvoir attribuer plusieurs tags à
-un article bon sang! C'est ce qui manque clairement sur over-blog. J'écris
-souvent des articles à la frontière de deux sujets, et j'avoue que c'est la
-fonctionnalité manquante la plus frustrante. Impossible sur un article comme
-"[Recycling and the art of
-BadRAM](/post/2007/01/10/Recycling-and-the-art-of-BadRAM)" de
-taguer l'article sous la forme "informatique + écologie", alors que le
-recyclage d'un ordinateur concerne les deux domaines.
+**Ce que j'aurais aimé avoir:**
+
+Le moyen de pouvoir attribuer plusieurs tags à un article bon sang! C'est ce
+qui manque clairement sur over-blog. J'écris souvent des articles à la
+frontière de deux sujets, et j'avoue que c'est la fonctionnalité manquante la
+plus frustrante. Impossible sur un article comme "[Recycling and the art of
+BadRAM]({filename}/articles/recycling-and-the-art-of-badram.md)" de taguer
+l'article sous la forme "informatique + écologie", alors que le recyclage d'un
+ordinateur concerne les deux domaines.
 
 Espéront que ce sera pour la V3 :-) En attendant je suis assez satisfait du
 service, alors longue vie à over-blog, tant qu'ils continuent à faire du bon

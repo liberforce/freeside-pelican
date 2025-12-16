@@ -11,7 +11,7 @@ status: "published"
 [Hub](http://www.figuiere.net/) m'a fait remarquer que le
 [MTP](http://en.wikipedia.org/wiki/Media_Transfer_Protocol)
 était mieux géré [que je ne le
-pensais](/post/2007/10/12/Choisir-son-baladeur-numerique-compatible-Linux-et-Ogg/Vorbis)
+pensais]({filename}/articles/choisir-son-baladeur-numerique-compatible-linux-et-oggvorbis-partie-1.md)
 sous Linux. J'en conclus par conséquent que si l'on ne souhaite pas vraiment
 faire une utilisation "clé USB", un baladeur MTP est une solution acceptable.
 
