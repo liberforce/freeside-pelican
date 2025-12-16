@@ -39,7 +39,7 @@ Mais en ce moment je fais des choses intéressantes au boulot. Certes, ça
 n'avance pas très vite (bon, j'ai l'habitude), mais je ne vois pas le temps
 passer. Alors voilà un peu sur quoi je m'amuse depuis jeudi dernier...
 
-[**Développement de driver E/S**]{.underline}
+## Développement de driver E/S
 
 Je dois développer un driver pour le kernel 2.6.18, afin de commander des
 entrées/sorties numériques. Je n'ai jamais développé de driver auparavant,
@@ -51,7 +51,7 @@ alors j'ai dû fouiller un peu.
 tutorial](http://www.freesoftwaremagazine.com/articles/drivers_linux?page=0%2C0)
 - [Linux Device Drivers, Third Edition](http://lwn.net/Kernel/LDD3/)
 
-[**Carte de test E/S**]{.underline}
+## Carte de test E/S
 
 Qui dit hard à contrôler dit souvent carte de test. Comme je ne suis pas du
 tout sûr des commandes que j'envoie pour commander les E/S, je me suis monté
@@ -62,7 +62,7 @@ bien sûr beaucoup plus drôle quand on ne sait pas comment le sous traitant a
 relié le connecteur (DB9) aux pins de la carte mère (10 broches). Où serait le
 fun sinon ?
 
-[**Code de test dans l'espace utilisateur**]{.underline}
+## Code de test dans l'espace utilisateur
 
 Comme les E/S de cette carte se commandent bizarrement, (une interruption qui
 appelle une sous-fonction dans le BIOS), et que je ne sais pas encore vraiment
@@ -76,7 +76,7 @@ l'application finale tourne sous root (sécurité oblige).
 - [Linux I/O port programming
   mini-HOWTO](http://www.faqs.org/docs/Linux-mini/IO-Port-Programming.html)
 
-[**Recherche de bug de règle udev**]{.underline}
+## Recherche de bug de règle udev
 
 Pour un autre périphérique, le fournisseur me donne un driver et une règle
 udev. J'ai trouvé sa règle codée comme un goret. La procédure d'install est un
