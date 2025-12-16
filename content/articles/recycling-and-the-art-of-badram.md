@@ -3,7 +3,7 @@ title: "Recycling and the art of BadRAM..."
 date: "2007-01-10 02:56"
 author: "liberforce"
 category: "Computers / Informatique"
-tags: "recycling, hardware, mandriva"
+tags: "recycling, hardware, mandriva, computers"
 slug: "recycling-and-the-art-of-badram"
 lang: "en"
 status: "published"
@@ -27,7 +27,7 @@ following:
 - 128MB SDRAM PC100
 - 2x 32 MB SDRAM PC100
 
-2\. Test the RAM with the [memtest](http://www.memtest.org/) program shipped
+2. Test the RAM with the [memtest](http://www.memtest.org/) program shipped
 with [System Rescue CD](http://www.sysresccd.org/)
 3. See that the 128MB module can't run at 100MHz, that one of the 32MB modules
 has one error, and that only one is really working.
@@ -35,20 +35,23 @@ has one error, and that only one is really working.
 patch, that allows you to use deffective RAM modules; learn that the Mandriva
 kernel has been using this patch for a long time (since Mandrake 9.2 AFAIR).
 5. Install Mandriva 2007 with the task-gnome-minimal package
-6. Tune it to use the least memory I could (beware: net_applet seems to be is a
+6. Tune it to use the least memory I could (beware: net\_applet seems to be is a
 memory hog)
 
-**Total cost: 5€
+**Total cost: 5€**
 
 Seeing a Pentium II 400MHz running GNOME on 128MB of RAM, with a defective RAM
-module: [priceless
+module: priceless.
 
-]{.hitimportant}**Edit: I found a picture of my memcheck experiments on 128MB
-module. There was so many errors that I wanted to make sure I had copied them
-all :-) . Memcheck has an option to give error in the form of BadRAM patterns.
-This is the one shown here. That's a comma separated list of *address,mask*
-couples. In this example, there was so many errors, that I couldn't use this
-module, as the kernel would not accept that many arguments at boot time. But I
-could underclock this 100MHz SDRAM, using it in a slower machine (one that was
-running 66MHz SDRAM). Memtest confirmed that it would work.
+**Edit:**
+
+I found a picture of my memcheck experiments on 128MB module. There was so many
+errors that I wanted to make sure I had copied them all :-) . Memcheck has an
+option to give error in the form of BadRAM patterns.  This is the one shown
+here. That's a comma separated list of *address,mask* couples. In this example,
+there was so many errors, that I couldn't use this module, as the kernel would
+not accept that many arguments at boot time. But I could underclock this 100MHz
+SDRAM, using it in a slower machine (one that was running 66MHz SDRAM). Memtest
+confirmed that it would work.
+
 ![]({static}/images/vrac/memcheck.jpg)
