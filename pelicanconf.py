@@ -52,6 +52,14 @@ ARTICLE_SAVE_AS = ARTICLE_URL
 ARTICLE_LANG_URL = ARTICLE_URL
 ARTICLE_LANG_SAVE_AS = ARTICLE_URL
 
+# Categories
+CATEGORY_URL = "categories/{slug}.html"
+CATEGORY_SAVE_AS = CATEGORY_URL
+
+# Tags
+TAG_URL = "tags/{slug}.html"
+TAG_SAVE_AS = TAG_URL
+
 ########
 # Themes
 ########
