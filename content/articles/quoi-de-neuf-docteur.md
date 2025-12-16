@@ -8,8 +8,8 @@ slug: "quoi-de-neuf-docteur"
 lang: "fr"
 status: "published"
 ---
-::: contenuArticle Pfff...  Ça fait un moment que je n'ai pas des masses avancé
-sur [GNOME](http://www.gnome.org/)...  J'ai bien essayé de relancer les [GNOME
+Pfff...  Ça fait un moment que je n'ai pas des masses avancé sur
+[GNOME](http://www.gnome.org/)...  J'ai bien essayé de relancer les [GNOME
 Goals](http://live.gnome.org/GnomeGoals), mais c'est un peu dur de créer une
 synergie, et j'ai eu pas mal de pépins au moment où je l'ai fait. Par ailleurs,
 [ce bug](http://bugzilla.gnome.org/show_bug.cgi?id=336225) m'empêche d'ouvrir
@@ -30,4 +30,4 @@ Ma copine s'est aussi installée à la maison, alors ça bouffe pas mal de temps
 (mais je ne m'en plains pas ;-) ).
 
 Enfin, pas mal de boulot en ce moment. Mais comme c'est intéressant, je ne me
-plains pas. C'est d'ailleurs l'objet de mon prochain billet.  :::
+plains pas. C'est d'ailleurs l'objet de mon prochain billet.

@@ -14,11 +14,10 @@ bandwith and freedom, freedom, freedom...
 
 2006 was shitty ? Well...
 
-::: {style="text-align: center;"} [I wish you all the best for 2007
-!]{.hitimportant}
+I wish you all the best for 2007 !
 
+![](http://idata.over-blog.com/0/50/48/55/santa.png){height="329" width="421"}
 
-![](http://idata.over-blog.com/0/50/48/55/santa.png){.CtreTexte height="329"
-width="421"} Credits: [Johann "nojhan"
+Credits: [Johann "nojhan"
 Dréo](http://www.nojhan.net/geekscottes/index.php?strip=34) Licence: [Creative
-Commons BY-ShareAlike](http://creativecommons.org/licenses/by-sa/2.0/) :::
+Commons BY-ShareAlike](http://creativecommons.org/licenses/by-sa/2.0/)
