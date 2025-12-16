@@ -12,8 +12,9 @@ This is my new boot time, thanks to the instructions of Mandriva's kernel star,
 [pterjan](http://fasmz.org/%7Epterjan/blog/) :-p. Thanks for having been so
 reactive.
 
-![]({static}/images/mandriva/bootchart-2009.0-no-usb-storage.png "Bootchart
-2009.0 without usb-storage preloading, oct 2008")
+[![]({static}/images/mandriva/.bootchart-2009.0-no-usb-storage_m.jpg "Bootchart
+2009.0 without usb-storage preloading, oct
+2008")]({static}/images/mandriva/bootchart-2009.0-no-usb-storage.png)
 
 If you didn't, you should read my [previous entry about boot
 time](/post/2008/10/14/what-happened-to-my-boot-time-dude). So, how did these 9
