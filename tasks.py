@@ -52,7 +52,7 @@ def build(c):
 def rebuild(c):
     """`build` with the delete switch"""
     c.run(
-        "pelican --delete-output-directory --settings {settings_base}".format(**CONFIG)
+        "pelican --delete-output-directory --ignore-cache --settings {settings_base}".format(**CONFIG)
     )
 
 
