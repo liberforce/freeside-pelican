@@ -8,9 +8,7 @@ slug: "my-quote-of-the-day"
 lang: "en"
 status: "published"
 ---
-::: hitcitation
 > Windows is to computers what fast food is to gastronomy.
-:::
 
 Even being a Linux fan, I just can't agree more on that kind of videos, which
 restores the truth: graphical interface innovation nowadays in on Macs. It's

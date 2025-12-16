@@ -17,10 +17,10 @@ documentés avant l'interview de l'homme le plus riche du monde.
 
 [La plus belle perle du reportage:]{.underline}
 
-::: hitcitation *"Son nouveau produit, Vista, a été lancé cette semaine. Une
-nouvelle version de Windows plus conviviale, **et qui permet de regarder des
-programmes de télévision dans l'ordinateur**. De quoi selon Bill Gates, entre
-de plein pied dans l'ère du numérique"*.  :::
+> *"Son nouveau produit, Vista, a été lancé cette semaine. Une nouvelle version
+> de Windows plus conviviale, et qui permet de regarder des programmes de
+> télévision dans l'ordinateur**. De quoi selon Bill Gates, entre de plein pied
+> dans l'ère du numérique"*.
 
 
 Alors il faudra m'expliquer ce qu'il y a de nouveau dans le fait que Vista
@@ -46,8 +46,8 @@ Gates](http://forums.acbm.com/acbm/forum/viewthread?thread=369).
 
 PPDA nous montre ensuite qu'il s'y connait dans l'histoire de l'informatique:
 
-::: hitcitation On dit de vous que vous êtes plus businessman que visionnaire,
-en tout cas vous vous êtes rarement trompé dans les grands choix...  :::
+> On dit de vous que vous êtes plus businessman que visionnaire,
+> en tout cas vous vous êtes rarement trompé dans les grands choix...
 
 
 Quand on sait qu'il parle à l'homme qui n'a pas cru à Internet, et qui n'a
@@ -71,15 +71,15 @@ l'informatique (partie
 Je vous laisse méditer sur cette pensée de Joseph Stiglitz, prix Nobel
 d'économie, dans une entrevue de Liberation:
 
-::: hitcitation L'un des apôtres de la PI (ndm: Propriété intellectuelle), Bill
-Gates, peut-il et défendre les brevets pour Microsoft et sa fondation pour
-l'accès à la santé ?
-
-Gates, comme Rockfeller, utilise l'argent de son monopole illégal pour de
-bonnes causes, mais cela ne justifie pas la culture du monopole. On peut voler
-l'argent et le rendre aux pauvres, cela rend-il le délit moins mauvais ? Et,
-avec sa fondation, faire l'impasse sur la solution cruciale : toucher aux
-droits de propriété intellectuelle.  :::
+> L'un des apôtres de la PI (ndm: Propriété intellectuelle), Bill Gates,
+> peut-il et défendre les brevets pour Microsoft et sa fondation pour l'accès à
+> la santé ?
+> 
+> Gates, comme Rockfeller, utilise l'argent de son monopole illégal pour de
+> bonnes causes, mais cela ne justifie pas la culture du monopole. On peut
+> voler l'argent et le rendre aux pauvres, cela rend-il le délit moins mauvais
+> ? Et, avec sa fondation, faire l'impasse sur la solution cruciale : toucher
+> aux droits de propriété intellectuelle.
 
 [« *Le libre accès au savoir tient du bien public mondial*
 »](http://www.liberation.fr/actualite/economie/204050.FR.php)
