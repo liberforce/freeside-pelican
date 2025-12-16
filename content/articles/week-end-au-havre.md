@@ -12,9 +12,8 @@ Vendredi soir, début du périple: départ avec ma douce et tendre, qui s'était
 pour l'occasion allégée de quelques kilos de cheveux. Non, elle n'avait
 pourtant pas une coupe afro.
 
-::: {.hitencart style="margin-left: 2em"}
 - Départ à de Noisy le Grand (93) à 17H45
-- Arrivée à Octeville près du Havre (76) à 22H00 !  :::
+- Arrivée à Octeville près du Havre (76) à 22H00 !
 
 Sachant qu'on s'est juste arrêtés grignoter un morceau à une station service,
 et que je suis le seul à conduire, je peux dire que j'ai un peu regretté de ne

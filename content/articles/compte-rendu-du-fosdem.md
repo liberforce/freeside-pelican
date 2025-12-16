@@ -85,44 +85,62 @@ block;"}
 ![]({static}/images/fosdem/2007/fosdem-037.jpg){style="margin: 0 auto; display:
 block;"}
 
-::: {.hitencart style="text-align: left"} *"On a marché sur le FOSDEM"* :::
+::: {.hitencart .center}
+*"On a marché sur le FOSDEM"*
+:::
 
 ![]({static}/images/fosdem/2007/fosdem-048.jpg){style="margin: 0 auto; display:
 block;"}
 
-::: hitencart *"Bang ! Bang !"* :::
+::: {.hitencart .center}
+*"Bang ! Bang !"*
+:::
 
 ![]({static}/images/fosdem/2007/fosdem-056.jpg){style="margin: 0 auto; display:
 block;"}
 
-::: hitencart *"M'enfin, c'est pas encore l'heure de partir ?"* :::
+::: {.hitencart .center}
+*"M'enfin, c'est pas encore l'heure de partir ?"*
+:::
 
 ![]({static}/images/fosdem/2007/fosdem-059.jpg){style="margin: 0 auto; display:
 block;"}
 
-::: hitencart *"Tiens, voilà M'oiselle Jeanne..."* :::
+::: {.hitencart .center}
+*"Tiens, voilà M'oiselle Jeanne..."*
+:::
 
 ![]({static}/images/fosdem/2007/fosdem-084.jpg){style="margin: 0 auto; display:
 block;"}
 
-::: hitencart *"Spirou a dû aller au hamam"* :::
+::: {.hitencart .center}
+*"Spirou a dû aller au hamam"*
+:::
 
 ![]({static}/images/fosdem/2007/fosdem-094.jpg){style="margin: 0 auto; display:
 block;"}
 
-::: hitencart *"Moi et mes amis de toujours marchant vers Moulinsart"* :::
+::: {.hitencart .center}
+*"Moi et mes amis de toujours marchant vers Moulinsart"*
+:::
 
 ![]({static}/images/fosdem/2007/fosdem-102.jpg){style="margin: 0 auto; display:
 block;"}
 
-::: hitencart *"Le sceptre du tocard"* :::
+::: {.hitencart .center}
+*"Le sceptre du tocard"*
+:::
 
 ![]({static}/images/fosdem/2007/fosdem-106.jpg){style="margin: 0 auto; display:
 block;"}
 
-::: hitencart *"Je savais que j'avais bien fait de ne pas me raser..."* :::
+::: {.hitencart .center}
+*"Je savais que j'avais bien fait de ne pas me raser..."*
+:::
 
 ![]({static}/images/fosdem/2007/fosdem-118.jpg){style="margin: 0 auto; display:
 block;"}
 
-::: hitencart *"Allons chercher la mouette, bubulle et le gaffophone..."* :::
+::: {.hitencart .center}
+*"Allons chercher la mouette, bubulle et le gaffophone..."*
+:::
