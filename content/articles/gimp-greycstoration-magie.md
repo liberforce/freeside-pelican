@@ -26,4 +26,4 @@ blancs]({static}/images/hikaru/.hikaru-white-balanced_m.jpg)]({static}/images/hi
 ## Après débruitage par GREYcstoration :
 
 [![débruitagepar
-GREYcstoration](http://blog.freeside.fr{static}/images/hikaru/.hikaru-greycstoration_m.jpg)](http://blog.freeside.fr{static}/images/hikaru/hikaru-greycstoration.jpg)
+GREYcstoration]({static}/images/hikaru/.hikaru-greycstoration_m.jpg)]({static}/images/hikaru/hikaru-greycstoration.jpg)
