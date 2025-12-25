@@ -26,8 +26,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("GNOME", "http://www.gnome.org"),
-    ("Mageia", "http://www.mageia.org"),
+    ("GNOME", "https://www.gnome.org"),
+    ("Mageia", "https://www.mageia.org"),
 )
 
 # Social widget
