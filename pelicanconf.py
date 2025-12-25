@@ -99,3 +99,11 @@ CC_LICENSE = {
 #########
 CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True
+
+#########
+# Plugins
+#########
+PLUGINS = [
+    "pelican.plugins.pandoc_reader",
+    "pelican.plugins.minify",
+]
