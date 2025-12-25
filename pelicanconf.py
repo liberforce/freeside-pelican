@@ -6,7 +6,7 @@ from datetime import datetime
 
 AUTHOR = "liberforce"
 SITENAME = "Greetings From The Free Side!"
-SITEURL = "http://www.freeside.fr/blog"
+SITEURL = "https://www.freeside.fr/blog"
 
 PATH = "content"
 
