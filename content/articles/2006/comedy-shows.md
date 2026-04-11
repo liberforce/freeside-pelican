@@ -37,5 +37,7 @@ s'appitoyant sur son sort, ça vaut le détour (surtout en couple). Et puis vu l
 tarif, ce serait dommage de se priver.
 
 PS : Dédicace spéciale au sosie (ou au vrai ?) Nelson Montfort qui se trouvait
-à la Cigale :-) .  PPS: Vous direz au passage à Constance que non, tout les
+à la Cigale :-) .
+
+PPS: Vous direz au passage à Constance que non, tout les
 informaticiens ne puent pas de la gueule :-p
