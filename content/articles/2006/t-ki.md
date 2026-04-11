@@ -51,7 +51,7 @@ se trouve on habitait à 600km de distance)
 > très bonne idée. surtout si tu aimes les petits barbus de 27
 > ans...
 
-Réponse sans appel:*\*
+Réponse sans appel:
 
 > Nn c bon sa ira ciao
 
