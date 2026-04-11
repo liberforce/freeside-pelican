@@ -9,7 +9,7 @@ lang: "fr"
 status: "published"
 ---
 ...comme disent nos amis anglo-saxons. Alors tout d'abord, laissez moi vous
-souhaiter une **excellente année 2008 !  \**
+souhaiter une **excellente année 2008 !**
 
 J'ai de mon côté commencé les bonnes résolutions, comme par exemple mettre en
 application le principe de récompense. En gros, ceux qui font du bon boulot
@@ -25,5 +25,3 @@ Quoi, tu n'as pas écouté de musique (pseudo) libre ? Dans ce cas, tu peux tout
 de même payer une bière à tes [développeurs de logiciel libre
 préférés](http://www.gnome.org), ou bien aider à diffuser leur
 travail.
-
-**\**

@@ -17,10 +17,10 @@ documentés avant l'interview de l'homme le plus riche du monde.
 
 [La plus belle perle du reportage:]{.underline}
 
-> *"Son nouveau produit, Vista, a été lancé cette semaine. Une nouvelle version
+> Son nouveau produit, Vista, a été lancé cette semaine. Une nouvelle version
 > de Windows plus conviviale, et qui permet de regarder des programmes de
-> télévision dans l'ordinateur**. De quoi selon Bill Gates, entre de plein pied
-> dans l'ère du numérique"*.
+> télévision dans l'ordinateur. De quoi selon Bill Gates, entre de plein pied
+> dans l'ère du numérique.
 
 
 Alors il faudra m'expliquer ce qu'il y a de nouveau dans le fait que Vista
@@ -40,7 +40,7 @@ douteux de la fondation
 Gates](http://www.latimes.com/news/nationworld/nation/la-na-gatesx07jan07,0,4205044,full.story?coll=la-home-headlines)
 aurait pu le mettre sur la voie sur la schyzophrénie de Gates: sa fondation
 investit dans la recherche contre les maladies tout en prenant des parts dans
-les plus gros pollueurs mondiaux (notamment les groupes pétroliers) Voici un
+les plus gros pollueurs mondiaux (notamment les groupes pétroliers). Voici un
 résumé en français de l'article sur [Les placements douteux de la fondation
 Gates](http://forums.acbm.com/acbm/forum/viewthread?thread=369).
 
@@ -60,13 +60,14 @@ pratiquement jamais innové, juste "emprunté" les technologies développés par
 les autres, comme souvent en informatique.
 
 Si vous avez du temps, je vous conseille à ce sujet cette excellente série de
-reportages sur l'histoire de l'informatique (3 x 45mn): [Les cinglés de
-l'informatique (partie
-1)](http://www.dailymotion.com/relevance/search/informatique/video/xwx6o_les-cingles-de-linformatique-part1_tech)
-[Les cinglés de l'informatique (partie
-2)](http://www.dailymotion.com/relevance/search/informatique/video/xx27w_les-cingles-de-linformatique-part2_tech)
-[Les cinglés de l'informatique (partie
-3)](http://www.dailymotion.com/relevance/search/informatique/video/xwxwk_les-cingles-de-linformatique-part3_tech)
+reportages sur l'histoire de l'informatique (3 x 45mn):
+
+- [Les cinglés de l'informatique (partie
+  1)](http://www.dailymotion.com/relevance/search/informatique/video/xwx6o_les-cingles-de-linformatique-part1_tech)
+- [Les cinglés de l'informatique (partie
+  2)](http://www.dailymotion.com/relevance/search/informatique/video/xx27w_les-cingles-de-linformatique-part2_tech)
+- [Les cinglés de l'informatique (partie
+  3)](http://www.dailymotion.com/relevance/search/informatique/video/xwxwk_les-cingles-de-linformatique-part3_tech)
 
 Je vous laisse méditer sur cette pensée de Joseph Stiglitz, prix Nobel
 d'économie, dans une entrevue de Liberation:
@@ -74,7 +75,7 @@ d'économie, dans une entrevue de Liberation:
 > L'un des apôtres de la PI (ndm: Propriété intellectuelle), Bill Gates,
 > peut-il et défendre les brevets pour Microsoft et sa fondation pour l'accès à
 > la santé ?
-> 
+>
 > Gates, comme Rockfeller, utilise l'argent de son monopole illégal pour de
 > bonnes causes, mais cela ne justifie pas la culture du monopole. On peut
 > voler l'argent et le rendre aux pauvres, cela rend-il le délit moins mauvais

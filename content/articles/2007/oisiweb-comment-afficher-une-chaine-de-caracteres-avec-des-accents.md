@@ -50,14 +50,14 @@ Mais pourquoi diable doit-on se lier à GTK pour une appli non graphique, juste
 pour avoir des traces en français (besoin de mon employeur) ? Si quelqu'un a
 une réponse, ou un autre moyen, je suis preneur... **
 
-[Update 2:]{.underline}** Effectivement, comme l'indique Pascal dans les
+[**Update 2:**]{.underline} Effectivement, comme l'indique Pascal dans les
 commentaires, il semble que ce soit un appel à setlocale qui soit a cause de
 mes soucis. Comme l'indique la documentation de
 **[gtk_set_locale](http://developer.gnome.org/doc/API/2.0/gtk/gtk-General.html#id2537466),
 gtk_init** appelle **gtk_set_locale** qui appelle
 **[setlocale](http://www.linux-kheops.com/doc/man/manfr/man-html-0.9/man3/setlocale.3.html)(LC_ALL,
-"")**.**\** C'est cette dernière fonction qui va vérifier la locale utilisée,
-et ainsi affecter toutes les fonctions d'affichage.
+"")**. C'est cette dernière fonction qui va vérifier la locale utilisée, et
+ainsi affecter toutes les fonctions d'affichage.
 
 La version corrigée de mon programme de test est donc:
 

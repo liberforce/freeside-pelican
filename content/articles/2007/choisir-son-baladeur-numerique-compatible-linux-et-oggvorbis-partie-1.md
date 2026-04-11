@@ -35,7 +35,7 @@ plus prioritaire à la moins prioritaire:
 8.  Gère l'encodage [UTF-8](http://fr.wikipedia.org/wiki/UTF-8)
 9.  Utilise des piles plutôt qu'une batterie interne
 
-## Quelques justifications de ces besoins: ****
+## Quelques justifications de ces besoins:
 
 **Compatible Linux:** indispensable, ma copine a migré sous [Mandriva
 Linux](http://www.mandriva.com)/[GNOME](http://www.gnome.org)

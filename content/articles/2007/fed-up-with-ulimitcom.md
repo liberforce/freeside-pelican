@@ -24,6 +24,7 @@ free (as in freedom *and* beer) as possible, web and mail forwarding service.
 Do you know any (possibly France hosted, or with access in french as ulimit)?
 
 **Edit:** I've looked to the providers of that kind of service I know:
-*Dyndns.com*: MailHop Forward Lite for \$29.95 / year (5 accounts) *no-ip.com*:
-Mail Forwarding, \$34.95 / year (5 accounts) *uucpssh.org*: Free service
-closed, or 30€ / 6 months
+
+- *Dyndns.com*: MailHop Forward Lite for $29.95 / year (5 accounts)
+- *no-ip.com*: Mail Forwarding, $34.95 / year (5 accounts)
+- *uucpssh.org*: Free service closed, or 30€ / 6 months

@@ -25,10 +25,12 @@ do it. Now that my sister has a more recent computer, this one can be recycled.
 To have it working, I'm doing the following.
 
 **Step 1:** Recover existing personal data using the excellent [Slax Popcorn
-Live CD](http://www.slax.org/), and copy it on my USB key.  **Step 2:** Send
-her the 60MB file backup file using the free (of charge) service
-[Savefile.com](http://savefile.com/) to avoid blowing her mailbox **Step 3:**
-Run [badblocks
+Live CD](http://www.slax.org/), and copy it on my USB key.
+
+**Step 2:** Send her the 60MB file backup file using the free (of charge)
+service [Savefile.com](http://savefile.com/) to avoid blowing her mailbox
+
+**Step 3:** Run [badblocks
 -sw](http://man.linuxquestions.org/?query=badblocks&section=0&type=2) from the
 [System Rescue CD.](http://www.sysresccd.org/) Note that these options will
 erase all the data on disk, as this is a destructive test.

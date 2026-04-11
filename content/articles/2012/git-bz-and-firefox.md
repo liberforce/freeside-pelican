@@ -20,12 +20,14 @@ will get the cookie at the right location. When this fail however, I tend to
 check if I configured the right browser, or if I'm logged on
 bugzilla.gnome.org. And I am, but it still fails.
 
-``` Error getting login cookie from browser:    You don't appear to be signed
+```
+Error getting login cookie from browser:    You don't appear to be signed
 into bugzilla.gnome.org; please log in with Firefox
 
 Configured browser: firefox3 (change with 'git config --global bz.browser
 <value>') Possible browsers: chromium, epiphany, firefox3, galeon,
-google-chrome ```
+google-chrome
+```
 
 The problem is that with that message, I tend to focus on the configured
 browser, not in the cookie itself. And the problem is in the cookie. In fact my
