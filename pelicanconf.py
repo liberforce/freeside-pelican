@@ -106,5 +106,28 @@ LOAD_CONTENT_CACHE = True
 PLUGINS = [
     "pelican.plugins.pandoc_reader",
     "pelican.plugins.minify",
-    "sitemap",
+    "pelican.plugins.sitemap",
 ]
+
+#########
+# Sitemap
+#########
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.5,
+        "indexes": 0.5,
+        "pages": 0.5
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "monthly",
+        "pages": "monthly"
+    },
+    "exclude": [
+        "^/noindex/",
+        "tags/",
+        "categories/",
+        "author/",
+    ]
+}
