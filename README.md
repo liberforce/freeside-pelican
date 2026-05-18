@@ -38,3 +38,10 @@ Then to run the `build` command:
 ```bash
 uv run inv build
 ```
+
+# Publishing production blog
+
+```bash
+source publish.env  # Contains the required env variables to manage connection
+uv run inv preview publish
+```
