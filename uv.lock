@@ -146,6 +146,7 @@ dependencies = [
     { name = "pelican", extra = ["markdown"] },
     { name = "pelican-minify" },
     { name = "pelican-pandoc-reader" },
+    { name = "pelican-sitemap" },
 ]
 
 [package.dev-dependencies]
@@ -161,6 +162,7 @@ requires-dist = [
     { name = "pelican", extras = ["markdown"], specifier = ">=4.11.0.post0" },
     { name = "pelican-minify", specifier = ">=2.0.1" },
     { name = "pelican-pandoc-reader", specifier = ">=3.0.0" },
+    { name = "pelican-sitemap", specifier = ">=1.2.2" },
 ]
 
 [package.metadata.requires-dev]
@@ -457,6 +459,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/23/cb/4d27872d00d814f797fd2b31fe942dd17f0cbe7e5d75d5e64fbd954a6035/pelican_pandoc_reader-3.0.0.tar.gz", hash = "sha256:625764ca2bd088df92024e483d34b85567d101653620726b29e9354ee5979b49", size = 23729, upload-time = "2024-12-01T12:56:56.366Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/92/f8/f7a00105d64b5f8a719e8098573be5bfce4f0626f785a711b5ee34f57a75/pelican_pandoc_reader-3.0.0-py3-none-any.whl", hash = "sha256:80c42053e20f1c429ea0e9bd9b6c68a9abdc326ebbe2fe924bb5c730c7ea6a93", size = 42715, upload-time = "2024-12-01T12:56:46.235Z" },
+]
+
+[[package]]
+name = "pelican-sitemap"
+version = "1.2.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pelican" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/5c/c1/d9e1d539decfba947d711bcb37427ad15914557a728418bd928d56e58a32/pelican_sitemap-1.2.2.tar.gz", hash = "sha256:93f72d035dd0ec2f5cee38b2766bbd7f6a54bf186635ae1261a6deac422dcfb7", size = 8013, upload-time = "2025-10-12T15:24:36.727Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/68/c2/d2f98364b49a40bac9f315f29d8c22322b47bc4ebdec6a8e3a4f657ebc24/pelican_sitemap-1.2.2-py3-none-any.whl", hash = "sha256:09ba150dd1b54ef855f18e7ec920160d7118e932e0dac1c6e8bf3a41e938e682", size = 8046, upload-time = "2025-10-12T15:24:35.678Z" },
 ]
 
 [[package]]

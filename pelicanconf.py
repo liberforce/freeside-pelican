@@ -106,4 +106,5 @@ LOAD_CONTENT_CACHE = True
 PLUGINS = [
     "pelican.plugins.pandoc_reader",
     "pelican.plugins.minify",
+    "sitemap",
 ]
